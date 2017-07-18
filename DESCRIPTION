@@ -7,6 +7,7 @@ Maintainer: John Bryant <john.bryant@stats.govt.nz>
 Description: Confidentialised data about 16 New Zealand regions,
     by age, sex, and year.
 License: MIT + file LICENSE
+Depends: R (>= 2.10)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1

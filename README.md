@@ -1,7 +1,9 @@
 
 # nzreg
 
-Demographic data for New Zealand Regions.  
+Demographic data for New Zealand Regions.
+
+The data in these packages are designed methodological and software development.  They are neither definitive nor up-to-date.  For the most recent data, please see the [Stats NZ website](http://www.stats.govt.nz).  All data in the package have been confidentialised, following Stats NZ's standard confidentiality rules.
 
 Install `nzreg` from github with:
 ```{r, echo = FALSE}

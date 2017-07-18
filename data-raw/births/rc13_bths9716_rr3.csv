@@ -1,0 +1,4395 @@
+rc13,rc13desc,year,age_grp_mother,sex,count
+01,Northland Region,1997,15–19,Female,105
+01,Northland Region,1997,15–19,Male,123
+01,Northland Region,1997,20–24,Female,270
+01,Northland Region,1997,20–24,Male,258
+01,Northland Region,1997,25–29,Female,327
+01,Northland Region,1997,25–29,Male,327
+01,Northland Region,1997,30–34,Female,243
+01,Northland Region,1997,30–34,Male,267
+01,Northland Region,1997,35–39,Female,102
+01,Northland Region,1997,35–39,Male,102
+01,Northland Region,1997,40–44,Female,21
+01,Northland Region,1997,40–44,Male,12
+01,Northland Region,1997,45–49,Female,3
+01,Northland Region,1997,45–49,Male,0
+01,Northland Region,1998,15–19,Female,99
+01,Northland Region,1998,15–19,Male,114
+01,Northland Region,1998,20–24,Female,240
+01,Northland Region,1998,20–24,Male,261
+01,Northland Region,1998,25–29,Female,312
+01,Northland Region,1998,25–29,Male,333
+01,Northland Region,1998,30–34,Female,285
+01,Northland Region,1998,30–34,Male,276
+01,Northland Region,1998,35–39,Female,135
+01,Northland Region,1998,35–39,Male,126
+01,Northland Region,1998,40–44,Female,33
+01,Northland Region,1998,40–44,Male,30
+01,Northland Region,1998,45–49,Female,3
+01,Northland Region,1998,45–49,Male,0
+01,Northland Region,1999,15–19,Female,117
+01,Northland Region,1999,15–19,Male,108
+01,Northland Region,1999,20–24,Female,219
+01,Northland Region,1999,20–24,Male,264
+01,Northland Region,1999,25–29,Female,285
+01,Northland Region,1999,25–29,Male,306
+01,Northland Region,1999,30–34,Female,261
+01,Northland Region,1999,30–34,Male,279
+01,Northland Region,1999,35–39,Female,123
+01,Northland Region,1999,35–39,Male,129
+01,Northland Region,1999,40–44,Female,27
+01,Northland Region,1999,40–44,Male,27
+01,Northland Region,1999,45–49,Female,3
+01,Northland Region,1999,45–49,Male,3
+01,Northland Region,2000,15–19,Female,102
+01,Northland Region,2000,15–19,Male,114
+01,Northland Region,2000,20–24,Female,195
+01,Northland Region,2000,20–24,Male,264
+01,Northland Region,2000,25–29,Female,291
+01,Northland Region,2000,25–29,Male,315
+01,Northland Region,2000,30–34,Female,306
+01,Northland Region,2000,30–34,Male,282
+01,Northland Region,2000,35–39,Female,159
+01,Northland Region,2000,35–39,Male,141
+01,Northland Region,2000,40–44,Female,24
+01,Northland Region,2000,40–44,Male,24
+01,Northland Region,2000,45–49,Female,3
+01,Northland Region,2001,15–19,Female,90
+01,Northland Region,2001,15–19,Male,102
+01,Northland Region,2001,20–24,Female,219
+01,Northland Region,2001,20–24,Male,207
+01,Northland Region,2001,25–29,Female,258
+01,Northland Region,2001,25–29,Male,294
+01,Northland Region,2001,30–34,Female,261
+01,Northland Region,2001,30–34,Male,255
+01,Northland Region,2001,35–39,Female,126
+01,Northland Region,2001,35–39,Male,144
+01,Northland Region,2001,40–44,Female,30
+01,Northland Region,2001,40–44,Male,24
+01,Northland Region,2001,45–49,Female,3
+01,Northland Region,2001,45–49,Male,0
+01,Northland Region,2002,15–19,Female,99
+01,Northland Region,2002,15–19,Male,96
+01,Northland Region,2002,20–24,Female,189
+01,Northland Region,2002,20–24,Male,228
+01,Northland Region,2002,25–29,Female,264
+01,Northland Region,2002,25–29,Male,273
+01,Northland Region,2002,30–34,Female,264
+01,Northland Region,2002,30–34,Male,267
+01,Northland Region,2002,35–39,Female,117
+01,Northland Region,2002,35–39,Male,138
+01,Northland Region,2002,40–44,Female,24
+01,Northland Region,2002,40–44,Male,30
+01,Northland Region,2002,45–49,Female,0
+01,Northland Region,2002,45–49,Male,3
+01,Northland Region,2003,15–19,Female,96
+01,Northland Region,2003,15–19,Male,90
+01,Northland Region,2003,20–24,Female,198
+01,Northland Region,2003,20–24,Male,204
+01,Northland Region,2003,25–29,Female,246
+01,Northland Region,2003,25–29,Male,255
+01,Northland Region,2003,30–34,Female,225
+01,Northland Region,2003,30–34,Male,234
+01,Northland Region,2003,35–39,Female,153
+01,Northland Region,2003,35–39,Male,144
+01,Northland Region,2003,40–44,Female,42
+01,Northland Region,2003,40–44,Male,36
+01,Northland Region,2003,45–49,Female,3
+01,Northland Region,2003,45–49,Male,0
+01,Northland Region,2004,15–19,Female,111
+01,Northland Region,2004,15–19,Male,126
+01,Northland Region,2004,20–24,Female,225
+01,Northland Region,2004,20–24,Male,228
+01,Northland Region,2004,25–29,Female,258
+01,Northland Region,2004,25–29,Male,276
+01,Northland Region,2004,30–34,Female,252
+01,Northland Region,2004,30–34,Male,249
+01,Northland Region,2004,35–39,Female,132
+01,Northland Region,2004,35–39,Male,150
+01,Northland Region,2004,40–44,Female,48
+01,Northland Region,2004,40–44,Male,39
+01,Northland Region,2004,45–49,Male,6
+01,Northland Region,2005,15–19,Female,111
+01,Northland Region,2005,15–19,Male,120
+01,Northland Region,2005,20–24,Female,243
+01,Northland Region,2005,20–24,Male,207
+01,Northland Region,2005,25–29,Female,243
+01,Northland Region,2005,25–29,Male,243
+01,Northland Region,2005,30–34,Female,300
+01,Northland Region,2005,30–34,Male,291
+01,Northland Region,2005,35–39,Female,144
+01,Northland Region,2005,35–39,Male,126
+01,Northland Region,2005,40–44,Female,36
+01,Northland Region,2005,40–44,Male,36
+01,Northland Region,2005,45–49,Male,0
+01,Northland Region,2006,15–19,Female,114
+01,Northland Region,2006,15–19,Male,129
+01,Northland Region,2006,20–24,Female,213
+01,Northland Region,2006,20–24,Male,210
+01,Northland Region,2006,25–29,Female,246
+01,Northland Region,2006,25–29,Male,270
+01,Northland Region,2006,30–34,Female,285
+01,Northland Region,2006,30–34,Male,276
+01,Northland Region,2006,35–39,Female,135
+01,Northland Region,2006,35–39,Male,165
+01,Northland Region,2006,40–44,Female,36
+01,Northland Region,2006,40–44,Male,36
+01,Northland Region,2006,45–49,Female,3
+01,Northland Region,2006,45–49,Male,0
+01,Northland Region,2007,15–19,Female,135
+01,Northland Region,2007,15–19,Male,132
+01,Northland Region,2007,20–24,Female,249
+01,Northland Region,2007,20–24,Male,228
+01,Northland Region,2007,25–29,Female,264
+01,Northland Region,2007,25–29,Male,300
+01,Northland Region,2007,30–34,Female,282
+01,Northland Region,2007,30–34,Male,276
+01,Northland Region,2007,35–39,Female,168
+01,Northland Region,2007,35–39,Male,168
+01,Northland Region,2007,40–44,Female,42
+01,Northland Region,2007,40–44,Male,39
+01,Northland Region,2007,45–49,Female,3
+01,Northland Region,2007,45–49,Male,0
+01,Northland Region,2008,15–19,Female,123
+01,Northland Region,2008,15–19,Male,135
+01,Northland Region,2008,20–24,Female,246
+01,Northland Region,2008,20–24,Male,267
+01,Northland Region,2008,25–29,Female,252
+01,Northland Region,2008,25–29,Male,291
+01,Northland Region,2008,30–34,Female,273
+01,Northland Region,2008,30–34,Male,276
+01,Northland Region,2008,35–39,Female,156
+01,Northland Region,2008,35–39,Male,177
+01,Northland Region,2008,40–44,Female,30
+01,Northland Region,2008,40–44,Male,39
+01,Northland Region,2008,45–49,Female,6
+01,Northland Region,2008,45–49,Male,0
+01,Northland Region,2009,15–19,Female,123
+01,Northland Region,2009,15–19,Male,129
+01,Northland Region,2009,20–24,Female,246
+01,Northland Region,2009,20–24,Male,297
+01,Northland Region,2009,25–29,Female,279
+01,Northland Region,2009,25–29,Male,291
+01,Northland Region,2009,30–34,Female,234
+01,Northland Region,2009,30–34,Male,261
+01,Northland Region,2009,35–39,Female,153
+01,Northland Region,2009,35–39,Male,165
+01,Northland Region,2009,40–44,Female,39
+01,Northland Region,2009,40–44,Male,39
+01,Northland Region,2009,45–49,Female,3
+01,Northland Region,2009,45–49,Male,3
+01,Northland Region,2010,15–19,Female,129
+01,Northland Region,2010,15–19,Male,141
+01,Northland Region,2010,20–24,Female,273
+01,Northland Region,2010,20–24,Male,300
+01,Northland Region,2010,25–29,Female,264
+01,Northland Region,2010,25–29,Male,297
+01,Northland Region,2010,30–34,Female,237
+01,Northland Region,2010,30–34,Male,261
+01,Northland Region,2010,35–39,Female,159
+01,Northland Region,2010,35–39,Male,174
+01,Northland Region,2010,40–44,Female,57
+01,Northland Region,2010,40–44,Male,39
+01,Northland Region,2010,45–49,Female,3
+01,Northland Region,2010,45–49,Male,0
+01,Northland Region,2011,15–19,Female,138
+01,Northland Region,2011,15–19,Male,147
+01,Northland Region,2011,20–24,Female,276
+01,Northland Region,2011,20–24,Male,294
+01,Northland Region,2011,25–29,Female,252
+01,Northland Region,2011,25–29,Male,297
+01,Northland Region,2011,30–34,Female,252
+01,Northland Region,2011,30–34,Male,273
+01,Northland Region,2011,35–39,Female,165
+01,Northland Region,2011,35–39,Male,144
+01,Northland Region,2011,40–44,Female,33
+01,Northland Region,2011,40–44,Male,39
+01,Northland Region,2011,45–49,Female,3
+01,Northland Region,2011,45–49,Male,6
+01,Northland Region,2012,15–19,Female,117
+01,Northland Region,2012,15–19,Male,117
+01,Northland Region,2012,20–24,Female,294
+01,Northland Region,2012,20–24,Male,309
+01,Northland Region,2012,25–29,Female,279
+01,Northland Region,2012,25–29,Male,279
+01,Northland Region,2012,30–34,Female,225
+01,Northland Region,2012,30–34,Male,261
+01,Northland Region,2012,35–39,Female,153
+01,Northland Region,2012,35–39,Male,156
+01,Northland Region,2012,40–44,Female,33
+01,Northland Region,2012,40–44,Male,33
+01,Northland Region,2012,45–49,Female,3
+01,Northland Region,2012,45–49,Male,3
+01,Northland Region,2013,15–19,Female,108
+01,Northland Region,2013,15–19,Male,123
+01,Northland Region,2013,20–24,Female,261
+01,Northland Region,2013,20–24,Male,309
+01,Northland Region,2013,25–29,Female,267
+01,Northland Region,2013,25–29,Male,285
+01,Northland Region,2013,30–34,Female,228
+01,Northland Region,2013,30–34,Male,222
+01,Northland Region,2013,35–39,Female,177
+01,Northland Region,2013,35–39,Male,159
+01,Northland Region,2013,40–44,Female,45
+01,Northland Region,2013,40–44,Male,42
+01,Northland Region,2013,45–49,Female,0
+01,Northland Region,2013,45–49,Male,3
+01,Northland Region,2014,15–19,Female,93
+01,Northland Region,2014,15–19,Male,114
+01,Northland Region,2014,20–24,Female,267
+01,Northland Region,2014,20–24,Male,273
+01,Northland Region,2014,25–29,Female,309
+01,Northland Region,2014,25–29,Male,270
+01,Northland Region,2014,30–34,Female,201
+01,Northland Region,2014,30–34,Male,243
+01,Northland Region,2014,35–39,Female,114
+01,Northland Region,2014,35–39,Male,129
+01,Northland Region,2014,40–44,Female,54
+01,Northland Region,2014,40–44,Male,48
+01,Northland Region,2014,45–49,Female,3
+01,Northland Region,2014,45–49,Male,3
+01,Northland Region,2015,15–19,Female,81
+01,Northland Region,2015,15–19,Male,90
+01,Northland Region,2015,20–24,Female,243
+01,Northland Region,2015,20–24,Male,264
+01,Northland Region,2015,25–29,Female,312
+01,Northland Region,2015,25–29,Male,324
+01,Northland Region,2015,30–34,Female,225
+01,Northland Region,2015,30–34,Male,234
+01,Northland Region,2015,35–39,Female,132
+01,Northland Region,2015,35–39,Male,141
+01,Northland Region,2015,40–44,Female,36
+01,Northland Region,2015,40–44,Male,36
+01,Northland Region,2015,45–49,Female,3
+01,Northland Region,2016,15–19,Female,81
+01,Northland Region,2016,15–19,Male,81
+01,Northland Region,2016,20–24,Female,267
+01,Northland Region,2016,20–24,Male,237
+01,Northland Region,2016,25–29,Female,294
+01,Northland Region,2016,25–29,Male,309
+01,Northland Region,2016,30–34,Female,261
+01,Northland Region,2016,30–34,Male,267
+01,Northland Region,2016,35–39,Female,120
+01,Northland Region,2016,35–39,Male,147
+01,Northland Region,2016,40–44,Female,42
+01,Northland Region,2016,40–44,Male,27
+01,Northland Region,2016,45–49,Female,3
+01,Northland Region,2016,45–49,Male,3
+02,Auckland Region,1997,15–19,Female,588
+02,Auckland Region,1997,15–19,Male,663
+02,Auckland Region,1997,20–24,Female,1614
+02,Auckland Region,1997,20–24,Male,1683
+02,Auckland Region,1997,25–29,Female,2814
+02,Auckland Region,1997,25–29,Male,2805
+02,Auckland Region,1997,30–34,Female,2853
+02,Auckland Region,1997,30–34,Male,2928
+02,Auckland Region,1997,35–39,Female,1236
+02,Auckland Region,1997,35–39,Male,1350
+02,Auckland Region,1997,40–44,Female,228
+02,Auckland Region,1997,40–44,Male,240
+02,Auckland Region,1997,45–49,Female,9
+02,Auckland Region,1997,45–49,Male,9
+02,Auckland Region,1998,15–19,Female,579
+02,Auckland Region,1998,15–19,Male,597
+02,Auckland Region,1998,20–24,Female,1506
+02,Auckland Region,1998,20–24,Male,1686
+02,Auckland Region,1998,25–29,Female,2559
+02,Auckland Region,1998,25–29,Male,2730
+02,Auckland Region,1998,30–34,Female,2805
+02,Auckland Region,1998,30–34,Male,3054
+02,Auckland Region,1998,35–39,Female,1332
+02,Auckland Region,1998,35–39,Male,1458
+02,Auckland Region,1998,40–44,Female,228
+02,Auckland Region,1998,40–44,Male,225
+02,Auckland Region,1998,45–49,Female,6
+02,Auckland Region,1998,45–49,Male,9
+02,Auckland Region,1999,15–19,Female,534
+02,Auckland Region,1999,15–19,Male,576
+02,Auckland Region,1999,20–24,Female,1470
+02,Auckland Region,1999,20–24,Male,1605
+02,Auckland Region,1999,25–29,Female,2679
+02,Auckland Region,1999,25–29,Male,2688
+02,Auckland Region,1999,30–34,Female,2841
+02,Auckland Region,1999,30–34,Male,3009
+02,Auckland Region,1999,35–39,Female,1443
+02,Auckland Region,1999,35–39,Male,1575
+02,Auckland Region,1999,40–44,Female,240
+02,Auckland Region,1999,40–44,Male,255
+02,Auckland Region,1999,45–49,Female,9
+02,Auckland Region,1999,45–49,Male,18
+02,Auckland Region,2000,15–19,Female,558
+02,Auckland Region,2000,15–19,Male,597
+02,Auckland Region,2000,20–24,Female,1629
+02,Auckland Region,2000,20–24,Male,1602
+02,Auckland Region,2000,25–29,Female,2616
+02,Auckland Region,2000,25–29,Male,2712
+02,Auckland Region,2000,30–34,Female,3084
+02,Auckland Region,2000,30–34,Male,3291
+02,Auckland Region,2000,35–39,Female,1602
+02,Auckland Region,2000,35–39,Male,1725
+02,Auckland Region,2000,40–44,Female,276
+02,Auckland Region,2000,40–44,Male,279
+02,Auckland Region,2000,45–49,Female,12
+02,Auckland Region,2000,45–49,Male,9
+02,Auckland Region,2001,15–19,Female,564
+02,Auckland Region,2001,15–19,Male,549
+02,Auckland Region,2001,20–24,Female,1560
+02,Auckland Region,2001,20–24,Male,1716
+02,Auckland Region,2001,25–29,Female,2517
+02,Auckland Region,2001,25–29,Male,2694
+02,Auckland Region,2001,30–34,Female,2985
+02,Auckland Region,2001,30–34,Male,3201
+02,Auckland Region,2001,35–39,Female,1665
+02,Auckland Region,2001,35–39,Male,1584
+02,Auckland Region,2001,40–44,Female,303
+02,Auckland Region,2001,40–44,Male,309
+02,Auckland Region,2001,45–49,Female,21
+02,Auckland Region,2001,45–49,Male,12
+02,Auckland Region,2002,15–19,Female,558
+02,Auckland Region,2002,15–19,Male,525
+02,Auckland Region,2002,20–24,Female,1494
+02,Auckland Region,2002,20–24,Male,1632
+02,Auckland Region,2002,25–29,Female,2427
+02,Auckland Region,2002,25–29,Male,2352
+02,Auckland Region,2002,30–34,Female,2991
+02,Auckland Region,2002,30–34,Male,3021
+02,Auckland Region,2002,35–39,Female,1572
+02,Auckland Region,2002,35–39,Male,1686
+02,Auckland Region,2002,40–44,Female,345
+02,Auckland Region,2002,40–44,Male,333
+02,Auckland Region,2002,45–49,Female,15
+02,Auckland Region,2002,45–49,Male,9
+02,Auckland Region,2003,15–19,Female,504
+02,Auckland Region,2003,15–19,Male,540
+02,Auckland Region,2003,20–24,Female,1524
+02,Auckland Region,2003,20–24,Male,1617
+02,Auckland Region,2003,25–29,Female,2400
+02,Auckland Region,2003,25–29,Male,2541
+02,Auckland Region,2003,30–34,Female,3081
+02,Auckland Region,2003,30–34,Male,3315
+02,Auckland Region,2003,35–39,Female,1698
+02,Auckland Region,2003,35–39,Male,1887
+02,Auckland Region,2003,40–44,Female,342
+02,Auckland Region,2003,40–44,Male,399
+02,Auckland Region,2003,45–49,Female,12
+02,Auckland Region,2003,45–49,Male,24
+02,Auckland Region,2004,15–19,Female,573
+02,Auckland Region,2004,15–19,Male,624
+02,Auckland Region,2004,20–24,Female,1599
+02,Auckland Region,2004,20–24,Male,1653
+02,Auckland Region,2004,25–29,Female,2499
+02,Auckland Region,2004,25–29,Male,2616
+02,Auckland Region,2004,30–34,Female,3234
+02,Auckland Region,2004,30–34,Male,3513
+02,Auckland Region,2004,35–39,Female,1848
+02,Auckland Region,2004,35–39,Male,1884
+02,Auckland Region,2004,40–44,Female,414
+02,Auckland Region,2004,40–44,Male,393
+02,Auckland Region,2004,45–49,Female,18
+02,Auckland Region,2004,45–49,Male,15
+02,Auckland Region,2005,15–19,Female,582
+02,Auckland Region,2005,15–19,Male,627
+02,Auckland Region,2005,20–24,Female,1611
+02,Auckland Region,2005,20–24,Male,1674
+02,Auckland Region,2005,25–29,Female,2340
+02,Auckland Region,2005,25–29,Male,2559
+02,Auckland Region,2005,30–34,Female,3249
+02,Auckland Region,2005,30–34,Male,3465
+02,Auckland Region,2005,35–39,Female,1911
+02,Auckland Region,2005,35–39,Male,2025
+02,Auckland Region,2005,40–44,Female,387
+02,Auckland Region,2005,40–44,Male,414
+02,Auckland Region,2005,45–49,Female,15
+02,Auckland Region,2005,45–49,Male,18
+02,Auckland Region,2006,15–19,Female,585
+02,Auckland Region,2006,15–19,Male,618
+02,Auckland Region,2006,20–24,Female,1626
+02,Auckland Region,2006,20–24,Male,1764
+02,Auckland Region,2006,25–29,Female,2361
+02,Auckland Region,2006,25–29,Male,2523
+02,Auckland Region,2006,30–34,Female,3240
+02,Auckland Region,2006,30–34,Male,3411
+02,Auckland Region,2006,35–39,Female,1947
+02,Auckland Region,2006,35–39,Male,2088
+02,Auckland Region,2006,40–44,Female,414
+02,Auckland Region,2006,40–44,Male,390
+02,Auckland Region,2006,45–49,Female,21
+02,Auckland Region,2006,45–49,Male,18
+02,Auckland Region,2007,15–19,Female,678
+02,Auckland Region,2007,15–19,Male,750
+02,Auckland Region,2007,20–24,Female,1782
+02,Auckland Region,2007,20–24,Male,1923
+02,Auckland Region,2007,25–29,Female,2595
+02,Auckland Region,2007,25–29,Male,2709
+02,Auckland Region,2007,30–34,Female,3207
+02,Auckland Region,2007,30–34,Male,3447
+02,Auckland Region,2007,35–39,Female,2070
+02,Auckland Region,2007,35–39,Male,2169
+02,Auckland Region,2007,40–44,Female,444
+02,Auckland Region,2007,40–44,Male,453
+02,Auckland Region,2007,45–49,Female,30
+02,Auckland Region,2007,45–49,Male,24
+02,Auckland Region,2008,15–19,Female,711
+02,Auckland Region,2008,15–19,Male,840
+02,Auckland Region,2008,20–24,Female,1791
+02,Auckland Region,2008,20–24,Male,2007
+02,Auckland Region,2008,25–29,Female,2700
+02,Auckland Region,2008,25–29,Male,2943
+02,Auckland Region,2008,30–34,Female,3351
+02,Auckland Region,2008,30–34,Male,3519
+02,Auckland Region,2008,35–39,Female,2304
+02,Auckland Region,2008,35–39,Male,2373
+02,Auckland Region,2008,40–44,Female,486
+02,Auckland Region,2008,40–44,Male,471
+02,Auckland Region,2008,45–49,Female,21
+02,Auckland Region,2008,45–49,Male,27
+02,Auckland Region,2009,15–19,Female,744
+02,Auckland Region,2009,15–19,Male,813
+02,Auckland Region,2009,20–24,Female,1878
+02,Auckland Region,2009,20–24,Male,1959
+02,Auckland Region,2009,25–29,Female,2601
+02,Auckland Region,2009,25–29,Male,2850
+02,Auckland Region,2009,30–34,Female,3123
+02,Auckland Region,2009,30–34,Male,3123
+02,Auckland Region,2009,35–39,Female,2034
+02,Auckland Region,2009,35–39,Male,2304
+02,Auckland Region,2009,40–44,Female,459
+02,Auckland Region,2009,40–44,Male,513
+02,Auckland Region,2009,45–49,Female,24
+02,Auckland Region,2009,45–49,Male,18
+02,Auckland Region,2010,15–19,Female,687
+02,Auckland Region,2010,15–19,Male,786
+02,Auckland Region,2010,20–24,Female,1932
+02,Auckland Region,2010,20–24,Male,1944
+02,Auckland Region,2010,25–29,Female,2880
+02,Auckland Region,2010,25–29,Male,2979
+02,Auckland Region,2010,30–34,Female,3252
+02,Auckland Region,2010,30–34,Male,3453
+02,Auckland Region,2010,35–39,Female,2115
+02,Auckland Region,2010,35–39,Male,2328
+02,Auckland Region,2010,40–44,Female,462
+02,Auckland Region,2010,40–44,Male,510
+02,Auckland Region,2010,45–49,Female,18
+02,Auckland Region,2010,45–49,Male,18
+02,Auckland Region,2011,15–19,Female,651
+02,Auckland Region,2011,15–19,Male,666
+02,Auckland Region,2011,20–24,Female,1887
+02,Auckland Region,2011,20–24,Male,1974
+02,Auckland Region,2011,25–29,Female,2778
+02,Auckland Region,2011,25–29,Male,2910
+02,Auckland Region,2011,30–34,Female,3243
+02,Auckland Region,2011,30–34,Male,3420
+02,Auckland Region,2011,35–39,Female,2094
+02,Auckland Region,2011,35–39,Male,2172
+02,Auckland Region,2011,40–44,Female,477
+02,Auckland Region,2011,40–44,Male,531
+02,Auckland Region,2011,45–49,Female,21
+02,Auckland Region,2011,45–49,Male,21
+02,Auckland Region,2012,15–19,Female,591
+02,Auckland Region,2012,15–19,Male,639
+02,Auckland Region,2012,20–24,Female,1809
+02,Auckland Region,2012,20–24,Male,1956
+02,Auckland Region,2012,25–29,Female,2808
+02,Auckland Region,2012,25–29,Male,2928
+02,Auckland Region,2012,30–34,Female,3297
+02,Auckland Region,2012,30–34,Male,3486
+02,Auckland Region,2012,35–39,Female,2064
+02,Auckland Region,2012,35–39,Male,2199
+02,Auckland Region,2012,40–44,Female,495
+02,Auckland Region,2012,40–44,Male,495
+02,Auckland Region,2012,45–49,Female,21
+02,Auckland Region,2012,45–49,Male,33
+02,Auckland Region,2013,15–19,Female,546
+02,Auckland Region,2013,15–19,Male,531
+02,Auckland Region,2013,20–24,Female,1725
+02,Auckland Region,2013,20–24,Male,1878
+02,Auckland Region,2013,25–29,Female,2829
+02,Auckland Region,2013,25–29,Male,2934
+02,Auckland Region,2013,30–34,Female,3342
+02,Auckland Region,2013,30–34,Male,3486
+02,Auckland Region,2013,35–39,Female,1983
+02,Auckland Region,2013,35–39,Male,2028
+02,Auckland Region,2013,40–44,Female,465
+02,Auckland Region,2013,40–44,Male,531
+02,Auckland Region,2013,45–49,Female,15
+02,Auckland Region,2013,45–49,Male,30
+02,Auckland Region,2014,15–19,Female,507
+02,Auckland Region,2014,15–19,Male,465
+02,Auckland Region,2014,20–24,Female,1587
+02,Auckland Region,2014,20–24,Male,1761
+02,Auckland Region,2014,25–29,Female,2607
+02,Auckland Region,2014,25–29,Male,2838
+02,Auckland Region,2014,30–34,Female,3387
+02,Auckland Region,2014,30–34,Male,3498
+02,Auckland Region,2014,35–39,Female,1896
+02,Auckland Region,2014,35–39,Male,2181
+02,Auckland Region,2014,40–44,Female,462
+02,Auckland Region,2014,40–44,Male,537
+02,Auckland Region,2014,45–49,Female,36
+02,Auckland Region,2014,45–49,Male,24
+02,Auckland Region,2015,15–19,Female,417
+02,Auckland Region,2015,15–19,Male,462
+02,Auckland Region,2015,20–24,Female,1596
+02,Auckland Region,2015,20–24,Male,1683
+02,Auckland Region,2015,25–29,Female,2742
+02,Auckland Region,2015,25–29,Male,2943
+02,Auckland Region,2015,30–34,Female,3639
+02,Auckland Region,2015,30–34,Male,3735
+02,Auckland Region,2015,35–39,Female,1914
+02,Auckland Region,2015,35–39,Male,2172
+02,Auckland Region,2015,40–44,Female,486
+02,Auckland Region,2015,40–44,Male,516
+02,Auckland Region,2015,45–49,Female,21
+02,Auckland Region,2015,45–49,Male,30
+02,Auckland Region,2016,15–19,Female,366
+02,Auckland Region,2016,15–19,Male,369
+02,Auckland Region,2016,20–24,Female,1449
+02,Auckland Region,2016,20–24,Male,1593
+02,Auckland Region,2016,25–29,Female,2808
+02,Auckland Region,2016,25–29,Male,2838
+02,Auckland Region,2016,30–34,Female,3408
+02,Auckland Region,2016,30–34,Male,3651
+02,Auckland Region,2016,35–39,Female,1926
+02,Auckland Region,2016,35–39,Male,2031
+02,Auckland Region,2016,40–44,Female,420
+02,Auckland Region,2016,40–44,Male,477
+02,Auckland Region,2016,45–49,Female,21
+02,Auckland Region,2016,45–49,Male,30
+03,Waikato Region,1997,15–19,Female,231
+03,Waikato Region,1997,15–19,Male,294
+03,Waikato Region,1997,20–24,Female,630
+03,Waikato Region,1997,20–24,Male,669
+03,Waikato Region,1997,25–29,Female,861
+03,Waikato Region,1997,25–29,Male,903
+03,Waikato Region,1997,30–34,Female,684
+03,Waikato Region,1997,30–34,Male,771
+03,Waikato Region,1997,35–39,Female,309
+03,Waikato Region,1997,35–39,Male,288
+03,Waikato Region,1997,40–44,Female,54
+03,Waikato Region,1997,40–44,Male,39
+03,Waikato Region,1997,45–49,Female,3
+03,Waikato Region,1998,15–19,Female,255
+03,Waikato Region,1998,15–19,Male,249
+03,Waikato Region,1998,20–24,Female,582
+03,Waikato Region,1998,20–24,Male,627
+03,Waikato Region,1998,25–29,Female,840
+03,Waikato Region,1998,25–29,Male,891
+03,Waikato Region,1998,30–34,Female,738
+03,Waikato Region,1998,30–34,Male,762
+03,Waikato Region,1998,35–39,Female,267
+03,Waikato Region,1998,35–39,Male,342
+03,Waikato Region,1998,40–44,Female,72
+03,Waikato Region,1998,40–44,Male,42
+03,Waikato Region,1998,45–49,Male,3
+03,Waikato Region,1999,15–19,Female,216
+03,Waikato Region,1999,15–19,Male,279
+03,Waikato Region,1999,20–24,Female,561
+03,Waikato Region,1999,20–24,Male,585
+03,Waikato Region,1999,25–29,Female,882
+03,Waikato Region,1999,25–29,Male,900
+03,Waikato Region,1999,30–34,Female,720
+03,Waikato Region,1999,30–34,Male,807
+03,Waikato Region,1999,35–39,Female,255
+03,Waikato Region,1999,35–39,Male,348
+03,Waikato Region,1999,40–44,Female,54
+03,Waikato Region,1999,40–44,Male,51
+03,Waikato Region,1999,45–49,Female,3
+03,Waikato Region,1999,45–49,Male,3
+03,Waikato Region,2000,15–19,Female,225
+03,Waikato Region,2000,15–19,Male,240
+03,Waikato Region,2000,20–24,Female,573
+03,Waikato Region,2000,20–24,Male,588
+03,Waikato Region,2000,25–29,Female,855
+03,Waikato Region,2000,25–29,Male,810
+03,Waikato Region,2000,30–34,Female,783
+03,Waikato Region,2000,30–34,Male,816
+03,Waikato Region,2000,35–39,Female,360
+03,Waikato Region,2000,35–39,Male,336
+03,Waikato Region,2000,40–44,Female,66
+03,Waikato Region,2000,40–44,Male,57
+03,Waikato Region,2000,45–49,Female,3
+03,Waikato Region,2000,45–49,Male,3
+03,Waikato Region,2001,15–19,Female,213
+03,Waikato Region,2001,15–19,Male,252
+03,Waikato Region,2001,20–24,Female,480
+03,Waikato Region,2001,20–24,Male,564
+03,Waikato Region,2001,25–29,Female,774
+03,Waikato Region,2001,25–29,Male,801
+03,Waikato Region,2001,30–34,Female,753
+03,Waikato Region,2001,30–34,Male,759
+03,Waikato Region,2001,35–39,Female,336
+03,Waikato Region,2001,35–39,Male,336
+03,Waikato Region,2001,40–44,Female,57
+03,Waikato Region,2001,40–44,Male,66
+03,Waikato Region,2001,45–49,Female,0
+03,Waikato Region,2001,45–49,Male,0
+03,Waikato Region,2002,15–19,Female,189
+03,Waikato Region,2002,15–19,Male,213
+03,Waikato Region,2002,20–24,Female,486
+03,Waikato Region,2002,20–24,Male,531
+03,Waikato Region,2002,25–29,Female,732
+03,Waikato Region,2002,25–29,Male,723
+03,Waikato Region,2002,30–34,Female,792
+03,Waikato Region,2002,30–34,Male,801
+03,Waikato Region,2002,35–39,Female,357
+03,Waikato Region,2002,35–39,Male,333
+03,Waikato Region,2002,40–44,Female,75
+03,Waikato Region,2002,40–44,Male,63
+03,Waikato Region,2002,45–49,Female,3
+03,Waikato Region,2003,15–19,Female,219
+03,Waikato Region,2003,15–19,Male,252
+03,Waikato Region,2003,20–24,Female,510
+03,Waikato Region,2003,20–24,Male,546
+03,Waikato Region,2003,25–29,Female,681
+03,Waikato Region,2003,25–29,Male,735
+03,Waikato Region,2003,30–34,Female,747
+03,Waikato Region,2003,30–34,Male,765
+03,Waikato Region,2003,35–39,Female,345
+03,Waikato Region,2003,35–39,Male,354
+03,Waikato Region,2003,40–44,Female,75
+03,Waikato Region,2003,40–44,Male,75
+03,Waikato Region,2003,45–49,Female,3
+03,Waikato Region,2003,45–49,Male,3
+03,Waikato Region,2004,15–19,Female,264
+03,Waikato Region,2004,15–19,Male,252
+03,Waikato Region,2004,20–24,Female,552
+03,Waikato Region,2004,20–24,Male,519
+03,Waikato Region,2004,25–29,Female,720
+03,Waikato Region,2004,25–29,Male,690
+03,Waikato Region,2004,30–34,Female,852
+03,Waikato Region,2004,30–34,Male,828
+03,Waikato Region,2004,35–39,Female,363
+03,Waikato Region,2004,35–39,Male,384
+03,Waikato Region,2004,40–44,Female,66
+03,Waikato Region,2004,40–44,Male,90
+03,Waikato Region,2004,45–49,Female,9
+03,Waikato Region,2004,45–49,Male,3
+03,Waikato Region,2005,15–19,Female,228
+03,Waikato Region,2005,15–19,Male,258
+03,Waikato Region,2005,20–24,Female,543
+03,Waikato Region,2005,20–24,Male,570
+03,Waikato Region,2005,25–29,Female,753
+03,Waikato Region,2005,25–29,Male,741
+03,Waikato Region,2005,30–34,Female,822
+03,Waikato Region,2005,30–34,Male,789
+03,Waikato Region,2005,35–39,Female,393
+03,Waikato Region,2005,35–39,Male,390
+03,Waikato Region,2005,40–44,Female,75
+03,Waikato Region,2005,40–44,Male,81
+03,Waikato Region,2005,45–49,Female,9
+03,Waikato Region,2005,45–49,Male,3
+03,Waikato Region,2006,15–19,Female,231
+03,Waikato Region,2006,15–19,Male,267
+03,Waikato Region,2006,20–24,Female,528
+03,Waikato Region,2006,20–24,Male,609
+03,Waikato Region,2006,25–29,Female,651
+03,Waikato Region,2006,25–29,Male,729
+03,Waikato Region,2006,30–34,Female,756
+03,Waikato Region,2006,30–34,Male,771
+03,Waikato Region,2006,35–39,Female,435
+03,Waikato Region,2006,35–39,Male,405
+03,Waikato Region,2006,40–44,Female,87
+03,Waikato Region,2006,40–44,Male,66
+03,Waikato Region,2006,45–49,Female,6
+03,Waikato Region,2006,45–49,Male,3
+03,Waikato Region,2007,15–19,Female,249
+03,Waikato Region,2007,15–19,Male,276
+03,Waikato Region,2007,20–24,Female,615
+03,Waikato Region,2007,20–24,Male,600
+03,Waikato Region,2007,25–29,Female,741
+03,Waikato Region,2007,25–29,Male,744
+03,Waikato Region,2007,30–34,Female,840
+03,Waikato Region,2007,30–34,Male,828
+03,Waikato Region,2007,35–39,Female,420
+03,Waikato Region,2007,35–39,Male,429
+03,Waikato Region,2007,40–44,Female,78
+03,Waikato Region,2007,40–44,Male,96
+03,Waikato Region,2007,45–49,Female,6
+03,Waikato Region,2007,45–49,Male,6
+03,Waikato Region,2008,15–19,Female,291
+03,Waikato Region,2008,15–19,Male,348
+03,Waikato Region,2008,20–24,Female,624
+03,Waikato Region,2008,20–24,Male,687
+03,Waikato Region,2008,25–29,Female,780
+03,Waikato Region,2008,25–29,Male,804
+03,Waikato Region,2008,30–34,Female,795
+03,Waikato Region,2008,30–34,Male,792
+03,Waikato Region,2008,35–39,Female,438
+03,Waikato Region,2008,35–39,Male,471
+03,Waikato Region,2008,40–44,Female,111
+03,Waikato Region,2008,40–44,Male,84
+03,Waikato Region,2008,45–49,Female,6
+03,Waikato Region,2008,45–49,Male,6
+03,Waikato Region,2009,15–19,Female,288
+03,Waikato Region,2009,15–19,Male,321
+03,Waikato Region,2009,20–24,Female,642
+03,Waikato Region,2009,20–24,Male,705
+03,Waikato Region,2009,25–29,Female,813
+03,Waikato Region,2009,25–29,Male,858
+03,Waikato Region,2009,30–34,Female,759
+03,Waikato Region,2009,30–34,Male,816
+03,Waikato Region,2009,35–39,Female,453
+03,Waikato Region,2009,35–39,Male,519
+03,Waikato Region,2009,40–44,Female,75
+03,Waikato Region,2009,40–44,Male,99
+03,Waikato Region,2009,45–49,Female,9
+03,Waikato Region,2009,45–49,Male,6
+03,Waikato Region,2010,15–19,Female,264
+03,Waikato Region,2010,15–19,Male,279
+03,Waikato Region,2010,20–24,Female,654
+03,Waikato Region,2010,20–24,Male,681
+03,Waikato Region,2010,25–29,Female,810
+03,Waikato Region,2010,25–29,Male,864
+03,Waikato Region,2010,30–34,Female,762
+03,Waikato Region,2010,30–34,Male,819
+03,Waikato Region,2010,35–39,Female,435
+03,Waikato Region,2010,35–39,Male,465
+03,Waikato Region,2010,40–44,Female,102
+03,Waikato Region,2010,40–44,Male,90
+03,Waikato Region,2010,45–49,Female,6
+03,Waikato Region,2010,45–49,Male,9
+03,Waikato Region,2011,15–19,Female,240
+03,Waikato Region,2011,15–19,Male,273
+03,Waikato Region,2011,20–24,Female,594
+03,Waikato Region,2011,20–24,Male,675
+03,Waikato Region,2011,25–29,Female,807
+03,Waikato Region,2011,25–29,Male,870
+03,Waikato Region,2011,30–34,Female,741
+03,Waikato Region,2011,30–34,Male,831
+03,Waikato Region,2011,35–39,Female,432
+03,Waikato Region,2011,35–39,Male,435
+03,Waikato Region,2011,40–44,Female,84
+03,Waikato Region,2011,40–44,Male,99
+03,Waikato Region,2011,45–49,Female,3
+03,Waikato Region,2011,45–49,Male,9
+03,Waikato Region,2012,15–19,Female,234
+03,Waikato Region,2012,15–19,Male,276
+03,Waikato Region,2012,20–24,Female,636
+03,Waikato Region,2012,20–24,Male,669
+03,Waikato Region,2012,25–29,Female,813
+03,Waikato Region,2012,25–29,Male,819
+03,Waikato Region,2012,30–34,Female,720
+03,Waikato Region,2012,30–34,Male,765
+03,Waikato Region,2012,35–39,Female,399
+03,Waikato Region,2012,35–39,Male,435
+03,Waikato Region,2012,40–44,Female,111
+03,Waikato Region,2012,40–44,Male,111
+03,Waikato Region,2012,45–49,Female,6
+03,Waikato Region,2012,45–49,Male,6
+03,Waikato Region,2013,15–19,Female,198
+03,Waikato Region,2013,15–19,Male,204
+03,Waikato Region,2013,20–24,Female,654
+03,Waikato Region,2013,20–24,Male,654
+03,Waikato Region,2013,25–29,Female,843
+03,Waikato Region,2013,25–29,Male,837
+03,Waikato Region,2013,30–34,Female,720
+03,Waikato Region,2013,30–34,Male,777
+03,Waikato Region,2013,35–39,Female,405
+03,Waikato Region,2013,35–39,Male,399
+03,Waikato Region,2013,40–44,Female,69
+03,Waikato Region,2013,40–44,Male,84
+03,Waikato Region,2013,45–49,Female,6
+03,Waikato Region,2013,45–49,Male,6
+03,Waikato Region,2014,15–19,Female,165
+03,Waikato Region,2014,15–19,Male,198
+03,Waikato Region,2014,20–24,Female,615
+03,Waikato Region,2014,20–24,Male,663
+03,Waikato Region,2014,25–29,Female,801
+03,Waikato Region,2014,25–29,Male,834
+03,Waikato Region,2014,30–34,Female,753
+03,Waikato Region,2014,30–34,Male,726
+03,Waikato Region,2014,35–39,Female,378
+03,Waikato Region,2014,35–39,Male,402
+03,Waikato Region,2014,40–44,Female,105
+03,Waikato Region,2014,40–44,Male,108
+03,Waikato Region,2014,45–49,Female,6
+03,Waikato Region,2014,45–49,Male,9
+03,Waikato Region,2015,15–19,Female,180
+03,Waikato Region,2015,15–19,Male,213
+03,Waikato Region,2015,20–24,Female,588
+03,Waikato Region,2015,20–24,Male,687
+03,Waikato Region,2015,25–29,Female,819
+03,Waikato Region,2015,25–29,Male,948
+03,Waikato Region,2015,30–34,Female,837
+03,Waikato Region,2015,30–34,Male,810
+03,Waikato Region,2015,35–39,Female,360
+03,Waikato Region,2015,35–39,Male,429
+03,Waikato Region,2015,40–44,Female,84
+03,Waikato Region,2015,40–44,Male,93
+03,Waikato Region,2015,45–49,Female,6
+03,Waikato Region,2015,45–49,Male,6
+03,Waikato Region,2016,15–19,Female,174
+03,Waikato Region,2016,15–19,Male,150
+03,Waikato Region,2016,20–24,Female,543
+03,Waikato Region,2016,20–24,Male,660
+03,Waikato Region,2016,25–29,Female,903
+03,Waikato Region,2016,25–29,Male,912
+03,Waikato Region,2016,30–34,Female,798
+03,Waikato Region,2016,30–34,Male,807
+03,Waikato Region,2016,35–39,Female,396
+03,Waikato Region,2016,35–39,Male,474
+03,Waikato Region,2016,40–44,Female,102
+03,Waikato Region,2016,40–44,Male,99
+03,Waikato Region,2016,45–49,Female,6
+03,Waikato Region,2016,45–49,Male,6
+04,Bay of Plenty Region,1997,15–19,Female,207
+04,Bay of Plenty Region,1997,15–19,Male,222
+04,Bay of Plenty Region,1997,20–24,Female,435
+04,Bay of Plenty Region,1997,20–24,Male,483
+04,Bay of Plenty Region,1997,25–29,Female,570
+04,Bay of Plenty Region,1997,25–29,Male,567
+04,Bay of Plenty Region,1997,30–34,Female,465
+04,Bay of Plenty Region,1997,30–34,Male,489
+04,Bay of Plenty Region,1997,35–39,Female,174
+04,Bay of Plenty Region,1997,35–39,Male,174
+04,Bay of Plenty Region,1997,40–44,Female,24
+04,Bay of Plenty Region,1997,40–44,Male,30
+04,Bay of Plenty Region,1997,45–49,Male,0
+04,Bay of Plenty Region,1998,15–19,Female,192
+04,Bay of Plenty Region,1998,15–19,Male,225
+04,Bay of Plenty Region,1998,20–24,Female,435
+04,Bay of Plenty Region,1998,20–24,Male,426
+04,Bay of Plenty Region,1998,25–29,Female,507
+04,Bay of Plenty Region,1998,25–29,Male,540
+04,Bay of Plenty Region,1998,30–34,Female,501
+04,Bay of Plenty Region,1998,30–34,Male,507
+04,Bay of Plenty Region,1998,35–39,Female,237
+04,Bay of Plenty Region,1998,35–39,Male,213
+04,Bay of Plenty Region,1998,40–44,Female,39
+04,Bay of Plenty Region,1998,40–44,Male,24
+04,Bay of Plenty Region,1998,45–49,Male,3
+04,Bay of Plenty Region,1999,15–19,Female,180
+04,Bay of Plenty Region,1999,15–19,Male,195
+04,Bay of Plenty Region,1999,20–24,Female,423
+04,Bay of Plenty Region,1999,20–24,Male,438
+04,Bay of Plenty Region,1999,25–29,Female,516
+04,Bay of Plenty Region,1999,25–29,Male,576
+04,Bay of Plenty Region,1999,30–34,Female,486
+04,Bay of Plenty Region,1999,30–34,Male,504
+04,Bay of Plenty Region,1999,35–39,Female,204
+04,Bay of Plenty Region,1999,35–39,Male,210
+04,Bay of Plenty Region,1999,40–44,Female,42
+04,Bay of Plenty Region,1999,40–44,Male,39
+04,Bay of Plenty Region,1999,45–49,Male,0
+04,Bay of Plenty Region,2000,15–19,Female,168
+04,Bay of Plenty Region,2000,15–19,Male,204
+04,Bay of Plenty Region,2000,20–24,Female,384
+04,Bay of Plenty Region,2000,20–24,Male,456
+04,Bay of Plenty Region,2000,25–29,Female,546
+04,Bay of Plenty Region,2000,25–29,Male,594
+04,Bay of Plenty Region,2000,30–34,Female,492
+04,Bay of Plenty Region,2000,30–34,Male,543
+04,Bay of Plenty Region,2000,35–39,Female,219
+04,Bay of Plenty Region,2000,35–39,Male,252
+04,Bay of Plenty Region,2000,40–44,Female,42
+04,Bay of Plenty Region,2000,40–44,Male,33
+04,Bay of Plenty Region,2000,45–49,Female,3
+04,Bay of Plenty Region,2001,15–19,Female,150
+04,Bay of Plenty Region,2001,15–19,Male,168
+04,Bay of Plenty Region,2001,20–24,Female,396
+04,Bay of Plenty Region,2001,20–24,Male,387
+04,Bay of Plenty Region,2001,25–29,Female,495
+04,Bay of Plenty Region,2001,25–29,Male,498
+04,Bay of Plenty Region,2001,30–34,Female,477
+04,Bay of Plenty Region,2001,30–34,Male,525
+04,Bay of Plenty Region,2001,35–39,Female,228
+04,Bay of Plenty Region,2001,35–39,Male,225
+04,Bay of Plenty Region,2001,40–44,Female,39
+04,Bay of Plenty Region,2001,40–44,Male,45
+04,Bay of Plenty Region,2001,45–49,Female,3
+04,Bay of Plenty Region,2002,15–19,Female,147
+04,Bay of Plenty Region,2002,15–19,Male,183
+04,Bay of Plenty Region,2002,20–24,Female,360
+04,Bay of Plenty Region,2002,20–24,Male,390
+04,Bay of Plenty Region,2002,25–29,Female,450
+04,Bay of Plenty Region,2002,25–29,Male,504
+04,Bay of Plenty Region,2002,30–34,Female,459
+04,Bay of Plenty Region,2002,30–34,Male,540
+04,Bay of Plenty Region,2002,35–39,Female,222
+04,Bay of Plenty Region,2002,35–39,Male,228
+04,Bay of Plenty Region,2002,40–44,Female,48
+04,Bay of Plenty Region,2002,40–44,Male,33
+04,Bay of Plenty Region,2002,45–49,Female,3
+04,Bay of Plenty Region,2002,45–49,Male,3
+04,Bay of Plenty Region,2003,15–19,Female,174
+04,Bay of Plenty Region,2003,15–19,Male,162
+04,Bay of Plenty Region,2003,20–24,Female,375
+04,Bay of Plenty Region,2003,20–24,Male,384
+04,Bay of Plenty Region,2003,25–29,Female,420
+04,Bay of Plenty Region,2003,25–29,Male,468
+04,Bay of Plenty Region,2003,30–34,Female,474
+04,Bay of Plenty Region,2003,30–34,Male,468
+04,Bay of Plenty Region,2003,35–39,Female,246
+04,Bay of Plenty Region,2003,35–39,Male,240
+04,Bay of Plenty Region,2003,40–44,Female,48
+04,Bay of Plenty Region,2003,40–44,Male,42
+04,Bay of Plenty Region,2003,45–49,Female,0
+04,Bay of Plenty Region,2003,45–49,Male,3
+04,Bay of Plenty Region,2004,15–19,Female,171
+04,Bay of Plenty Region,2004,15–19,Male,192
+04,Bay of Plenty Region,2004,20–24,Female,384
+04,Bay of Plenty Region,2004,20–24,Male,408
+04,Bay of Plenty Region,2004,25–29,Female,480
+04,Bay of Plenty Region,2004,25–29,Male,504
+04,Bay of Plenty Region,2004,30–34,Female,519
+04,Bay of Plenty Region,2004,30–34,Male,519
+04,Bay of Plenty Region,2004,35–39,Female,222
+04,Bay of Plenty Region,2004,35–39,Male,270
+04,Bay of Plenty Region,2004,40–44,Female,48
+04,Bay of Plenty Region,2004,40–44,Male,51
+04,Bay of Plenty Region,2004,45–49,Female,0
+04,Bay of Plenty Region,2004,45–49,Male,6
+04,Bay of Plenty Region,2005,15–19,Female,195
+04,Bay of Plenty Region,2005,15–19,Male,201
+04,Bay of Plenty Region,2005,20–24,Female,369
+04,Bay of Plenty Region,2005,20–24,Male,429
+04,Bay of Plenty Region,2005,25–29,Female,444
+04,Bay of Plenty Region,2005,25–29,Male,498
+04,Bay of Plenty Region,2005,30–34,Female,504
+04,Bay of Plenty Region,2005,30–34,Male,510
+04,Bay of Plenty Region,2005,35–39,Female,255
+04,Bay of Plenty Region,2005,35–39,Male,303
+04,Bay of Plenty Region,2005,40–44,Female,48
+04,Bay of Plenty Region,2005,40–44,Male,69
+04,Bay of Plenty Region,2005,45–49,Female,3
+04,Bay of Plenty Region,2005,45–49,Male,0
+04,Bay of Plenty Region,2006,15–19,Female,189
+04,Bay of Plenty Region,2006,15–19,Male,210
+04,Bay of Plenty Region,2006,20–24,Female,399
+04,Bay of Plenty Region,2006,20–24,Male,375
+04,Bay of Plenty Region,2006,25–29,Female,489
+04,Bay of Plenty Region,2006,25–29,Male,489
+04,Bay of Plenty Region,2006,30–34,Female,441
+04,Bay of Plenty Region,2006,30–34,Male,543
+04,Bay of Plenty Region,2006,35–39,Female,276
+04,Bay of Plenty Region,2006,35–39,Male,294
+04,Bay of Plenty Region,2006,40–44,Female,60
+04,Bay of Plenty Region,2006,40–44,Male,54
+04,Bay of Plenty Region,2006,45–49,Female,0
+04,Bay of Plenty Region,2007,15–19,Female,210
+04,Bay of Plenty Region,2007,15–19,Male,216
+04,Bay of Plenty Region,2007,20–24,Female,372
+04,Bay of Plenty Region,2007,20–24,Male,384
+04,Bay of Plenty Region,2007,25–29,Female,465
+04,Bay of Plenty Region,2007,25–29,Male,531
+04,Bay of Plenty Region,2007,30–34,Female,480
+04,Bay of Plenty Region,2007,30–34,Male,537
+04,Bay of Plenty Region,2007,35–39,Female,273
+04,Bay of Plenty Region,2007,35–39,Male,351
+04,Bay of Plenty Region,2007,40–44,Female,60
+04,Bay of Plenty Region,2007,40–44,Male,63
+04,Bay of Plenty Region,2007,45–49,Female,3
+04,Bay of Plenty Region,2007,45–49,Male,3
+04,Bay of Plenty Region,2008,15–19,Female,231
+04,Bay of Plenty Region,2008,15–19,Male,246
+04,Bay of Plenty Region,2008,20–24,Female,408
+04,Bay of Plenty Region,2008,20–24,Male,435
+04,Bay of Plenty Region,2008,25–29,Female,489
+04,Bay of Plenty Region,2008,25–29,Male,492
+04,Bay of Plenty Region,2008,30–34,Female,522
+04,Bay of Plenty Region,2008,30–34,Male,555
+04,Bay of Plenty Region,2008,35–39,Female,321
+04,Bay of Plenty Region,2008,35–39,Male,312
+04,Bay of Plenty Region,2008,40–44,Female,45
+04,Bay of Plenty Region,2008,40–44,Male,54
+04,Bay of Plenty Region,2008,45–49,Female,0
+04,Bay of Plenty Region,2008,45–49,Male,0
+04,Bay of Plenty Region,2009,15–19,Female,222
+04,Bay of Plenty Region,2009,15–19,Male,228
+04,Bay of Plenty Region,2009,20–24,Female,390
+04,Bay of Plenty Region,2009,20–24,Male,471
+04,Bay of Plenty Region,2009,25–29,Female,465
+04,Bay of Plenty Region,2009,25–29,Male,498
+04,Bay of Plenty Region,2009,30–34,Female,468
+04,Bay of Plenty Region,2009,30–34,Male,543
+04,Bay of Plenty Region,2009,35–39,Female,285
+04,Bay of Plenty Region,2009,35–39,Male,330
+04,Bay of Plenty Region,2009,40–44,Female,60
+04,Bay of Plenty Region,2009,40–44,Male,60
+04,Bay of Plenty Region,2009,45–49,Male,3
+04,Bay of Plenty Region,2010,15–19,Female,186
+04,Bay of Plenty Region,2010,15–19,Male,186
+04,Bay of Plenty Region,2010,20–24,Female,432
+04,Bay of Plenty Region,2010,20–24,Male,477
+04,Bay of Plenty Region,2010,25–29,Female,459
+04,Bay of Plenty Region,2010,25–29,Male,516
+04,Bay of Plenty Region,2010,30–34,Female,483
+04,Bay of Plenty Region,2010,30–34,Male,471
+04,Bay of Plenty Region,2010,35–39,Female,303
+04,Bay of Plenty Region,2010,35–39,Male,306
+04,Bay of Plenty Region,2010,40–44,Female,60
+04,Bay of Plenty Region,2010,40–44,Male,78
+04,Bay of Plenty Region,2010,45–49,Female,3
+04,Bay of Plenty Region,2010,45–49,Male,3
+04,Bay of Plenty Region,2011,15–19,Female,216
+04,Bay of Plenty Region,2011,15–19,Male,177
+04,Bay of Plenty Region,2011,20–24,Female,450
+04,Bay of Plenty Region,2011,20–24,Male,495
+04,Bay of Plenty Region,2011,25–29,Female,486
+04,Bay of Plenty Region,2011,25–29,Male,516
+04,Bay of Plenty Region,2011,30–34,Female,456
+04,Bay of Plenty Region,2011,30–34,Male,504
+04,Bay of Plenty Region,2011,35–39,Female,312
+04,Bay of Plenty Region,2011,35–39,Male,300
+04,Bay of Plenty Region,2011,40–44,Female,48
+04,Bay of Plenty Region,2011,40–44,Male,60
+04,Bay of Plenty Region,2011,45–49,Female,3
+04,Bay of Plenty Region,2011,45–49,Male,3
+04,Bay of Plenty Region,2012,15–19,Female,156
+04,Bay of Plenty Region,2012,15–19,Male,222
+04,Bay of Plenty Region,2012,20–24,Female,432
+04,Bay of Plenty Region,2012,20–24,Male,435
+04,Bay of Plenty Region,2012,25–29,Female,462
+04,Bay of Plenty Region,2012,25–29,Male,495
+04,Bay of Plenty Region,2012,30–34,Female,453
+04,Bay of Plenty Region,2012,30–34,Male,498
+04,Bay of Plenty Region,2012,35–39,Female,252
+04,Bay of Plenty Region,2012,35–39,Male,285
+04,Bay of Plenty Region,2012,40–44,Female,63
+04,Bay of Plenty Region,2012,40–44,Male,75
+04,Bay of Plenty Region,2012,45–49,Female,9
+04,Bay of Plenty Region,2012,45–49,Male,3
+04,Bay of Plenty Region,2013,15–19,Female,168
+04,Bay of Plenty Region,2013,15–19,Male,189
+04,Bay of Plenty Region,2013,20–24,Female,426
+04,Bay of Plenty Region,2013,20–24,Male,456
+04,Bay of Plenty Region,2013,25–29,Female,462
+04,Bay of Plenty Region,2013,25–29,Male,504
+04,Bay of Plenty Region,2013,30–34,Female,474
+04,Bay of Plenty Region,2013,30–34,Male,447
+04,Bay of Plenty Region,2013,35–39,Female,270
+04,Bay of Plenty Region,2013,35–39,Male,288
+04,Bay of Plenty Region,2013,40–44,Female,60
+04,Bay of Plenty Region,2013,40–44,Male,69
+04,Bay of Plenty Region,2013,45–49,Female,0
+04,Bay of Plenty Region,2013,45–49,Male,3
+04,Bay of Plenty Region,2014,15–19,Female,126
+04,Bay of Plenty Region,2014,15–19,Male,126
+04,Bay of Plenty Region,2014,20–24,Female,390
+04,Bay of Plenty Region,2014,20–24,Male,411
+04,Bay of Plenty Region,2014,25–29,Female,477
+04,Bay of Plenty Region,2014,25–29,Male,534
+04,Bay of Plenty Region,2014,30–34,Female,453
+04,Bay of Plenty Region,2014,30–34,Male,462
+04,Bay of Plenty Region,2014,35–39,Female,240
+04,Bay of Plenty Region,2014,35–39,Male,255
+04,Bay of Plenty Region,2014,40–44,Female,57
+04,Bay of Plenty Region,2014,40–44,Male,60
+04,Bay of Plenty Region,2014,45–49,Female,3
+04,Bay of Plenty Region,2014,45–49,Male,3
+04,Bay of Plenty Region,2015,15–19,Female,138
+04,Bay of Plenty Region,2015,15–19,Male,135
+04,Bay of Plenty Region,2015,20–24,Female,402
+04,Bay of Plenty Region,2015,20–24,Male,444
+04,Bay of Plenty Region,2015,25–29,Female,507
+04,Bay of Plenty Region,2015,25–29,Male,567
+04,Bay of Plenty Region,2015,30–34,Female,465
+04,Bay of Plenty Region,2015,30–34,Male,522
+04,Bay of Plenty Region,2015,35–39,Female,249
+04,Bay of Plenty Region,2015,35–39,Male,234
+04,Bay of Plenty Region,2015,40–44,Female,51
+04,Bay of Plenty Region,2015,40–44,Male,60
+04,Bay of Plenty Region,2015,45–49,Female,6
+04,Bay of Plenty Region,2015,45–49,Male,3
+04,Bay of Plenty Region,2016,15–19,Female,111
+04,Bay of Plenty Region,2016,15–19,Male,117
+04,Bay of Plenty Region,2016,20–24,Female,384
+04,Bay of Plenty Region,2016,20–24,Male,411
+04,Bay of Plenty Region,2016,25–29,Female,510
+04,Bay of Plenty Region,2016,25–29,Male,540
+04,Bay of Plenty Region,2016,30–34,Female,465
+04,Bay of Plenty Region,2016,30–34,Male,528
+04,Bay of Plenty Region,2016,35–39,Female,243
+04,Bay of Plenty Region,2016,35–39,Male,288
+04,Bay of Plenty Region,2016,40–44,Female,63
+04,Bay of Plenty Region,2016,40–44,Male,72
+04,Bay of Plenty Region,2016,45–49,Female,6
+04,Bay of Plenty Region,2016,45–49,Male,6
+05,Gisborne Region,1997,15–19,Female,57
+05,Gisborne Region,1997,15–19,Male,42
+05,Gisborne Region,1997,20–24,Female,105
+05,Gisborne Region,1997,20–24,Male,90
+05,Gisborne Region,1997,25–29,Female,99
+05,Gisborne Region,1997,25–29,Male,111
+05,Gisborne Region,1997,30–34,Female,105
+05,Gisborne Region,1997,30–34,Male,93
+05,Gisborne Region,1997,35–39,Female,45
+05,Gisborne Region,1997,35–39,Male,39
+05,Gisborne Region,1997,40–44,Female,6
+05,Gisborne Region,1997,40–44,Male,9
+05,Gisborne Region,1997,45–49,Female,3
+05,Gisborne Region,1998,15–19,Female,45
+05,Gisborne Region,1998,15–19,Male,45
+05,Gisborne Region,1998,20–24,Female,69
+05,Gisborne Region,1998,20–24,Male,90
+05,Gisborne Region,1998,25–29,Female,96
+05,Gisborne Region,1998,25–29,Male,129
+05,Gisborne Region,1998,30–34,Female,111
+05,Gisborne Region,1998,30–34,Male,111
+05,Gisborne Region,1998,35–39,Female,39
+05,Gisborne Region,1998,35–39,Male,60
+05,Gisborne Region,1998,40–44,Female,6
+05,Gisborne Region,1998,40–44,Male,12
+05,Gisborne Region,1999,15–19,Female,51
+05,Gisborne Region,1999,15–19,Male,45
+05,Gisborne Region,1999,20–24,Female,99
+05,Gisborne Region,1999,20–24,Male,93
+05,Gisborne Region,1999,25–29,Female,105
+05,Gisborne Region,1999,25–29,Male,126
+05,Gisborne Region,1999,30–34,Female,75
+05,Gisborne Region,1999,30–34,Male,93
+05,Gisborne Region,1999,35–39,Female,39
+05,Gisborne Region,1999,35–39,Male,30
+05,Gisborne Region,1999,40–44,Female,12
+05,Gisborne Region,1999,40–44,Male,6
+05,Gisborne Region,1999,45–49,Female,0
+05,Gisborne Region,1999,45–49,Male,3
+05,Gisborne Region,2000,15–19,Female,36
+05,Gisborne Region,2000,15–19,Male,48
+05,Gisborne Region,2000,20–24,Female,93
+05,Gisborne Region,2000,20–24,Male,102
+05,Gisborne Region,2000,25–29,Female,105
+05,Gisborne Region,2000,25–29,Male,105
+05,Gisborne Region,2000,30–34,Female,87
+05,Gisborne Region,2000,30–34,Male,102
+05,Gisborne Region,2000,35–39,Female,42
+05,Gisborne Region,2000,35–39,Male,45
+05,Gisborne Region,2000,40–44,Female,6
+05,Gisborne Region,2000,40–44,Male,6
+05,Gisborne Region,2001,15–19,Female,39
+05,Gisborne Region,2001,15–19,Male,39
+05,Gisborne Region,2001,20–24,Female,96
+05,Gisborne Region,2001,20–24,Male,96
+05,Gisborne Region,2001,25–29,Female,99
+05,Gisborne Region,2001,25–29,Male,108
+05,Gisborne Region,2001,30–34,Female,93
+05,Gisborne Region,2001,30–34,Male,102
+05,Gisborne Region,2001,35–39,Female,42
+05,Gisborne Region,2001,35–39,Male,54
+05,Gisborne Region,2001,40–44,Female,15
+05,Gisborne Region,2001,40–44,Male,15
+05,Gisborne Region,2002,15–19,Female,48
+05,Gisborne Region,2002,15–19,Male,45
+05,Gisborne Region,2002,20–24,Female,78
+05,Gisborne Region,2002,20–24,Male,96
+05,Gisborne Region,2002,25–29,Female,87
+05,Gisborne Region,2002,25–29,Male,99
+05,Gisborne Region,2002,30–34,Female,78
+05,Gisborne Region,2002,30–34,Male,102
+05,Gisborne Region,2002,35–39,Female,51
+05,Gisborne Region,2002,35–39,Male,42
+05,Gisborne Region,2002,40–44,Female,12
+05,Gisborne Region,2002,40–44,Male,6
+05,Gisborne Region,2002,45–49,Female,3
+05,Gisborne Region,2003,15–19,Female,42
+05,Gisborne Region,2003,15–19,Male,39
+05,Gisborne Region,2003,20–24,Female,81
+05,Gisborne Region,2003,20–24,Male,87
+05,Gisborne Region,2003,25–29,Female,87
+05,Gisborne Region,2003,25–29,Male,87
+05,Gisborne Region,2003,30–34,Female,90
+05,Gisborne Region,2003,30–34,Male,96
+05,Gisborne Region,2003,35–39,Female,45
+05,Gisborne Region,2003,35–39,Male,51
+05,Gisborne Region,2003,40–44,Female,15
+05,Gisborne Region,2003,40–44,Male,9
+05,Gisborne Region,2003,45–49,Male,3
+05,Gisborne Region,2004,15–19,Female,51
+05,Gisborne Region,2004,15–19,Male,48
+05,Gisborne Region,2004,20–24,Female,84
+05,Gisborne Region,2004,20–24,Male,93
+05,Gisborne Region,2004,25–29,Female,75
+05,Gisborne Region,2004,25–29,Male,96
+05,Gisborne Region,2004,30–34,Female,93
+05,Gisborne Region,2004,30–34,Male,93
+05,Gisborne Region,2004,35–39,Female,33
+05,Gisborne Region,2004,35–39,Male,42
+05,Gisborne Region,2004,40–44,Female,12
+05,Gisborne Region,2004,40–44,Male,12
+05,Gisborne Region,2004,45–49,Female,3
+05,Gisborne Region,2004,45–49,Male,3
+05,Gisborne Region,2005,15–19,Female,45
+05,Gisborne Region,2005,15–19,Male,54
+05,Gisborne Region,2005,20–24,Female,81
+05,Gisborne Region,2005,20–24,Male,87
+05,Gisborne Region,2005,25–29,Female,105
+05,Gisborne Region,2005,25–29,Male,96
+05,Gisborne Region,2005,30–34,Female,81
+05,Gisborne Region,2005,30–34,Male,78
+05,Gisborne Region,2005,35–39,Female,60
+05,Gisborne Region,2005,35–39,Male,45
+05,Gisborne Region,2005,40–44,Female,12
+05,Gisborne Region,2005,40–44,Male,12
+05,Gisborne Region,2005,45–49,Female,0
+05,Gisborne Region,2005,45–49,Male,3
+05,Gisborne Region,2006,15–19,Female,51
+05,Gisborne Region,2006,15–19,Male,54
+05,Gisborne Region,2006,20–24,Female,102
+05,Gisborne Region,2006,20–24,Male,78
+05,Gisborne Region,2006,25–29,Female,75
+05,Gisborne Region,2006,25–29,Male,96
+05,Gisborne Region,2006,30–34,Female,96
+05,Gisborne Region,2006,30–34,Male,96
+05,Gisborne Region,2006,35–39,Female,51
+05,Gisborne Region,2006,35–39,Male,45
+05,Gisborne Region,2006,40–44,Female,12
+05,Gisborne Region,2006,40–44,Male,6
+05,Gisborne Region,2006,45–49,Male,0
+05,Gisborne Region,2007,15–19,Female,39
+05,Gisborne Region,2007,15–19,Male,54
+05,Gisborne Region,2007,20–24,Female,90
+05,Gisborne Region,2007,20–24,Male,84
+05,Gisborne Region,2007,25–29,Female,78
+05,Gisborne Region,2007,25–29,Male,96
+05,Gisborne Region,2007,30–34,Female,96
+05,Gisborne Region,2007,30–34,Male,90
+05,Gisborne Region,2007,35–39,Female,54
+05,Gisborne Region,2007,35–39,Male,57
+05,Gisborne Region,2007,40–44,Female,6
+05,Gisborne Region,2007,40–44,Male,9
+05,Gisborne Region,2007,45–49,Female,6
+05,Gisborne Region,2008,15–19,Female,60
+05,Gisborne Region,2008,15–19,Male,57
+05,Gisborne Region,2008,20–24,Female,108
+05,Gisborne Region,2008,20–24,Male,102
+05,Gisborne Region,2008,25–29,Female,102
+05,Gisborne Region,2008,25–29,Male,102
+05,Gisborne Region,2008,30–34,Female,60
+05,Gisborne Region,2008,30–34,Male,84
+05,Gisborne Region,2008,35–39,Female,51
+05,Gisborne Region,2008,35–39,Male,45
+05,Gisborne Region,2008,40–44,Female,15
+05,Gisborne Region,2008,40–44,Male,6
+05,Gisborne Region,2008,45–49,Female,0
+05,Gisborne Region,2009,15–19,Female,39
+05,Gisborne Region,2009,15–19,Male,63
+05,Gisborne Region,2009,20–24,Female,99
+05,Gisborne Region,2009,20–24,Male,93
+05,Gisborne Region,2009,25–29,Female,87
+05,Gisborne Region,2009,25–29,Male,114
+05,Gisborne Region,2009,30–34,Female,75
+05,Gisborne Region,2009,30–34,Male,75
+05,Gisborne Region,2009,35–39,Female,57
+05,Gisborne Region,2009,35–39,Male,54
+05,Gisborne Region,2009,40–44,Female,12
+05,Gisborne Region,2009,40–44,Male,9
+05,Gisborne Region,2010,15–19,Female,48
+05,Gisborne Region,2010,15–19,Male,42
+05,Gisborne Region,2010,20–24,Female,105
+05,Gisborne Region,2010,20–24,Male,105
+05,Gisborne Region,2010,25–29,Female,90
+05,Gisborne Region,2010,25–29,Male,87
+05,Gisborne Region,2010,30–34,Female,84
+05,Gisborne Region,2010,30–34,Male,75
+05,Gisborne Region,2010,35–39,Female,48
+05,Gisborne Region,2010,35–39,Male,57
+05,Gisborne Region,2010,40–44,Female,12
+05,Gisborne Region,2010,40–44,Male,12
+05,Gisborne Region,2010,45–49,Male,0
+05,Gisborne Region,2011,15–19,Female,39
+05,Gisborne Region,2011,15–19,Male,48
+05,Gisborne Region,2011,20–24,Female,96
+05,Gisborne Region,2011,20–24,Male,84
+05,Gisborne Region,2011,25–29,Female,96
+05,Gisborne Region,2011,25–29,Male,87
+05,Gisborne Region,2011,30–34,Female,93
+05,Gisborne Region,2011,30–34,Male,81
+05,Gisborne Region,2011,35–39,Female,33
+05,Gisborne Region,2011,35–39,Male,48
+05,Gisborne Region,2011,40–44,Female,15
+05,Gisborne Region,2011,40–44,Male,18
+05,Gisborne Region,2012,15–19,Female,42
+05,Gisborne Region,2012,15–19,Male,36
+05,Gisborne Region,2012,20–24,Female,108
+05,Gisborne Region,2012,20–24,Male,99
+05,Gisborne Region,2012,25–29,Female,84
+05,Gisborne Region,2012,25–29,Male,102
+05,Gisborne Region,2012,30–34,Female,78
+05,Gisborne Region,2012,30–34,Male,81
+05,Gisborne Region,2012,35–39,Female,51
+05,Gisborne Region,2012,35–39,Male,48
+05,Gisborne Region,2012,40–44,Female,12
+05,Gisborne Region,2012,40–44,Male,12
+05,Gisborne Region,2012,45–49,Female,3
+05,Gisborne Region,2012,45–49,Male,3
+05,Gisborne Region,2013,15–19,Female,33
+05,Gisborne Region,2013,15–19,Male,45
+05,Gisborne Region,2013,20–24,Female,96
+05,Gisborne Region,2013,20–24,Male,81
+05,Gisborne Region,2013,25–29,Female,99
+05,Gisborne Region,2013,25–29,Male,75
+05,Gisborne Region,2013,30–34,Female,60
+05,Gisborne Region,2013,30–34,Male,93
+05,Gisborne Region,2013,35–39,Female,36
+05,Gisborne Region,2013,35–39,Male,51
+05,Gisborne Region,2013,40–44,Female,6
+05,Gisborne Region,2013,40–44,Male,9
+05,Gisborne Region,2013,45–49,Female,0
+05,Gisborne Region,2014,15–19,Female,42
+05,Gisborne Region,2014,15–19,Male,36
+05,Gisborne Region,2014,20–24,Female,87
+05,Gisborne Region,2014,20–24,Male,93
+05,Gisborne Region,2014,25–29,Female,75
+05,Gisborne Region,2014,25–29,Male,102
+05,Gisborne Region,2014,30–34,Female,75
+05,Gisborne Region,2014,30–34,Male,81
+05,Gisborne Region,2014,35–39,Female,42
+05,Gisborne Region,2014,35–39,Male,45
+05,Gisborne Region,2014,40–44,Female,9
+05,Gisborne Region,2014,40–44,Male,9
+05,Gisborne Region,2015,15–19,Female,24
+05,Gisborne Region,2015,15–19,Male,36
+05,Gisborne Region,2015,20–24,Female,81
+05,Gisborne Region,2015,20–24,Male,87
+05,Gisborne Region,2015,25–29,Female,87
+05,Gisborne Region,2015,25–29,Male,102
+05,Gisborne Region,2015,30–34,Female,69
+05,Gisborne Region,2015,30–34,Male,81
+05,Gisborne Region,2015,35–39,Female,27
+05,Gisborne Region,2015,35–39,Male,63
+05,Gisborne Region,2015,40–44,Female,15
+05,Gisborne Region,2015,40–44,Male,6
+05,Gisborne Region,2016,15–19,Female,36
+05,Gisborne Region,2016,15–19,Male,30
+05,Gisborne Region,2016,20–24,Female,84
+05,Gisborne Region,2016,20–24,Male,90
+05,Gisborne Region,2016,25–29,Female,102
+05,Gisborne Region,2016,25–29,Male,117
+05,Gisborne Region,2016,30–34,Female,90
+05,Gisborne Region,2016,30–34,Male,90
+05,Gisborne Region,2016,35–39,Female,48
+05,Gisborne Region,2016,35–39,Male,39
+05,Gisborne Region,2016,40–44,Female,9
+05,Gisborne Region,2016,40–44,Male,6
+05,Gisborne Region,2016,45–49,Female,3
+06,Hawke's Bay Region,1997,15–19,Female,120
+06,Hawke's Bay Region,1997,15–19,Male,129
+06,Hawke's Bay Region,1997,20–24,Female,279
+06,Hawke's Bay Region,1997,20–24,Male,327
+06,Hawke's Bay Region,1997,25–29,Female,318
+06,Hawke's Bay Region,1997,25–29,Male,354
+06,Hawke's Bay Region,1997,30–34,Female,297
+06,Hawke's Bay Region,1997,30–34,Male,300
+06,Hawke's Bay Region,1997,35–39,Female,120
+06,Hawke's Bay Region,1997,35–39,Male,123
+06,Hawke's Bay Region,1997,40–44,Female,15
+06,Hawke's Bay Region,1997,40–44,Male,12
+06,Hawke's Bay Region,1997,45–49,Female,3
+06,Hawke's Bay Region,1997,45–49,Male,0
+06,Hawke's Bay Region,1998,15–19,Female,102
+06,Hawke's Bay Region,1998,15–19,Male,111
+06,Hawke's Bay Region,1998,20–24,Female,225
+06,Hawke's Bay Region,1998,20–24,Male,264
+06,Hawke's Bay Region,1998,25–29,Female,357
+06,Hawke's Bay Region,1998,25–29,Male,348
+06,Hawke's Bay Region,1998,30–34,Female,255
+06,Hawke's Bay Region,1998,30–34,Male,267
+06,Hawke's Bay Region,1998,35–39,Female,135
+06,Hawke's Bay Region,1998,35–39,Male,129
+06,Hawke's Bay Region,1998,40–44,Female,15
+06,Hawke's Bay Region,1998,40–44,Male,18
+06,Hawke's Bay Region,1998,45–49,Female,3
+06,Hawke's Bay Region,1999,15–19,Female,105
+06,Hawke's Bay Region,1999,15–19,Male,123
+06,Hawke's Bay Region,1999,20–24,Female,240
+06,Hawke's Bay Region,1999,20–24,Male,255
+06,Hawke's Bay Region,1999,25–29,Female,303
+06,Hawke's Bay Region,1999,25–29,Male,339
+06,Hawke's Bay Region,1999,30–34,Female,252
+06,Hawke's Bay Region,1999,30–34,Male,264
+06,Hawke's Bay Region,1999,35–39,Female,123
+06,Hawke's Bay Region,1999,35–39,Male,108
+06,Hawke's Bay Region,1999,40–44,Female,18
+06,Hawke's Bay Region,1999,40–44,Male,12
+06,Hawke's Bay Region,1999,45–49,Female,3
+06,Hawke's Bay Region,1999,45–49,Male,0
+06,Hawke's Bay Region,2000,15–19,Female,96
+06,Hawke's Bay Region,2000,15–19,Male,105
+06,Hawke's Bay Region,2000,20–24,Female,255
+06,Hawke's Bay Region,2000,20–24,Male,228
+06,Hawke's Bay Region,2000,25–29,Female,303
+06,Hawke's Bay Region,2000,25–29,Male,378
+06,Hawke's Bay Region,2000,30–34,Female,282
+06,Hawke's Bay Region,2000,30–34,Male,288
+06,Hawke's Bay Region,2000,35–39,Female,114
+06,Hawke's Bay Region,2000,35–39,Male,138
+06,Hawke's Bay Region,2000,40–44,Female,21
+06,Hawke's Bay Region,2000,40–44,Male,27
+06,Hawke's Bay Region,2000,45–49,Male,3
+06,Hawke's Bay Region,2001,15–19,Female,99
+06,Hawke's Bay Region,2001,15–19,Male,102
+06,Hawke's Bay Region,2001,20–24,Female,231
+06,Hawke's Bay Region,2001,20–24,Male,234
+06,Hawke's Bay Region,2001,25–29,Female,294
+06,Hawke's Bay Region,2001,25–29,Male,321
+06,Hawke's Bay Region,2001,30–34,Female,243
+06,Hawke's Bay Region,2001,30–34,Male,288
+06,Hawke's Bay Region,2001,35–39,Female,144
+06,Hawke's Bay Region,2001,35–39,Male,132
+06,Hawke's Bay Region,2001,40–44,Female,27
+06,Hawke's Bay Region,2001,40–44,Male,24
+06,Hawke's Bay Region,2001,45–49,Female,0
+06,Hawke's Bay Region,2002,15–19,Female,99
+06,Hawke's Bay Region,2002,15–19,Male,84
+06,Hawke's Bay Region,2002,20–24,Female,219
+06,Hawke's Bay Region,2002,20–24,Male,222
+06,Hawke's Bay Region,2002,25–29,Female,279
+06,Hawke's Bay Region,2002,25–29,Male,312
+06,Hawke's Bay Region,2002,30–34,Female,303
+06,Hawke's Bay Region,2002,30–34,Male,288
+06,Hawke's Bay Region,2002,35–39,Female,153
+06,Hawke's Bay Region,2002,35–39,Male,117
+06,Hawke's Bay Region,2002,40–44,Female,24
+06,Hawke's Bay Region,2002,40–44,Male,30
+06,Hawke's Bay Region,2002,45–49,Female,3
+06,Hawke's Bay Region,2003,15–19,Female,90
+06,Hawke's Bay Region,2003,15–19,Male,93
+06,Hawke's Bay Region,2003,20–24,Female,210
+06,Hawke's Bay Region,2003,20–24,Male,213
+06,Hawke's Bay Region,2003,25–29,Female,258
+06,Hawke's Bay Region,2003,25–29,Male,273
+06,Hawke's Bay Region,2003,30–34,Female,258
+06,Hawke's Bay Region,2003,30–34,Male,279
+06,Hawke's Bay Region,2003,35–39,Female,150
+06,Hawke's Bay Region,2003,35–39,Male,114
+06,Hawke's Bay Region,2003,40–44,Female,30
+06,Hawke's Bay Region,2003,40–44,Male,30
+06,Hawke's Bay Region,2003,45–49,Male,0
+06,Hawke's Bay Region,2004,15–19,Female,117
+06,Hawke's Bay Region,2004,15–19,Male,108
+06,Hawke's Bay Region,2004,20–24,Female,204
+06,Hawke's Bay Region,2004,20–24,Male,216
+06,Hawke's Bay Region,2004,25–29,Female,243
+06,Hawke's Bay Region,2004,25–29,Male,258
+06,Hawke's Bay Region,2004,30–34,Female,264
+06,Hawke's Bay Region,2004,30–34,Male,342
+06,Hawke's Bay Region,2004,35–39,Female,147
+06,Hawke's Bay Region,2004,35–39,Male,138
+06,Hawke's Bay Region,2004,40–44,Female,36
+06,Hawke's Bay Region,2004,40–44,Male,27
+06,Hawke's Bay Region,2004,45–49,Female,0
+06,Hawke's Bay Region,2004,45–49,Male,0
+06,Hawke's Bay Region,2005,15–19,Female,108
+06,Hawke's Bay Region,2005,15–19,Male,117
+06,Hawke's Bay Region,2005,20–24,Female,252
+06,Hawke's Bay Region,2005,20–24,Male,231
+06,Hawke's Bay Region,2005,25–29,Female,258
+06,Hawke's Bay Region,2005,25–29,Male,297
+06,Hawke's Bay Region,2005,30–34,Female,291
+06,Hawke's Bay Region,2005,30–34,Male,306
+06,Hawke's Bay Region,2005,35–39,Female,141
+06,Hawke's Bay Region,2005,35–39,Male,129
+06,Hawke's Bay Region,2005,40–44,Female,24
+06,Hawke's Bay Region,2005,40–44,Male,33
+06,Hawke's Bay Region,2005,45–49,Female,0
+06,Hawke's Bay Region,2005,45–49,Male,3
+06,Hawke's Bay Region,2006,15–19,Female,111
+06,Hawke's Bay Region,2006,15–19,Male,111
+06,Hawke's Bay Region,2006,20–24,Female,222
+06,Hawke's Bay Region,2006,20–24,Male,240
+06,Hawke's Bay Region,2006,25–29,Female,261
+06,Hawke's Bay Region,2006,25–29,Male,279
+06,Hawke's Bay Region,2006,30–34,Female,264
+06,Hawke's Bay Region,2006,30–34,Male,303
+06,Hawke's Bay Region,2006,35–39,Female,162
+06,Hawke's Bay Region,2006,35–39,Male,159
+06,Hawke's Bay Region,2006,40–44,Female,33
+06,Hawke's Bay Region,2006,40–44,Male,33
+06,Hawke's Bay Region,2006,45–49,Female,6
+06,Hawke's Bay Region,2006,45–49,Male,0
+06,Hawke's Bay Region,2007,15–19,Female,105
+06,Hawke's Bay Region,2007,15–19,Male,123
+06,Hawke's Bay Region,2007,20–24,Female,228
+06,Hawke's Bay Region,2007,20–24,Male,252
+06,Hawke's Bay Region,2007,25–29,Female,261
+06,Hawke's Bay Region,2007,25–29,Male,285
+06,Hawke's Bay Region,2007,30–34,Female,324
+06,Hawke's Bay Region,2007,30–34,Male,291
+06,Hawke's Bay Region,2007,35–39,Female,177
+06,Hawke's Bay Region,2007,35–39,Male,165
+06,Hawke's Bay Region,2007,40–44,Female,30
+06,Hawke's Bay Region,2007,40–44,Male,30
+06,Hawke's Bay Region,2007,45–49,Female,0
+06,Hawke's Bay Region,2007,45–49,Male,0
+06,Hawke's Bay Region,2008,15–19,Female,132
+06,Hawke's Bay Region,2008,15–19,Male,120
+06,Hawke's Bay Region,2008,20–24,Female,234
+06,Hawke's Bay Region,2008,20–24,Male,243
+06,Hawke's Bay Region,2008,25–29,Female,303
+06,Hawke's Bay Region,2008,25–29,Male,258
+06,Hawke's Bay Region,2008,30–34,Female,288
+06,Hawke's Bay Region,2008,30–34,Male,318
+06,Hawke's Bay Region,2008,35–39,Female,174
+06,Hawke's Bay Region,2008,35–39,Male,177
+06,Hawke's Bay Region,2008,40–44,Female,24
+06,Hawke's Bay Region,2008,40–44,Male,30
+06,Hawke's Bay Region,2008,45–49,Female,0
+06,Hawke's Bay Region,2008,45–49,Male,3
+06,Hawke's Bay Region,2009,15–19,Female,123
+06,Hawke's Bay Region,2009,15–19,Male,129
+06,Hawke's Bay Region,2009,20–24,Female,234
+06,Hawke's Bay Region,2009,20–24,Male,258
+06,Hawke's Bay Region,2009,25–29,Female,285
+06,Hawke's Bay Region,2009,25–29,Male,255
+06,Hawke's Bay Region,2009,30–34,Female,267
+06,Hawke's Bay Region,2009,30–34,Male,306
+06,Hawke's Bay Region,2009,35–39,Female,171
+06,Hawke's Bay Region,2009,35–39,Male,168
+06,Hawke's Bay Region,2009,40–44,Female,21
+06,Hawke's Bay Region,2009,40–44,Male,33
+06,Hawke's Bay Region,2009,45–49,Female,0
+06,Hawke's Bay Region,2009,45–49,Male,3
+06,Hawke's Bay Region,2010,15–19,Female,132
+06,Hawke's Bay Region,2010,15–19,Male,117
+06,Hawke's Bay Region,2010,20–24,Female,279
+06,Hawke's Bay Region,2010,20–24,Male,261
+06,Hawke's Bay Region,2010,25–29,Female,264
+06,Hawke's Bay Region,2010,25–29,Male,300
+06,Hawke's Bay Region,2010,30–34,Female,309
+06,Hawke's Bay Region,2010,30–34,Male,336
+06,Hawke's Bay Region,2010,35–39,Female,201
+06,Hawke's Bay Region,2010,35–39,Male,201
+06,Hawke's Bay Region,2010,40–44,Female,27
+06,Hawke's Bay Region,2010,40–44,Male,33
+06,Hawke's Bay Region,2010,45–49,Female,6
+06,Hawke's Bay Region,2010,45–49,Male,6
+06,Hawke's Bay Region,2011,15–19,Female,102
+06,Hawke's Bay Region,2011,15–19,Male,105
+06,Hawke's Bay Region,2011,20–24,Female,222
+06,Hawke's Bay Region,2011,20–24,Male,255
+06,Hawke's Bay Region,2011,25–29,Female,285
+06,Hawke's Bay Region,2011,25–29,Male,258
+06,Hawke's Bay Region,2011,30–34,Female,276
+06,Hawke's Bay Region,2011,30–34,Male,258
+06,Hawke's Bay Region,2011,35–39,Female,156
+06,Hawke's Bay Region,2011,35–39,Male,201
+06,Hawke's Bay Region,2011,40–44,Female,45
+06,Hawke's Bay Region,2011,40–44,Male,48
+06,Hawke's Bay Region,2011,45–49,Female,0
+06,Hawke's Bay Region,2011,45–49,Male,6
+06,Hawke's Bay Region,2012,15–19,Female,93
+06,Hawke's Bay Region,2012,15–19,Male,93
+06,Hawke's Bay Region,2012,20–24,Female,279
+06,Hawke's Bay Region,2012,20–24,Male,258
+06,Hawke's Bay Region,2012,25–29,Female,228
+06,Hawke's Bay Region,2012,25–29,Male,258
+06,Hawke's Bay Region,2012,30–34,Female,288
+06,Hawke's Bay Region,2012,30–34,Male,282
+06,Hawke's Bay Region,2012,35–39,Female,183
+06,Hawke's Bay Region,2012,35–39,Male,174
+06,Hawke's Bay Region,2012,40–44,Female,39
+06,Hawke's Bay Region,2012,40–44,Male,39
+06,Hawke's Bay Region,2012,45–49,Female,3
+06,Hawke's Bay Region,2012,45–49,Male,0
+06,Hawke's Bay Region,2013,15–19,Female,90
+06,Hawke's Bay Region,2013,15–19,Male,93
+06,Hawke's Bay Region,2013,20–24,Female,276
+06,Hawke's Bay Region,2013,20–24,Male,249
+06,Hawke's Bay Region,2013,25–29,Female,267
+06,Hawke's Bay Region,2013,25–29,Male,261
+06,Hawke's Bay Region,2013,30–34,Female,261
+06,Hawke's Bay Region,2013,30–34,Male,279
+06,Hawke's Bay Region,2013,35–39,Female,174
+06,Hawke's Bay Region,2013,35–39,Male,165
+06,Hawke's Bay Region,2013,40–44,Female,48
+06,Hawke's Bay Region,2013,40–44,Male,33
+06,Hawke's Bay Region,2013,45–49,Female,0
+06,Hawke's Bay Region,2013,45–49,Male,3
+06,Hawke's Bay Region,2014,15–19,Female,96
+06,Hawke's Bay Region,2014,15–19,Male,90
+06,Hawke's Bay Region,2014,20–24,Female,255
+06,Hawke's Bay Region,2014,20–24,Male,231
+06,Hawke's Bay Region,2014,25–29,Female,270
+06,Hawke's Bay Region,2014,25–29,Male,294
+06,Hawke's Bay Region,2014,30–34,Female,264
+06,Hawke's Bay Region,2014,30–34,Male,291
+06,Hawke's Bay Region,2014,35–39,Female,153
+06,Hawke's Bay Region,2014,35–39,Male,159
+06,Hawke's Bay Region,2014,40–44,Female,48
+06,Hawke's Bay Region,2014,40–44,Male,27
+06,Hawke's Bay Region,2014,45–49,Female,0
+06,Hawke's Bay Region,2014,45–49,Male,3
+06,Hawke's Bay Region,2015,15–19,Female,69
+06,Hawke's Bay Region,2015,15–19,Male,90
+06,Hawke's Bay Region,2015,20–24,Female,240
+06,Hawke's Bay Region,2015,20–24,Male,237
+06,Hawke's Bay Region,2015,25–29,Female,270
+06,Hawke's Bay Region,2015,25–29,Male,276
+06,Hawke's Bay Region,2015,30–34,Female,258
+06,Hawke's Bay Region,2015,30–34,Male,267
+06,Hawke's Bay Region,2015,35–39,Female,144
+06,Hawke's Bay Region,2015,35–39,Male,147
+06,Hawke's Bay Region,2015,40–44,Female,42
+06,Hawke's Bay Region,2015,40–44,Male,39
+06,Hawke's Bay Region,2015,45–49,Female,3
+06,Hawke's Bay Region,2016,15–19,Female,63
+06,Hawke's Bay Region,2016,15–19,Male,84
+06,Hawke's Bay Region,2016,20–24,Female,228
+06,Hawke's Bay Region,2016,20–24,Male,231
+06,Hawke's Bay Region,2016,25–29,Female,294
+06,Hawke's Bay Region,2016,25–29,Male,285
+06,Hawke's Bay Region,2016,30–34,Female,261
+06,Hawke's Bay Region,2016,30–34,Male,309
+06,Hawke's Bay Region,2016,35–39,Female,138
+06,Hawke's Bay Region,2016,35–39,Male,126
+06,Hawke's Bay Region,2016,40–44,Female,15
+06,Hawke's Bay Region,2016,40–44,Male,27
+06,Hawke's Bay Region,2016,45–49,Female,0
+06,Hawke's Bay Region,2016,45–49,Male,0
+07,Taranaki Region,1997,15–19,Female,63
+07,Taranaki Region,1997,15–19,Male,66
+07,Taranaki Region,1997,20–24,Female,177
+07,Taranaki Region,1997,20–24,Male,180
+07,Taranaki Region,1997,25–29,Female,213
+07,Taranaki Region,1997,25–29,Male,234
+07,Taranaki Region,1997,30–34,Female,201
+07,Taranaki Region,1997,30–34,Male,195
+07,Taranaki Region,1997,35–39,Female,69
+07,Taranaki Region,1997,35–39,Male,84
+07,Taranaki Region,1997,40–44,Female,9
+07,Taranaki Region,1997,40–44,Male,12
+07,Taranaki Region,1998,15–19,Female,63
+07,Taranaki Region,1998,15–19,Male,69
+07,Taranaki Region,1998,20–24,Female,150
+07,Taranaki Region,1998,20–24,Male,159
+07,Taranaki Region,1998,25–29,Female,243
+07,Taranaki Region,1998,25–29,Male,234
+07,Taranaki Region,1998,30–34,Female,186
+07,Taranaki Region,1998,30–34,Male,207
+07,Taranaki Region,1998,35–39,Female,75
+07,Taranaki Region,1998,35–39,Male,90
+07,Taranaki Region,1998,40–44,Female,12
+07,Taranaki Region,1998,40–44,Male,9
+07,Taranaki Region,1998,45–49,Male,0
+07,Taranaki Region,1999,15–19,Female,72
+07,Taranaki Region,1999,15–19,Male,60
+07,Taranaki Region,1999,20–24,Female,147
+07,Taranaki Region,1999,20–24,Male,159
+07,Taranaki Region,1999,25–29,Female,237
+07,Taranaki Region,1999,25–29,Male,246
+07,Taranaki Region,1999,30–34,Female,195
+07,Taranaki Region,1999,30–34,Male,225
+07,Taranaki Region,1999,35–39,Female,90
+07,Taranaki Region,1999,35–39,Male,99
+07,Taranaki Region,1999,40–44,Female,12
+07,Taranaki Region,1999,40–44,Male,12
+07,Taranaki Region,2000,15–19,Female,57
+07,Taranaki Region,2000,15–19,Male,72
+07,Taranaki Region,2000,20–24,Female,138
+07,Taranaki Region,2000,20–24,Male,168
+07,Taranaki Region,2000,25–29,Female,207
+07,Taranaki Region,2000,25–29,Male,234
+07,Taranaki Region,2000,30–34,Female,198
+07,Taranaki Region,2000,30–34,Male,204
+07,Taranaki Region,2000,35–39,Female,78
+07,Taranaki Region,2000,35–39,Male,87
+07,Taranaki Region,2000,40–44,Female,18
+07,Taranaki Region,2000,40–44,Male,9
+07,Taranaki Region,2001,15–19,Female,54
+07,Taranaki Region,2001,15–19,Male,66
+07,Taranaki Region,2001,20–24,Female,147
+07,Taranaki Region,2001,20–24,Male,132
+07,Taranaki Region,2001,25–29,Female,201
+07,Taranaki Region,2001,25–29,Male,231
+07,Taranaki Region,2001,30–34,Female,201
+07,Taranaki Region,2001,30–34,Male,174
+07,Taranaki Region,2001,35–39,Female,72
+07,Taranaki Region,2001,35–39,Male,81
+07,Taranaki Region,2001,40–44,Female,12
+07,Taranaki Region,2001,40–44,Male,15
+07,Taranaki Region,2002,15–19,Female,51
+07,Taranaki Region,2002,15–19,Male,60
+07,Taranaki Region,2002,20–24,Female,147
+07,Taranaki Region,2002,20–24,Male,138
+07,Taranaki Region,2002,25–29,Female,195
+07,Taranaki Region,2002,25–29,Male,192
+07,Taranaki Region,2002,30–34,Female,171
+07,Taranaki Region,2002,30–34,Male,207
+07,Taranaki Region,2002,35–39,Female,84
+07,Taranaki Region,2002,35–39,Male,69
+07,Taranaki Region,2002,40–44,Female,12
+07,Taranaki Region,2002,40–44,Male,18
+07,Taranaki Region,2003,15–19,Female,63
+07,Taranaki Region,2003,15–19,Male,60
+07,Taranaki Region,2003,20–24,Female,120
+07,Taranaki Region,2003,20–24,Male,129
+07,Taranaki Region,2003,25–29,Female,174
+07,Taranaki Region,2003,25–29,Male,189
+07,Taranaki Region,2003,30–34,Female,195
+07,Taranaki Region,2003,30–34,Male,201
+07,Taranaki Region,2003,35–39,Female,72
+07,Taranaki Region,2003,35–39,Male,108
+07,Taranaki Region,2003,40–44,Female,18
+07,Taranaki Region,2003,40–44,Male,24
+07,Taranaki Region,2003,45–49,Female,3
+07,Taranaki Region,2004,15–19,Female,60
+07,Taranaki Region,2004,15–19,Male,66
+07,Taranaki Region,2004,20–24,Female,132
+07,Taranaki Region,2004,20–24,Male,153
+07,Taranaki Region,2004,25–29,Female,162
+07,Taranaki Region,2004,25–29,Male,201
+07,Taranaki Region,2004,30–34,Female,189
+07,Taranaki Region,2004,30–34,Male,183
+07,Taranaki Region,2004,35–39,Female,72
+07,Taranaki Region,2004,35–39,Male,75
+07,Taranaki Region,2004,40–44,Female,18
+07,Taranaki Region,2004,40–44,Male,21
+07,Taranaki Region,2004,45–49,Female,3
+07,Taranaki Region,2005,15–19,Female,63
+07,Taranaki Region,2005,15–19,Male,66
+07,Taranaki Region,2005,20–24,Female,135
+07,Taranaki Region,2005,20–24,Male,147
+07,Taranaki Region,2005,25–29,Female,171
+07,Taranaki Region,2005,25–29,Male,204
+07,Taranaki Region,2005,30–34,Female,204
+07,Taranaki Region,2005,30–34,Male,195
+07,Taranaki Region,2005,35–39,Female,90
+07,Taranaki Region,2005,35–39,Male,105
+07,Taranaki Region,2005,40–44,Female,18
+07,Taranaki Region,2005,40–44,Male,21
+07,Taranaki Region,2005,45–49,Male,3
+07,Taranaki Region,2006,15–19,Female,60
+07,Taranaki Region,2006,15–19,Male,66
+07,Taranaki Region,2006,20–24,Female,123
+07,Taranaki Region,2006,20–24,Male,147
+07,Taranaki Region,2006,25–29,Female,189
+07,Taranaki Region,2006,25–29,Male,189
+07,Taranaki Region,2006,30–34,Female,195
+07,Taranaki Region,2006,30–34,Male,189
+07,Taranaki Region,2006,35–39,Female,93
+07,Taranaki Region,2006,35–39,Male,102
+07,Taranaki Region,2006,40–44,Female,12
+07,Taranaki Region,2006,40–44,Male,21
+07,Taranaki Region,2006,45–49,Female,0
+07,Taranaki Region,2007,15–19,Female,75
+07,Taranaki Region,2007,15–19,Male,81
+07,Taranaki Region,2007,20–24,Female,168
+07,Taranaki Region,2007,20–24,Male,168
+07,Taranaki Region,2007,25–29,Female,177
+07,Taranaki Region,2007,25–29,Male,180
+07,Taranaki Region,2007,30–34,Female,222
+07,Taranaki Region,2007,30–34,Male,216
+07,Taranaki Region,2007,35–39,Female,108
+07,Taranaki Region,2007,35–39,Male,120
+07,Taranaki Region,2007,40–44,Female,18
+07,Taranaki Region,2007,40–44,Male,21
+07,Taranaki Region,2007,45–49,Female,3
+07,Taranaki Region,2008,15–19,Female,66
+07,Taranaki Region,2008,15–19,Male,96
+07,Taranaki Region,2008,20–24,Female,171
+07,Taranaki Region,2008,20–24,Male,171
+07,Taranaki Region,2008,25–29,Female,186
+07,Taranaki Region,2008,25–29,Male,195
+07,Taranaki Region,2008,30–34,Female,213
+07,Taranaki Region,2008,30–34,Male,216
+07,Taranaki Region,2008,35–39,Female,123
+07,Taranaki Region,2008,35–39,Male,108
+07,Taranaki Region,2008,40–44,Female,18
+07,Taranaki Region,2008,40–44,Male,30
+07,Taranaki Region,2009,15–19,Female,78
+07,Taranaki Region,2009,15–19,Male,81
+07,Taranaki Region,2009,20–24,Female,150
+07,Taranaki Region,2009,20–24,Male,168
+07,Taranaki Region,2009,25–29,Female,189
+07,Taranaki Region,2009,25–29,Male,231
+07,Taranaki Region,2009,30–34,Female,171
+07,Taranaki Region,2009,30–34,Male,225
+07,Taranaki Region,2009,35–39,Female,138
+07,Taranaki Region,2009,35–39,Male,123
+07,Taranaki Region,2009,40–44,Female,15
+07,Taranaki Region,2009,40–44,Male,18
+07,Taranaki Region,2009,45–49,Female,3
+07,Taranaki Region,2010,15–19,Female,60
+07,Taranaki Region,2010,15–19,Male,63
+07,Taranaki Region,2010,20–24,Female,162
+07,Taranaki Region,2010,20–24,Male,195
+07,Taranaki Region,2010,25–29,Female,204
+07,Taranaki Region,2010,25–29,Male,219
+07,Taranaki Region,2010,30–34,Female,189
+07,Taranaki Region,2010,30–34,Male,219
+07,Taranaki Region,2010,35–39,Female,138
+07,Taranaki Region,2010,35–39,Male,117
+07,Taranaki Region,2010,40–44,Female,27
+07,Taranaki Region,2010,40–44,Male,33
+07,Taranaki Region,2010,45–49,Female,3
+07,Taranaki Region,2010,45–49,Male,3
+07,Taranaki Region,2011,15–19,Female,51
+07,Taranaki Region,2011,15–19,Male,75
+07,Taranaki Region,2011,20–24,Female,171
+07,Taranaki Region,2011,20–24,Male,177
+07,Taranaki Region,2011,25–29,Female,204
+07,Taranaki Region,2011,25–29,Male,210
+07,Taranaki Region,2011,30–34,Female,183
+07,Taranaki Region,2011,30–34,Male,213
+07,Taranaki Region,2011,35–39,Female,123
+07,Taranaki Region,2011,35–39,Male,108
+07,Taranaki Region,2011,40–44,Female,24
+07,Taranaki Region,2011,40–44,Male,30
+07,Taranaki Region,2011,45–49,Male,0
+07,Taranaki Region,2012,15–19,Female,45
+07,Taranaki Region,2012,15–19,Male,57
+07,Taranaki Region,2012,20–24,Female,153
+07,Taranaki Region,2012,20–24,Male,147
+07,Taranaki Region,2012,25–29,Female,255
+07,Taranaki Region,2012,25–29,Male,213
+07,Taranaki Region,2012,30–34,Female,204
+07,Taranaki Region,2012,30–34,Male,204
+07,Taranaki Region,2012,35–39,Female,99
+07,Taranaki Region,2012,35–39,Male,114
+07,Taranaki Region,2012,40–44,Female,18
+07,Taranaki Region,2012,40–44,Male,27
+07,Taranaki Region,2012,45–49,Male,3
+07,Taranaki Region,2013,15–19,Female,45
+07,Taranaki Region,2013,15–19,Male,48
+07,Taranaki Region,2013,20–24,Female,144
+07,Taranaki Region,2013,20–24,Male,159
+07,Taranaki Region,2013,25–29,Female,195
+07,Taranaki Region,2013,25–29,Male,225
+07,Taranaki Region,2013,30–34,Female,216
+07,Taranaki Region,2013,30–34,Male,183
+07,Taranaki Region,2013,35–39,Female,117
+07,Taranaki Region,2013,35–39,Male,120
+07,Taranaki Region,2013,40–44,Female,27
+07,Taranaki Region,2013,40–44,Male,24
+07,Taranaki Region,2013,45–49,Female,0
+07,Taranaki Region,2014,15–19,Female,39
+07,Taranaki Region,2014,15–19,Male,42
+07,Taranaki Region,2014,20–24,Female,171
+07,Taranaki Region,2014,20–24,Male,165
+07,Taranaki Region,2014,25–29,Female,219
+07,Taranaki Region,2014,25–29,Male,255
+07,Taranaki Region,2014,30–34,Female,180
+07,Taranaki Region,2014,30–34,Male,207
+07,Taranaki Region,2014,35–39,Female,87
+07,Taranaki Region,2014,35–39,Male,108
+07,Taranaki Region,2014,40–44,Female,15
+07,Taranaki Region,2014,40–44,Male,30
+07,Taranaki Region,2014,45–49,Female,3
+07,Taranaki Region,2014,45–49,Male,0
+07,Taranaki Region,2015,15–19,Female,42
+07,Taranaki Region,2015,15–19,Male,45
+07,Taranaki Region,2015,20–24,Female,153
+07,Taranaki Region,2015,20–24,Male,165
+07,Taranaki Region,2015,25–29,Female,225
+07,Taranaki Region,2015,25–29,Male,258
+07,Taranaki Region,2015,30–34,Female,240
+07,Taranaki Region,2015,30–34,Male,216
+07,Taranaki Region,2015,35–39,Female,114
+07,Taranaki Region,2015,35–39,Male,96
+07,Taranaki Region,2015,40–44,Female,21
+07,Taranaki Region,2015,40–44,Male,30
+07,Taranaki Region,2015,45–49,Female,6
+07,Taranaki Region,2015,45–49,Male,3
+07,Taranaki Region,2016,15–19,Female,30
+07,Taranaki Region,2016,15–19,Male,39
+07,Taranaki Region,2016,20–24,Female,135
+07,Taranaki Region,2016,20–24,Male,159
+07,Taranaki Region,2016,25–29,Female,213
+07,Taranaki Region,2016,25–29,Male,246
+07,Taranaki Region,2016,30–34,Female,207
+07,Taranaki Region,2016,30–34,Male,210
+07,Taranaki Region,2016,35–39,Female,105
+07,Taranaki Region,2016,35–39,Male,111
+07,Taranaki Region,2016,40–44,Female,27
+07,Taranaki Region,2016,40–44,Male,18
+08,Manawatu-Wanganui Region,1997,15–19,Female,150
+08,Manawatu-Wanganui Region,1997,15–19,Male,189
+08,Manawatu-Wanganui Region,1997,20–24,Female,390
+08,Manawatu-Wanganui Region,1997,20–24,Male,405
+08,Manawatu-Wanganui Region,1997,25–29,Female,579
+08,Manawatu-Wanganui Region,1997,25–29,Male,573
+08,Manawatu-Wanganui Region,1997,30–34,Female,423
+08,Manawatu-Wanganui Region,1997,30–34,Male,435
+08,Manawatu-Wanganui Region,1997,35–39,Female,156
+08,Manawatu-Wanganui Region,1997,35–39,Male,183
+08,Manawatu-Wanganui Region,1997,40–44,Female,36
+08,Manawatu-Wanganui Region,1997,40–44,Male,30
+08,Manawatu-Wanganui Region,1997,45–49,Female,0
+08,Manawatu-Wanganui Region,1997,45–49,Male,0
+08,Manawatu-Wanganui Region,1998,15–19,Female,174
+08,Manawatu-Wanganui Region,1998,15–19,Male,186
+08,Manawatu-Wanganui Region,1998,20–24,Female,372
+08,Manawatu-Wanganui Region,1998,20–24,Male,372
+08,Manawatu-Wanganui Region,1998,25–29,Female,543
+08,Manawatu-Wanganui Region,1998,25–29,Male,534
+08,Manawatu-Wanganui Region,1998,30–34,Female,369
+08,Manawatu-Wanganui Region,1998,30–34,Male,420
+08,Manawatu-Wanganui Region,1998,35–39,Female,195
+08,Manawatu-Wanganui Region,1998,35–39,Male,180
+08,Manawatu-Wanganui Region,1998,40–44,Female,30
+08,Manawatu-Wanganui Region,1998,40–44,Male,33
+08,Manawatu-Wanganui Region,1998,45–49,Male,0
+08,Manawatu-Wanganui Region,1999,15–19,Female,141
+08,Manawatu-Wanganui Region,1999,15–19,Male,138
+08,Manawatu-Wanganui Region,1999,20–24,Female,348
+08,Manawatu-Wanganui Region,1999,20–24,Male,351
+08,Manawatu-Wanganui Region,1999,25–29,Female,444
+08,Manawatu-Wanganui Region,1999,25–29,Male,522
+08,Manawatu-Wanganui Region,1999,30–34,Female,402
+08,Manawatu-Wanganui Region,1999,30–34,Male,417
+08,Manawatu-Wanganui Region,1999,35–39,Female,213
+08,Manawatu-Wanganui Region,1999,35–39,Male,183
+08,Manawatu-Wanganui Region,1999,40–44,Female,27
+08,Manawatu-Wanganui Region,1999,40–44,Male,24
+08,Manawatu-Wanganui Region,1999,45–49,Female,0
+08,Manawatu-Wanganui Region,1999,45–49,Male,3
+08,Manawatu-Wanganui Region,2000,15–19,Female,135
+08,Manawatu-Wanganui Region,2000,15–19,Male,171
+08,Manawatu-Wanganui Region,2000,20–24,Female,381
+08,Manawatu-Wanganui Region,2000,20–24,Male,357
+08,Manawatu-Wanganui Region,2000,25–29,Female,498
+08,Manawatu-Wanganui Region,2000,25–29,Male,486
+08,Manawatu-Wanganui Region,2000,30–34,Female,423
+08,Manawatu-Wanganui Region,2000,30–34,Male,477
+08,Manawatu-Wanganui Region,2000,35–39,Female,183
+08,Manawatu-Wanganui Region,2000,35–39,Male,195
+08,Manawatu-Wanganui Region,2000,40–44,Female,30
+08,Manawatu-Wanganui Region,2000,40–44,Male,39
+08,Manawatu-Wanganui Region,2000,45–49,Male,0
+08,Manawatu-Wanganui Region,2001,15–19,Female,144
+08,Manawatu-Wanganui Region,2001,15–19,Male,165
+08,Manawatu-Wanganui Region,2001,20–24,Female,339
+08,Manawatu-Wanganui Region,2001,20–24,Male,345
+08,Manawatu-Wanganui Region,2001,25–29,Female,438
+08,Manawatu-Wanganui Region,2001,25–29,Male,459
+08,Manawatu-Wanganui Region,2001,30–34,Female,411
+08,Manawatu-Wanganui Region,2001,30–34,Male,447
+08,Manawatu-Wanganui Region,2001,35–39,Female,204
+08,Manawatu-Wanganui Region,2001,35–39,Male,204
+08,Manawatu-Wanganui Region,2001,40–44,Female,36
+08,Manawatu-Wanganui Region,2001,40–44,Male,30
+08,Manawatu-Wanganui Region,2001,45–49,Female,3
+08,Manawatu-Wanganui Region,2002,15–19,Female,132
+08,Manawatu-Wanganui Region,2002,15–19,Male,138
+08,Manawatu-Wanganui Region,2002,20–24,Female,303
+08,Manawatu-Wanganui Region,2002,20–24,Male,318
+08,Manawatu-Wanganui Region,2002,25–29,Female,423
+08,Manawatu-Wanganui Region,2002,25–29,Male,405
+08,Manawatu-Wanganui Region,2002,30–34,Female,375
+08,Manawatu-Wanganui Region,2002,30–34,Male,378
+08,Manawatu-Wanganui Region,2002,35–39,Female,180
+08,Manawatu-Wanganui Region,2002,35–39,Male,159
+08,Manawatu-Wanganui Region,2002,40–44,Female,39
+08,Manawatu-Wanganui Region,2002,40–44,Male,39
+08,Manawatu-Wanganui Region,2002,45–49,Male,3
+08,Manawatu-Wanganui Region,2003,15–19,Female,123
+08,Manawatu-Wanganui Region,2003,15–19,Male,150
+08,Manawatu-Wanganui Region,2003,20–24,Female,300
+08,Manawatu-Wanganui Region,2003,20–24,Male,297
+08,Manawatu-Wanganui Region,2003,25–29,Female,372
+08,Manawatu-Wanganui Region,2003,25–29,Male,423
+08,Manawatu-Wanganui Region,2003,30–34,Female,384
+08,Manawatu-Wanganui Region,2003,30–34,Male,423
+08,Manawatu-Wanganui Region,2003,35–39,Female,189
+08,Manawatu-Wanganui Region,2003,35–39,Male,180
+08,Manawatu-Wanganui Region,2003,40–44,Female,39
+08,Manawatu-Wanganui Region,2003,40–44,Male,48
+08,Manawatu-Wanganui Region,2003,45–49,Female,3
+08,Manawatu-Wanganui Region,2003,45–49,Male,0
+08,Manawatu-Wanganui Region,2004,15–19,Female,144
+08,Manawatu-Wanganui Region,2004,15–19,Male,132
+08,Manawatu-Wanganui Region,2004,20–24,Female,315
+08,Manawatu-Wanganui Region,2004,20–24,Male,372
+08,Manawatu-Wanganui Region,2004,25–29,Female,363
+08,Manawatu-Wanganui Region,2004,25–29,Male,396
+08,Manawatu-Wanganui Region,2004,30–34,Female,375
+08,Manawatu-Wanganui Region,2004,30–34,Male,369
+08,Manawatu-Wanganui Region,2004,35–39,Female,195
+08,Manawatu-Wanganui Region,2004,35–39,Male,195
+08,Manawatu-Wanganui Region,2004,40–44,Female,36
+08,Manawatu-Wanganui Region,2004,40–44,Male,45
+08,Manawatu-Wanganui Region,2004,45–49,Female,0
+08,Manawatu-Wanganui Region,2004,45–49,Male,3
+08,Manawatu-Wanganui Region,2005,15–19,Female,153
+08,Manawatu-Wanganui Region,2005,15–19,Male,153
+08,Manawatu-Wanganui Region,2005,20–24,Female,315
+08,Manawatu-Wanganui Region,2005,20–24,Male,327
+08,Manawatu-Wanganui Region,2005,25–29,Female,402
+08,Manawatu-Wanganui Region,2005,25–29,Male,396
+08,Manawatu-Wanganui Region,2005,30–34,Female,405
+08,Manawatu-Wanganui Region,2005,30–34,Male,387
+08,Manawatu-Wanganui Region,2005,35–39,Female,189
+08,Manawatu-Wanganui Region,2005,35–39,Male,189
+08,Manawatu-Wanganui Region,2005,40–44,Female,42
+08,Manawatu-Wanganui Region,2005,40–44,Male,54
+08,Manawatu-Wanganui Region,2005,45–49,Female,3
+08,Manawatu-Wanganui Region,2005,45–49,Male,0
+08,Manawatu-Wanganui Region,2006,15–19,Female,162
+08,Manawatu-Wanganui Region,2006,15–19,Male,174
+08,Manawatu-Wanganui Region,2006,20–24,Female,339
+08,Manawatu-Wanganui Region,2006,20–24,Male,315
+08,Manawatu-Wanganui Region,2006,25–29,Female,366
+08,Manawatu-Wanganui Region,2006,25–29,Male,447
+08,Manawatu-Wanganui Region,2006,30–34,Female,438
+08,Manawatu-Wanganui Region,2006,30–34,Male,417
+08,Manawatu-Wanganui Region,2006,35–39,Female,219
+08,Manawatu-Wanganui Region,2006,35–39,Male,189
+08,Manawatu-Wanganui Region,2006,40–44,Female,39
+08,Manawatu-Wanganui Region,2006,40–44,Male,63
+08,Manawatu-Wanganui Region,2006,45–49,Male,3
+08,Manawatu-Wanganui Region,2007,15–19,Female,168
+08,Manawatu-Wanganui Region,2007,15–19,Male,165
+08,Manawatu-Wanganui Region,2007,20–24,Female,366
+08,Manawatu-Wanganui Region,2007,20–24,Male,345
+08,Manawatu-Wanganui Region,2007,25–29,Female,375
+08,Manawatu-Wanganui Region,2007,25–29,Male,435
+08,Manawatu-Wanganui Region,2007,30–34,Female,381
+08,Manawatu-Wanganui Region,2007,30–34,Male,417
+08,Manawatu-Wanganui Region,2007,35–39,Female,219
+08,Manawatu-Wanganui Region,2007,35–39,Male,225
+08,Manawatu-Wanganui Region,2007,40–44,Female,39
+08,Manawatu-Wanganui Region,2007,40–44,Male,33
+08,Manawatu-Wanganui Region,2007,45–49,Female,3
+08,Manawatu-Wanganui Region,2007,45–49,Male,3
+08,Manawatu-Wanganui Region,2008,15–19,Female,180
+08,Manawatu-Wanganui Region,2008,15–19,Male,198
+08,Manawatu-Wanganui Region,2008,20–24,Female,381
+08,Manawatu-Wanganui Region,2008,20–24,Male,360
+08,Manawatu-Wanganui Region,2008,25–29,Female,456
+08,Manawatu-Wanganui Region,2008,25–29,Male,444
+08,Manawatu-Wanganui Region,2008,30–34,Female,381
+08,Manawatu-Wanganui Region,2008,30–34,Male,399
+08,Manawatu-Wanganui Region,2008,35–39,Female,237
+08,Manawatu-Wanganui Region,2008,35–39,Male,243
+08,Manawatu-Wanganui Region,2008,40–44,Female,42
+08,Manawatu-Wanganui Region,2008,40–44,Male,45
+08,Manawatu-Wanganui Region,2008,45–49,Female,0
+08,Manawatu-Wanganui Region,2008,45–49,Male,3
+08,Manawatu-Wanganui Region,2009,15–19,Female,150
+08,Manawatu-Wanganui Region,2009,15–19,Male,180
+08,Manawatu-Wanganui Region,2009,20–24,Female,384
+08,Manawatu-Wanganui Region,2009,20–24,Male,408
+08,Manawatu-Wanganui Region,2009,25–29,Female,393
+08,Manawatu-Wanganui Region,2009,25–29,Male,414
+08,Manawatu-Wanganui Region,2009,30–34,Female,393
+08,Manawatu-Wanganui Region,2009,30–34,Male,396
+08,Manawatu-Wanganui Region,2009,35–39,Female,213
+08,Manawatu-Wanganui Region,2009,35–39,Male,240
+08,Manawatu-Wanganui Region,2009,40–44,Female,39
+08,Manawatu-Wanganui Region,2009,40–44,Male,33
+08,Manawatu-Wanganui Region,2009,45–49,Female,0
+08,Manawatu-Wanganui Region,2009,45–49,Male,3
+08,Manawatu-Wanganui Region,2010,15–19,Female,165
+08,Manawatu-Wanganui Region,2010,15–19,Male,186
+08,Manawatu-Wanganui Region,2010,20–24,Female,381
+08,Manawatu-Wanganui Region,2010,20–24,Male,387
+08,Manawatu-Wanganui Region,2010,25–29,Female,444
+08,Manawatu-Wanganui Region,2010,25–29,Male,459
+08,Manawatu-Wanganui Region,2010,30–34,Female,357
+08,Manawatu-Wanganui Region,2010,30–34,Male,381
+08,Manawatu-Wanganui Region,2010,35–39,Female,228
+08,Manawatu-Wanganui Region,2010,35–39,Male,210
+08,Manawatu-Wanganui Region,2010,40–44,Female,45
+08,Manawatu-Wanganui Region,2010,40–44,Male,60
+08,Manawatu-Wanganui Region,2010,45–49,Female,3
+08,Manawatu-Wanganui Region,2010,45–49,Male,3
+08,Manawatu-Wanganui Region,2011,15–19,Female,135
+08,Manawatu-Wanganui Region,2011,15–19,Male,156
+08,Manawatu-Wanganui Region,2011,20–24,Female,414
+08,Manawatu-Wanganui Region,2011,20–24,Male,390
+08,Manawatu-Wanganui Region,2011,25–29,Female,420
+08,Manawatu-Wanganui Region,2011,25–29,Male,432
+08,Manawatu-Wanganui Region,2011,30–34,Female,396
+08,Manawatu-Wanganui Region,2011,30–34,Male,372
+08,Manawatu-Wanganui Region,2011,35–39,Female,225
+08,Manawatu-Wanganui Region,2011,35–39,Male,222
+08,Manawatu-Wanganui Region,2011,40–44,Female,51
+08,Manawatu-Wanganui Region,2011,40–44,Male,60
+08,Manawatu-Wanganui Region,2011,45–49,Female,3
+08,Manawatu-Wanganui Region,2011,45–49,Male,3
+08,Manawatu-Wanganui Region,2012,15–19,Female,129
+08,Manawatu-Wanganui Region,2012,15–19,Male,132
+08,Manawatu-Wanganui Region,2012,20–24,Female,393
+08,Manawatu-Wanganui Region,2012,20–24,Male,360
+08,Manawatu-Wanganui Region,2012,25–29,Female,420
+08,Manawatu-Wanganui Region,2012,25–29,Male,405
+08,Manawatu-Wanganui Region,2012,30–34,Female,309
+08,Manawatu-Wanganui Region,2012,30–34,Male,393
+08,Manawatu-Wanganui Region,2012,35–39,Female,195
+08,Manawatu-Wanganui Region,2012,35–39,Male,189
+08,Manawatu-Wanganui Region,2012,40–44,Female,51
+08,Manawatu-Wanganui Region,2012,40–44,Male,66
+08,Manawatu-Wanganui Region,2012,45–49,Female,3
+08,Manawatu-Wanganui Region,2012,45–49,Male,3
+08,Manawatu-Wanganui Region,2013,15–19,Female,132
+08,Manawatu-Wanganui Region,2013,15–19,Male,123
+08,Manawatu-Wanganui Region,2013,20–24,Female,354
+08,Manawatu-Wanganui Region,2013,20–24,Male,348
+08,Manawatu-Wanganui Region,2013,25–29,Female,399
+08,Manawatu-Wanganui Region,2013,25–29,Male,471
+08,Manawatu-Wanganui Region,2013,30–34,Female,339
+08,Manawatu-Wanganui Region,2013,30–34,Male,348
+08,Manawatu-Wanganui Region,2013,35–39,Female,189
+08,Manawatu-Wanganui Region,2013,35–39,Male,186
+08,Manawatu-Wanganui Region,2013,40–44,Female,51
+08,Manawatu-Wanganui Region,2013,40–44,Male,42
+08,Manawatu-Wanganui Region,2013,45–49,Female,3
+08,Manawatu-Wanganui Region,2013,45–49,Male,3
+08,Manawatu-Wanganui Region,2014,15–19,Female,105
+08,Manawatu-Wanganui Region,2014,15–19,Male,114
+08,Manawatu-Wanganui Region,2014,20–24,Female,357
+08,Manawatu-Wanganui Region,2014,20–24,Male,345
+08,Manawatu-Wanganui Region,2014,25–29,Female,375
+08,Manawatu-Wanganui Region,2014,25–29,Male,405
+08,Manawatu-Wanganui Region,2014,30–34,Female,375
+08,Manawatu-Wanganui Region,2014,30–34,Male,348
+08,Manawatu-Wanganui Region,2014,35–39,Female,189
+08,Manawatu-Wanganui Region,2014,35–39,Male,228
+08,Manawatu-Wanganui Region,2014,40–44,Female,45
+08,Manawatu-Wanganui Region,2014,40–44,Male,63
+08,Manawatu-Wanganui Region,2014,45–49,Female,6
+08,Manawatu-Wanganui Region,2014,45–49,Male,6
+08,Manawatu-Wanganui Region,2015,15–19,Female,93
+08,Manawatu-Wanganui Region,2015,15–19,Male,105
+08,Manawatu-Wanganui Region,2015,20–24,Female,297
+08,Manawatu-Wanganui Region,2015,20–24,Male,378
+08,Manawatu-Wanganui Region,2015,25–29,Female,444
+08,Manawatu-Wanganui Region,2015,25–29,Male,432
+08,Manawatu-Wanganui Region,2015,30–34,Female,354
+08,Manawatu-Wanganui Region,2015,30–34,Male,417
+08,Manawatu-Wanganui Region,2015,35–39,Female,192
+08,Manawatu-Wanganui Region,2015,35–39,Male,171
+08,Manawatu-Wanganui Region,2015,40–44,Female,36
+08,Manawatu-Wanganui Region,2015,40–44,Male,39
+08,Manawatu-Wanganui Region,2015,45–49,Female,3
+08,Manawatu-Wanganui Region,2015,45–49,Male,6
+08,Manawatu-Wanganui Region,2016,15–19,Female,78
+08,Manawatu-Wanganui Region,2016,15–19,Male,90
+08,Manawatu-Wanganui Region,2016,20–24,Female,300
+08,Manawatu-Wanganui Region,2016,20–24,Male,342
+08,Manawatu-Wanganui Region,2016,25–29,Female,444
+08,Manawatu-Wanganui Region,2016,25–29,Male,462
+08,Manawatu-Wanganui Region,2016,30–34,Female,357
+08,Manawatu-Wanganui Region,2016,30–34,Male,414
+08,Manawatu-Wanganui Region,2016,35–39,Female,201
+08,Manawatu-Wanganui Region,2016,35–39,Male,183
+08,Manawatu-Wanganui Region,2016,40–44,Female,33
+08,Manawatu-Wanganui Region,2016,40–44,Male,51
+08,Manawatu-Wanganui Region,2016,45–49,Female,3
+08,Manawatu-Wanganui Region,2016,45–49,Male,0
+09,Wellington Region,1997,15–19,Female,189
+09,Wellington Region,1997,15–19,Male,222
+09,Wellington Region,1997,20–24,Female,531
+09,Wellington Region,1997,20–24,Male,534
+09,Wellington Region,1997,25–29,Female,900
+09,Wellington Region,1997,25–29,Male,945
+09,Wellington Region,1997,30–34,Female,981
+09,Wellington Region,1997,30–34,Male,1038
+09,Wellington Region,1997,35–39,Female,468
+09,Wellington Region,1997,35–39,Male,480
+09,Wellington Region,1997,40–44,Female,69
+09,Wellington Region,1997,40–44,Male,66
+09,Wellington Region,1997,45–49,Female,3
+09,Wellington Region,1997,45–49,Male,3
+09,Wellington Region,1998,15–19,Female,183
+09,Wellington Region,1998,15–19,Male,192
+09,Wellington Region,1998,20–24,Female,525
+09,Wellington Region,1998,20–24,Male,510
+09,Wellington Region,1998,25–29,Female,867
+09,Wellington Region,1998,25–29,Male,945
+09,Wellington Region,1998,30–34,Female,969
+09,Wellington Region,1998,30–34,Male,1005
+09,Wellington Region,1998,35–39,Female,468
+09,Wellington Region,1998,35–39,Male,546
+09,Wellington Region,1998,40–44,Female,75
+09,Wellington Region,1998,40–44,Male,72
+09,Wellington Region,1998,45–49,Female,3
+09,Wellington Region,1998,45–49,Male,3
+09,Wellington Region,1999,15–19,Female,183
+09,Wellington Region,1999,15–19,Male,207
+09,Wellington Region,1999,20–24,Female,477
+09,Wellington Region,1999,20–24,Male,519
+09,Wellington Region,1999,25–29,Female,888
+09,Wellington Region,1999,25–29,Male,954
+09,Wellington Region,1999,30–34,Female,996
+09,Wellington Region,1999,30–34,Male,1095
+09,Wellington Region,1999,35–39,Female,525
+09,Wellington Region,1999,35–39,Male,537
+09,Wellington Region,1999,40–44,Female,93
+09,Wellington Region,1999,40–44,Male,72
+09,Wellington Region,1999,45–49,Female,3
+09,Wellington Region,1999,45–49,Male,3
+09,Wellington Region,2000,15–19,Female,183
+09,Wellington Region,2000,15–19,Male,192
+09,Wellington Region,2000,20–24,Female,510
+09,Wellington Region,2000,20–24,Male,513
+09,Wellington Region,2000,25–29,Female,885
+09,Wellington Region,2000,25–29,Male,891
+09,Wellington Region,2000,30–34,Female,1044
+09,Wellington Region,2000,30–34,Male,1101
+09,Wellington Region,2000,35–39,Female,573
+09,Wellington Region,2000,35–39,Male,585
+09,Wellington Region,2000,40–44,Female,93
+09,Wellington Region,2000,40–44,Male,81
+09,Wellington Region,2000,45–49,Female,3
+09,Wellington Region,2000,45–49,Male,6
+09,Wellington Region,2001,15–19,Female,186
+09,Wellington Region,2001,15–19,Male,186
+09,Wellington Region,2001,20–24,Female,507
+09,Wellington Region,2001,20–24,Male,513
+09,Wellington Region,2001,25–29,Female,840
+09,Wellington Region,2001,25–29,Male,822
+09,Wellington Region,2001,30–34,Female,1041
+09,Wellington Region,2001,30–34,Male,1098
+09,Wellington Region,2001,35–39,Female,546
+09,Wellington Region,2001,35–39,Male,606
+09,Wellington Region,2001,40–44,Female,111
+09,Wellington Region,2001,40–44,Male,96
+09,Wellington Region,2001,45–49,Female,3
+09,Wellington Region,2001,45–49,Male,9
+09,Wellington Region,2002,15–19,Female,174
+09,Wellington Region,2002,15–19,Male,162
+09,Wellington Region,2002,20–24,Female,402
+09,Wellington Region,2002,20–24,Male,468
+09,Wellington Region,2002,25–29,Female,741
+09,Wellington Region,2002,25–29,Male,774
+09,Wellington Region,2002,30–34,Female,975
+09,Wellington Region,2002,30–34,Male,1026
+09,Wellington Region,2002,35–39,Female,555
+09,Wellington Region,2002,35–39,Male,543
+09,Wellington Region,2002,40–44,Female,108
+09,Wellington Region,2002,40–44,Male,120
+09,Wellington Region,2002,45–49,Female,3
+09,Wellington Region,2002,45–49,Male,0
+09,Wellington Region,2003,15–19,Female,159
+09,Wellington Region,2003,15–19,Male,174
+09,Wellington Region,2003,20–24,Female,399
+09,Wellington Region,2003,20–24,Male,444
+09,Wellington Region,2003,25–29,Female,651
+09,Wellington Region,2003,25–29,Male,780
+09,Wellington Region,2003,30–34,Female,1062
+09,Wellington Region,2003,30–34,Male,1095
+09,Wellington Region,2003,35–39,Female,603
+09,Wellington Region,2003,35–39,Male,636
+09,Wellington Region,2003,40–44,Female,96
+09,Wellington Region,2003,40–44,Male,114
+09,Wellington Region,2003,45–49,Female,6
+09,Wellington Region,2003,45–49,Male,9
+09,Wellington Region,2004,15–19,Female,177
+09,Wellington Region,2004,15–19,Male,165
+09,Wellington Region,2004,20–24,Female,450
+09,Wellington Region,2004,20–24,Male,480
+09,Wellington Region,2004,25–29,Female,702
+09,Wellington Region,2004,25–29,Male,750
+09,Wellington Region,2004,30–34,Female,1047
+09,Wellington Region,2004,30–34,Male,1131
+09,Wellington Region,2004,35–39,Female,663
+09,Wellington Region,2004,35–39,Male,594
+09,Wellington Region,2004,40–44,Female,129
+09,Wellington Region,2004,40–44,Male,129
+09,Wellington Region,2004,45–49,Female,6
+09,Wellington Region,2004,45–49,Male,6
+09,Wellington Region,2005,15–19,Female,165
+09,Wellington Region,2005,15–19,Male,162
+09,Wellington Region,2005,20–24,Female,426
+09,Wellington Region,2005,20–24,Male,450
+09,Wellington Region,2005,25–29,Female,627
+09,Wellington Region,2005,25–29,Male,699
+09,Wellington Region,2005,30–34,Female,1035
+09,Wellington Region,2005,30–34,Male,1092
+09,Wellington Region,2005,35–39,Female,627
+09,Wellington Region,2005,35–39,Male,678
+09,Wellington Region,2005,40–44,Female,129
+09,Wellington Region,2005,40–44,Male,135
+09,Wellington Region,2005,45–49,Female,3
+09,Wellington Region,2005,45–49,Male,3
+09,Wellington Region,2006,15–19,Female,195
+09,Wellington Region,2006,15–19,Male,174
+09,Wellington Region,2006,20–24,Female,444
+09,Wellington Region,2006,20–24,Male,438
+09,Wellington Region,2006,25–29,Female,663
+09,Wellington Region,2006,25–29,Male,726
+09,Wellington Region,2006,30–34,Female,1128
+09,Wellington Region,2006,30–34,Male,1086
+09,Wellington Region,2006,35–39,Female,633
+09,Wellington Region,2006,35–39,Male,636
+09,Wellington Region,2006,40–44,Female,132
+09,Wellington Region,2006,40–44,Male,123
+09,Wellington Region,2006,45–49,Female,0
+09,Wellington Region,2006,45–49,Male,6
+09,Wellington Region,2007,15–19,Female,207
+09,Wellington Region,2007,15–19,Male,207
+09,Wellington Region,2007,20–24,Female,474
+09,Wellington Region,2007,20–24,Male,474
+09,Wellington Region,2007,25–29,Female,687
+09,Wellington Region,2007,25–29,Male,780
+09,Wellington Region,2007,30–34,Female,1038
+09,Wellington Region,2007,30–34,Male,1092
+09,Wellington Region,2007,35–39,Female,714
+09,Wellington Region,2007,35–39,Male,684
+09,Wellington Region,2007,40–44,Female,147
+09,Wellington Region,2007,40–44,Male,165
+09,Wellington Region,2007,45–49,Female,9
+09,Wellington Region,2007,45–49,Male,0
+09,Wellington Region,2008,15–19,Female,225
+09,Wellington Region,2008,15–19,Male,222
+09,Wellington Region,2008,20–24,Female,474
+09,Wellington Region,2008,20–24,Male,492
+09,Wellington Region,2008,25–29,Female,750
+09,Wellington Region,2008,25–29,Male,801
+09,Wellington Region,2008,30–34,Female,1071
+09,Wellington Region,2008,30–34,Male,1071
+09,Wellington Region,2008,35–39,Female,747
+09,Wellington Region,2008,35–39,Male,744
+09,Wellington Region,2008,40–44,Female,144
+09,Wellington Region,2008,40–44,Male,144
+09,Wellington Region,2008,45–49,Female,6
+09,Wellington Region,2008,45–49,Male,6
+09,Wellington Region,2009,15–19,Female,219
+09,Wellington Region,2009,15–19,Male,246
+09,Wellington Region,2009,20–24,Female,516
+09,Wellington Region,2009,20–24,Male,525
+09,Wellington Region,2009,25–29,Female,729
+09,Wellington Region,2009,25–29,Male,789
+09,Wellington Region,2009,30–34,Female,1068
+09,Wellington Region,2009,30–34,Male,1059
+09,Wellington Region,2009,35–39,Female,717
+09,Wellington Region,2009,35–39,Male,750
+09,Wellington Region,2009,40–44,Female,159
+09,Wellington Region,2009,40–44,Male,129
+09,Wellington Region,2009,45–49,Female,6
+09,Wellington Region,2009,45–49,Male,9
+09,Wellington Region,2010,15–19,Female,195
+09,Wellington Region,2010,15–19,Male,213
+09,Wellington Region,2010,20–24,Female,540
+09,Wellington Region,2010,20–24,Male,498
+09,Wellington Region,2010,25–29,Female,711
+09,Wellington Region,2010,25–29,Male,732
+09,Wellington Region,2010,30–34,Female,1035
+09,Wellington Region,2010,30–34,Male,1092
+09,Wellington Region,2010,35–39,Female,723
+09,Wellington Region,2010,35–39,Male,804
+09,Wellington Region,2010,40–44,Female,147
+09,Wellington Region,2010,40–44,Male,156
+09,Wellington Region,2010,45–49,Female,9
+09,Wellington Region,2010,45–49,Male,6
+09,Wellington Region,2011,15–19,Female,177
+09,Wellington Region,2011,15–19,Male,189
+09,Wellington Region,2011,20–24,Female,477
+09,Wellington Region,2011,20–24,Male,498
+09,Wellington Region,2011,25–29,Female,747
+09,Wellington Region,2011,25–29,Male,732
+09,Wellington Region,2011,30–34,Female,1029
+09,Wellington Region,2011,30–34,Male,1050
+09,Wellington Region,2011,35–39,Female,714
+09,Wellington Region,2011,35–39,Male,780
+09,Wellington Region,2011,40–44,Female,162
+09,Wellington Region,2011,40–44,Male,153
+09,Wellington Region,2011,45–49,Female,6
+09,Wellington Region,2011,45–49,Male,9
+09,Wellington Region,2012,15–19,Female,159
+09,Wellington Region,2012,15–19,Male,201
+09,Wellington Region,2012,20–24,Female,483
+09,Wellington Region,2012,20–24,Male,477
+09,Wellington Region,2012,25–29,Female,705
+09,Wellington Region,2012,25–29,Male,672
+09,Wellington Region,2012,30–34,Female,1020
+09,Wellington Region,2012,30–34,Male,1026
+09,Wellington Region,2012,35–39,Female,660
+09,Wellington Region,2012,35–39,Male,672
+09,Wellington Region,2012,40–44,Female,159
+09,Wellington Region,2012,40–44,Male,156
+09,Wellington Region,2012,45–49,Female,12
+09,Wellington Region,2012,45–49,Male,3
+09,Wellington Region,2013,15–19,Female,144
+09,Wellington Region,2013,15–19,Male,132
+09,Wellington Region,2013,20–24,Female,429
+09,Wellington Region,2013,20–24,Male,495
+09,Wellington Region,2013,25–29,Female,702
+09,Wellington Region,2013,25–29,Male,723
+09,Wellington Region,2013,30–34,Female,912
+09,Wellington Region,2013,30–34,Male,1002
+09,Wellington Region,2013,35–39,Female,651
+09,Wellington Region,2013,35–39,Male,690
+09,Wellington Region,2013,40–44,Female,159
+09,Wellington Region,2013,40–44,Male,168
+09,Wellington Region,2013,45–49,Female,12
+09,Wellington Region,2013,45–49,Male,12
+09,Wellington Region,2014,15–19,Female,132
+09,Wellington Region,2014,15–19,Male,123
+09,Wellington Region,2014,20–24,Female,444
+09,Wellington Region,2014,20–24,Male,483
+09,Wellington Region,2014,25–29,Female,705
+09,Wellington Region,2014,25–29,Male,687
+09,Wellington Region,2014,30–34,Female,912
+09,Wellington Region,2014,30–34,Male,1020
+09,Wellington Region,2014,35–39,Female,627
+09,Wellington Region,2014,35–39,Male,630
+09,Wellington Region,2014,40–44,Female,156
+09,Wellington Region,2014,40–44,Male,174
+09,Wellington Region,2014,45–49,Female,9
+09,Wellington Region,2014,45–49,Male,6
+09,Wellington Region,2015,15–19,Female,123
+09,Wellington Region,2015,15–19,Male,123
+09,Wellington Region,2015,20–24,Female,372
+09,Wellington Region,2015,20–24,Male,426
+09,Wellington Region,2015,25–29,Female,651
+09,Wellington Region,2015,25–29,Male,768
+09,Wellington Region,2015,30–34,Female,1002
+09,Wellington Region,2015,30–34,Male,978
+09,Wellington Region,2015,35–39,Female,567
+09,Wellington Region,2015,35–39,Male,624
+09,Wellington Region,2015,40–44,Female,135
+09,Wellington Region,2015,40–44,Male,150
+09,Wellington Region,2015,45–49,Female,3
+09,Wellington Region,2015,45–49,Male,12
+09,Wellington Region,2016,15–19,Female,117
+09,Wellington Region,2016,15–19,Male,111
+09,Wellington Region,2016,20–24,Female,381
+09,Wellington Region,2016,20–24,Male,423
+09,Wellington Region,2016,25–29,Female,696
+09,Wellington Region,2016,25–29,Male,729
+09,Wellington Region,2016,30–34,Female,969
+09,Wellington Region,2016,30–34,Male,1053
+09,Wellington Region,2016,35–39,Female,660
+09,Wellington Region,2016,35–39,Male,654
+09,Wellington Region,2016,40–44,Female,159
+09,Wellington Region,2016,40–44,Male,150
+09,Wellington Region,2016,45–49,Female,6
+09,Wellington Region,2016,45–49,Male,9
+12,West Coast Region,1997,15–19,Female,21
+12,West Coast Region,1997,15–19,Male,15
+12,West Coast Region,1997,20–24,Female,48
+12,West Coast Region,1997,20–24,Male,36
+12,West Coast Region,1997,25–29,Female,69
+12,West Coast Region,1997,25–29,Male,75
+12,West Coast Region,1997,30–34,Female,57
+12,West Coast Region,1997,30–34,Male,69
+12,West Coast Region,1997,35–39,Female,24
+12,West Coast Region,1997,35–39,Male,21
+12,West Coast Region,1997,40–44,Female,6
+12,West Coast Region,1997,40–44,Male,6
+12,West Coast Region,1997,45–49,Female,0
+12,West Coast Region,1997,45–49,Male,3
+12,West Coast Region,1998,15–19,Female,15
+12,West Coast Region,1998,15–19,Male,18
+12,West Coast Region,1998,20–24,Female,42
+12,West Coast Region,1998,20–24,Male,39
+12,West Coast Region,1998,25–29,Female,87
+12,West Coast Region,1998,25–29,Male,69
+12,West Coast Region,1998,30–34,Female,60
+12,West Coast Region,1998,30–34,Male,51
+12,West Coast Region,1998,35–39,Female,24
+12,West Coast Region,1998,35–39,Male,21
+12,West Coast Region,1998,40–44,Female,0
+12,West Coast Region,1998,40–44,Male,6
+12,West Coast Region,1998,45–49,Male,0
+12,West Coast Region,1999,15–19,Female,12
+12,West Coast Region,1999,15–19,Male,9
+12,West Coast Region,1999,20–24,Female,39
+12,West Coast Region,1999,20–24,Male,48
+12,West Coast Region,1999,25–29,Female,51
+12,West Coast Region,1999,25–29,Male,63
+12,West Coast Region,1999,30–34,Female,60
+12,West Coast Region,1999,30–34,Male,45
+12,West Coast Region,1999,35–39,Female,27
+12,West Coast Region,1999,35–39,Male,24
+12,West Coast Region,1999,40–44,Female,3
+12,West Coast Region,1999,40–44,Male,3
+12,West Coast Region,2000,15–19,Female,18
+12,West Coast Region,2000,15–19,Male,18
+12,West Coast Region,2000,20–24,Female,21
+12,West Coast Region,2000,20–24,Male,45
+12,West Coast Region,2000,25–29,Female,57
+12,West Coast Region,2000,25–29,Male,66
+12,West Coast Region,2000,30–34,Female,51
+12,West Coast Region,2000,30–34,Male,42
+12,West Coast Region,2000,35–39,Female,30
+12,West Coast Region,2000,35–39,Male,36
+12,West Coast Region,2000,40–44,Female,6
+12,West Coast Region,2000,40–44,Male,3
+12,West Coast Region,2001,15–19,Female,12
+12,West Coast Region,2001,15–19,Male,18
+12,West Coast Region,2001,20–24,Female,42
+12,West Coast Region,2001,20–24,Male,30
+12,West Coast Region,2001,25–29,Female,60
+12,West Coast Region,2001,25–29,Male,57
+12,West Coast Region,2001,30–34,Female,54
+12,West Coast Region,2001,30–34,Male,54
+12,West Coast Region,2001,35–39,Female,27
+12,West Coast Region,2001,35–39,Male,24
+12,West Coast Region,2001,40–44,Female,9
+12,West Coast Region,2001,40–44,Male,6
+12,West Coast Region,2002,15–19,Female,18
+12,West Coast Region,2002,15–19,Male,15
+12,West Coast Region,2002,20–24,Female,39
+12,West Coast Region,2002,20–24,Male,36
+12,West Coast Region,2002,25–29,Female,54
+12,West Coast Region,2002,25–29,Male,39
+12,West Coast Region,2002,30–34,Female,57
+12,West Coast Region,2002,30–34,Male,51
+12,West Coast Region,2002,35–39,Female,18
+12,West Coast Region,2002,35–39,Male,24
+12,West Coast Region,2002,40–44,Female,3
+12,West Coast Region,2002,40–44,Male,0
+12,West Coast Region,2002,45–49,Male,0
+12,West Coast Region,2003,15–19,Female,6
+12,West Coast Region,2003,15–19,Male,6
+12,West Coast Region,2003,20–24,Female,36
+12,West Coast Region,2003,20–24,Male,27
+12,West Coast Region,2003,25–29,Female,33
+12,West Coast Region,2003,25–29,Male,48
+12,West Coast Region,2003,30–34,Female,48
+12,West Coast Region,2003,30–34,Male,54
+12,West Coast Region,2003,35–39,Female,24
+12,West Coast Region,2003,35–39,Male,27
+12,West Coast Region,2003,40–44,Female,6
+12,West Coast Region,2003,40–44,Male,3
+12,West Coast Region,2004,15–19,Female,15
+12,West Coast Region,2004,15–19,Male,12
+12,West Coast Region,2004,20–24,Female,30
+12,West Coast Region,2004,20–24,Male,45
+12,West Coast Region,2004,25–29,Female,48
+12,West Coast Region,2004,25–29,Male,48
+12,West Coast Region,2004,30–34,Female,48
+12,West Coast Region,2004,30–34,Male,57
+12,West Coast Region,2004,35–39,Female,15
+12,West Coast Region,2004,35–39,Male,24
+12,West Coast Region,2004,40–44,Female,6
+12,West Coast Region,2004,40–44,Male,9
+12,West Coast Region,2004,45–49,Female,3
+12,West Coast Region,2005,15–19,Female,12
+12,West Coast Region,2005,15–19,Male,15
+12,West Coast Region,2005,20–24,Female,30
+12,West Coast Region,2005,20–24,Male,36
+12,West Coast Region,2005,25–29,Female,48
+12,West Coast Region,2005,25–29,Male,39
+12,West Coast Region,2005,30–34,Female,30
+12,West Coast Region,2005,30–34,Male,72
+12,West Coast Region,2005,35–39,Female,30
+12,West Coast Region,2005,35–39,Male,30
+12,West Coast Region,2005,40–44,Female,6
+12,West Coast Region,2005,40–44,Male,9
+12,West Coast Region,2005,45–49,Female,0
+12,West Coast Region,2006,15–19,Female,12
+12,West Coast Region,2006,15–19,Male,21
+12,West Coast Region,2006,20–24,Female,39
+12,West Coast Region,2006,20–24,Male,39
+12,West Coast Region,2006,25–29,Female,54
+12,West Coast Region,2006,25–29,Male,51
+12,West Coast Region,2006,30–34,Female,42
+12,West Coast Region,2006,30–34,Male,54
+12,West Coast Region,2006,35–39,Female,27
+12,West Coast Region,2006,35–39,Male,33
+12,West Coast Region,2006,40–44,Female,9
+12,West Coast Region,2006,40–44,Male,6
+12,West Coast Region,2006,45–49,Female,0
+12,West Coast Region,2007,15–19,Female,6
+12,West Coast Region,2007,15–19,Male,12
+12,West Coast Region,2007,20–24,Female,36
+12,West Coast Region,2007,20–24,Male,39
+12,West Coast Region,2007,25–29,Female,57
+12,West Coast Region,2007,25–29,Male,48
+12,West Coast Region,2007,30–34,Female,48
+12,West Coast Region,2007,30–34,Male,54
+12,West Coast Region,2007,35–39,Female,27
+12,West Coast Region,2007,35–39,Male,33
+12,West Coast Region,2007,40–44,Female,9
+12,West Coast Region,2007,40–44,Male,12
+12,West Coast Region,2007,45–49,Female,0
+12,West Coast Region,2008,15–19,Female,18
+12,West Coast Region,2008,15–19,Male,18
+12,West Coast Region,2008,20–24,Female,39
+12,West Coast Region,2008,20–24,Male,33
+12,West Coast Region,2008,25–29,Female,48
+12,West Coast Region,2008,25–29,Male,63
+12,West Coast Region,2008,30–34,Female,48
+12,West Coast Region,2008,30–34,Male,63
+12,West Coast Region,2008,35–39,Female,36
+12,West Coast Region,2008,35–39,Male,36
+12,West Coast Region,2008,40–44,Female,9
+12,West Coast Region,2008,40–44,Male,12
+12,West Coast Region,2009,15–19,Female,9
+12,West Coast Region,2009,15–19,Male,24
+12,West Coast Region,2009,20–24,Female,54
+12,West Coast Region,2009,20–24,Male,54
+12,West Coast Region,2009,25–29,Female,45
+12,West Coast Region,2009,25–29,Male,66
+12,West Coast Region,2009,30–34,Female,54
+12,West Coast Region,2009,30–34,Male,54
+12,West Coast Region,2009,35–39,Female,36
+12,West Coast Region,2009,35–39,Male,36
+12,West Coast Region,2009,40–44,Female,12
+12,West Coast Region,2009,40–44,Male,12
+12,West Coast Region,2009,45–49,Female,0
+12,West Coast Region,2010,15–19,Female,15
+12,West Coast Region,2010,15–19,Male,21
+12,West Coast Region,2010,20–24,Female,36
+12,West Coast Region,2010,20–24,Male,42
+12,West Coast Region,2010,25–29,Female,63
+12,West Coast Region,2010,25–29,Male,60
+12,West Coast Region,2010,30–34,Female,51
+12,West Coast Region,2010,30–34,Male,60
+12,West Coast Region,2010,35–39,Female,36
+12,West Coast Region,2010,35–39,Male,33
+12,West Coast Region,2010,40–44,Female,9
+12,West Coast Region,2010,40–44,Male,12
+12,West Coast Region,2010,45–49,Male,3
+12,West Coast Region,2011,15–19,Female,15
+12,West Coast Region,2011,15–19,Male,21
+12,West Coast Region,2011,20–24,Female,42
+12,West Coast Region,2011,20–24,Male,45
+12,West Coast Region,2011,25–29,Female,69
+12,West Coast Region,2011,25–29,Male,48
+12,West Coast Region,2011,30–34,Female,54
+12,West Coast Region,2011,30–34,Male,54
+12,West Coast Region,2011,35–39,Female,24
+12,West Coast Region,2011,35–39,Male,27
+12,West Coast Region,2011,40–44,Female,6
+12,West Coast Region,2011,40–44,Male,12
+12,West Coast Region,2011,45–49,Female,0
+12,West Coast Region,2012,15–19,Female,12
+12,West Coast Region,2012,15–19,Male,24
+12,West Coast Region,2012,20–24,Female,57
+12,West Coast Region,2012,20–24,Male,45
+12,West Coast Region,2012,25–29,Female,48
+12,West Coast Region,2012,25–29,Male,60
+12,West Coast Region,2012,30–34,Female,42
+12,West Coast Region,2012,30–34,Male,54
+12,West Coast Region,2012,35–39,Female,48
+12,West Coast Region,2012,35–39,Male,27
+12,West Coast Region,2012,40–44,Female,6
+12,West Coast Region,2012,40–44,Male,6
+12,West Coast Region,2013,15–19,Female,15
+12,West Coast Region,2013,15–19,Male,21
+12,West Coast Region,2013,20–24,Female,48
+12,West Coast Region,2013,20–24,Male,42
+12,West Coast Region,2013,25–29,Female,63
+12,West Coast Region,2013,25–29,Male,39
+12,West Coast Region,2013,30–34,Female,48
+12,West Coast Region,2013,30–34,Male,51
+12,West Coast Region,2013,35–39,Female,36
+12,West Coast Region,2013,35–39,Male,33
+12,West Coast Region,2013,40–44,Female,12
+12,West Coast Region,2013,40–44,Male,12
+12,West Coast Region,2014,15–19,Female,15
+12,West Coast Region,2014,15–19,Male,9
+12,West Coast Region,2014,20–24,Female,36
+12,West Coast Region,2014,20–24,Male,54
+12,West Coast Region,2014,25–29,Female,57
+12,West Coast Region,2014,25–29,Male,51
+12,West Coast Region,2014,30–34,Female,39
+12,West Coast Region,2014,30–34,Male,45
+12,West Coast Region,2014,35–39,Female,27
+12,West Coast Region,2014,35–39,Male,33
+12,West Coast Region,2014,40–44,Female,9
+12,West Coast Region,2014,40–44,Male,6
+12,West Coast Region,2015,15–19,Female,9
+12,West Coast Region,2015,15–19,Male,15
+12,West Coast Region,2015,20–24,Female,45
+12,West Coast Region,2015,20–24,Male,45
+12,West Coast Region,2015,25–29,Female,42
+12,West Coast Region,2015,25–29,Male,57
+12,West Coast Region,2015,30–34,Female,42
+12,West Coast Region,2015,30–34,Male,54
+12,West Coast Region,2015,35–39,Female,15
+12,West Coast Region,2015,35–39,Male,21
+12,West Coast Region,2015,40–44,Female,9
+12,West Coast Region,2015,40–44,Male,3
+12,West Coast Region,2015,45–49,Male,3
+12,West Coast Region,2016,15–19,Female,9
+12,West Coast Region,2016,15–19,Male,9
+12,West Coast Region,2016,20–24,Female,42
+12,West Coast Region,2016,20–24,Male,39
+12,West Coast Region,2016,25–29,Female,54
+12,West Coast Region,2016,25–29,Male,51
+12,West Coast Region,2016,30–34,Female,51
+12,West Coast Region,2016,30–34,Male,51
+12,West Coast Region,2016,35–39,Female,30
+12,West Coast Region,2016,35–39,Male,36
+12,West Coast Region,2016,40–44,Female,6
+12,West Coast Region,2016,40–44,Male,6
+13,Canterbury Region,1997,15–19,Female,168
+13,Canterbury Region,1997,15–19,Male,210
+13,Canterbury Region,1997,20–24,Female,519
+13,Canterbury Region,1997,20–24,Male,516
+13,Canterbury Region,1997,25–29,Female,927
+13,Canterbury Region,1997,25–29,Male,951
+13,Canterbury Region,1997,30–34,Female,975
+13,Canterbury Region,1997,30–34,Male,1011
+13,Canterbury Region,1997,35–39,Female,408
+13,Canterbury Region,1997,35–39,Male,450
+13,Canterbury Region,1997,40–44,Female,63
+13,Canterbury Region,1997,40–44,Male,48
+13,Canterbury Region,1997,45–49,Female,3
+13,Canterbury Region,1997,45–49,Male,6
+13,Canterbury Region,1998,15–19,Female,159
+13,Canterbury Region,1998,15–19,Male,177
+13,Canterbury Region,1998,20–24,Female,447
+13,Canterbury Region,1998,20–24,Male,468
+13,Canterbury Region,1998,25–29,Female,990
+13,Canterbury Region,1998,25–29,Male,945
+13,Canterbury Region,1998,30–34,Female,942
+13,Canterbury Region,1998,30–34,Male,1056
+13,Canterbury Region,1998,35–39,Female,411
+13,Canterbury Region,1998,35–39,Male,441
+13,Canterbury Region,1998,40–44,Female,87
+13,Canterbury Region,1998,40–44,Male,60
+13,Canterbury Region,1998,45–49,Female,0
+13,Canterbury Region,1998,45–49,Male,6
+13,Canterbury Region,1999,15–19,Female,144
+13,Canterbury Region,1999,15–19,Male,159
+13,Canterbury Region,1999,20–24,Female,438
+13,Canterbury Region,1999,20–24,Male,435
+13,Canterbury Region,1999,25–29,Female,924
+13,Canterbury Region,1999,25–29,Male,942
+13,Canterbury Region,1999,30–34,Female,969
+13,Canterbury Region,1999,30–34,Male,1029
+13,Canterbury Region,1999,35–39,Female,462
+13,Canterbury Region,1999,35–39,Male,486
+13,Canterbury Region,1999,40–44,Female,66
+13,Canterbury Region,1999,40–44,Male,60
+13,Canterbury Region,1999,45–49,Male,6
+13,Canterbury Region,2000,15–19,Female,147
+13,Canterbury Region,2000,15–19,Male,168
+13,Canterbury Region,2000,20–24,Female,408
+13,Canterbury Region,2000,20–24,Male,438
+13,Canterbury Region,2000,25–29,Female,852
+13,Canterbury Region,2000,25–29,Male,924
+13,Canterbury Region,2000,30–34,Female,1056
+13,Canterbury Region,2000,30–34,Male,1110
+13,Canterbury Region,2000,35–39,Female,495
+13,Canterbury Region,2000,35–39,Male,528
+13,Canterbury Region,2000,40–44,Female,78
+13,Canterbury Region,2000,40–44,Male,84
+13,Canterbury Region,2000,45–49,Female,3
+13,Canterbury Region,2001,15–19,Female,153
+13,Canterbury Region,2001,15–19,Male,162
+13,Canterbury Region,2001,20–24,Female,396
+13,Canterbury Region,2001,20–24,Male,465
+13,Canterbury Region,2001,25–29,Female,873
+13,Canterbury Region,2001,25–29,Male,855
+13,Canterbury Region,2001,30–34,Female,1056
+13,Canterbury Region,2001,30–34,Male,1074
+13,Canterbury Region,2001,35–39,Female,474
+13,Canterbury Region,2001,35–39,Male,519
+13,Canterbury Region,2001,40–44,Female,72
+13,Canterbury Region,2001,40–44,Male,81
+13,Canterbury Region,2001,45–49,Female,3
+13,Canterbury Region,2001,45–49,Male,3
+13,Canterbury Region,2002,15–19,Female,138
+13,Canterbury Region,2002,15–19,Male,150
+13,Canterbury Region,2002,20–24,Female,426
+13,Canterbury Region,2002,20–24,Male,402
+13,Canterbury Region,2002,25–29,Female,783
+13,Canterbury Region,2002,25–29,Male,786
+13,Canterbury Region,2002,30–34,Female,1071
+13,Canterbury Region,2002,30–34,Male,1077
+13,Canterbury Region,2002,35–39,Female,528
+13,Canterbury Region,2002,35–39,Male,522
+13,Canterbury Region,2002,40–44,Female,90
+13,Canterbury Region,2002,40–44,Male,87
+13,Canterbury Region,2002,45–49,Female,9
+13,Canterbury Region,2002,45–49,Male,6
+13,Canterbury Region,2003,15–19,Female,147
+13,Canterbury Region,2003,15–19,Male,171
+13,Canterbury Region,2003,20–24,Female,408
+13,Canterbury Region,2003,20–24,Male,393
+13,Canterbury Region,2003,25–29,Female,690
+13,Canterbury Region,2003,25–29,Male,720
+13,Canterbury Region,2003,30–34,Female,1080
+13,Canterbury Region,2003,30–34,Male,1104
+13,Canterbury Region,2003,35–39,Female,504
+13,Canterbury Region,2003,35–39,Male,540
+13,Canterbury Region,2003,40–44,Female,99
+13,Canterbury Region,2003,40–44,Male,99
+13,Canterbury Region,2003,45–49,Female,3
+13,Canterbury Region,2003,45–49,Male,3
+13,Canterbury Region,2004,15–19,Female,165
+13,Canterbury Region,2004,15–19,Male,168
+13,Canterbury Region,2004,20–24,Female,480
+13,Canterbury Region,2004,20–24,Male,462
+13,Canterbury Region,2004,25–29,Female,780
+13,Canterbury Region,2004,25–29,Male,795
+13,Canterbury Region,2004,30–34,Female,1164
+13,Canterbury Region,2004,30–34,Male,1164
+13,Canterbury Region,2004,35–39,Female,561
+13,Canterbury Region,2004,35–39,Male,654
+13,Canterbury Region,2004,40–44,Female,99
+13,Canterbury Region,2004,40–44,Male,108
+13,Canterbury Region,2004,45–49,Female,6
+13,Canterbury Region,2004,45–49,Male,3
+13,Canterbury Region,2005,15–19,Female,171
+13,Canterbury Region,2005,15–19,Male,216
+13,Canterbury Region,2005,20–24,Female,456
+13,Canterbury Region,2005,20–24,Male,471
+13,Canterbury Region,2005,25–29,Female,765
+13,Canterbury Region,2005,25–29,Male,774
+13,Canterbury Region,2005,30–34,Female,1119
+13,Canterbury Region,2005,30–34,Male,1206
+13,Canterbury Region,2005,35–39,Female,576
+13,Canterbury Region,2005,35–39,Male,582
+13,Canterbury Region,2005,40–44,Female,114
+13,Canterbury Region,2005,40–44,Male,111
+13,Canterbury Region,2005,45–49,Female,6
+13,Canterbury Region,2005,45–49,Male,3
+13,Canterbury Region,2006,15–19,Female,177
+13,Canterbury Region,2006,15–19,Male,186
+13,Canterbury Region,2006,20–24,Female,441
+13,Canterbury Region,2006,20–24,Male,483
+13,Canterbury Region,2006,25–29,Female,765
+13,Canterbury Region,2006,25–29,Male,756
+13,Canterbury Region,2006,30–34,Female,1179
+13,Canterbury Region,2006,30–34,Male,1194
+13,Canterbury Region,2006,35–39,Female,627
+13,Canterbury Region,2006,35–39,Male,699
+13,Canterbury Region,2006,40–44,Female,120
+13,Canterbury Region,2006,40–44,Male,114
+13,Canterbury Region,2006,45–49,Female,3
+13,Canterbury Region,2006,45–49,Male,12
+13,Canterbury Region,2007,15–19,Female,219
+13,Canterbury Region,2007,15–19,Male,225
+13,Canterbury Region,2007,20–24,Female,477
+13,Canterbury Region,2007,20–24,Male,498
+13,Canterbury Region,2007,25–29,Female,810
+13,Canterbury Region,2007,25–29,Male,861
+13,Canterbury Region,2007,30–34,Female,1134
+13,Canterbury Region,2007,30–34,Male,1266
+13,Canterbury Region,2007,35–39,Female,696
+13,Canterbury Region,2007,35–39,Male,789
+13,Canterbury Region,2007,40–44,Female,120
+13,Canterbury Region,2007,40–44,Male,114
+13,Canterbury Region,2007,45–49,Female,3
+13,Canterbury Region,2007,45–49,Male,6
+13,Canterbury Region,2008,15–19,Female,234
+13,Canterbury Region,2008,15–19,Male,231
+13,Canterbury Region,2008,20–24,Female,513
+13,Canterbury Region,2008,20–24,Male,567
+13,Canterbury Region,2008,25–29,Female,852
+13,Canterbury Region,2008,25–29,Male,903
+13,Canterbury Region,2008,30–34,Female,1113
+13,Canterbury Region,2008,30–34,Male,1128
+13,Canterbury Region,2008,35–39,Female,699
+13,Canterbury Region,2008,35–39,Male,789
+13,Canterbury Region,2008,40–44,Female,135
+13,Canterbury Region,2008,40–44,Male,120
+13,Canterbury Region,2008,45–49,Female,9
+13,Canterbury Region,2008,45–49,Male,6
+13,Canterbury Region,2009,15–19,Female,189
+13,Canterbury Region,2009,15–19,Male,243
+13,Canterbury Region,2009,20–24,Female,543
+13,Canterbury Region,2009,20–24,Male,594
+13,Canterbury Region,2009,25–29,Female,828
+13,Canterbury Region,2009,25–29,Male,882
+13,Canterbury Region,2009,30–34,Female,1065
+13,Canterbury Region,2009,30–34,Male,1170
+13,Canterbury Region,2009,35–39,Female,744
+13,Canterbury Region,2009,35–39,Male,774
+13,Canterbury Region,2009,40–44,Female,138
+13,Canterbury Region,2009,40–44,Male,126
+13,Canterbury Region,2009,45–49,Female,9
+13,Canterbury Region,2009,45–49,Male,3
+13,Canterbury Region,2010,15–19,Female,210
+13,Canterbury Region,2010,15–19,Male,192
+13,Canterbury Region,2010,20–24,Female,570
+13,Canterbury Region,2010,20–24,Male,597
+13,Canterbury Region,2010,25–29,Female,885
+13,Canterbury Region,2010,25–29,Male,858
+13,Canterbury Region,2010,30–34,Female,1041
+13,Canterbury Region,2010,30–34,Male,1152
+13,Canterbury Region,2010,35–39,Female,738
+13,Canterbury Region,2010,35–39,Male,807
+13,Canterbury Region,2010,40–44,Female,138
+13,Canterbury Region,2010,40–44,Male,165
+13,Canterbury Region,2010,45–49,Female,15
+13,Canterbury Region,2010,45–49,Male,6
+13,Canterbury Region,2011,15–19,Female,180
+13,Canterbury Region,2011,15–19,Male,168
+13,Canterbury Region,2011,20–24,Female,570
+13,Canterbury Region,2011,20–24,Male,585
+13,Canterbury Region,2011,25–29,Female,846
+13,Canterbury Region,2011,25–29,Male,882
+13,Canterbury Region,2011,30–34,Female,1089
+13,Canterbury Region,2011,30–34,Male,1116
+13,Canterbury Region,2011,35–39,Female,696
+13,Canterbury Region,2011,35–39,Male,702
+13,Canterbury Region,2011,40–44,Female,129
+13,Canterbury Region,2011,40–44,Male,132
+13,Canterbury Region,2011,45–49,Female,6
+13,Canterbury Region,2011,45–49,Male,3
+13,Canterbury Region,2012,15–19,Female,144
+13,Canterbury Region,2012,15–19,Male,168
+13,Canterbury Region,2012,20–24,Female,471
+13,Canterbury Region,2012,20–24,Male,546
+13,Canterbury Region,2012,25–29,Female,840
+13,Canterbury Region,2012,25–29,Male,828
+13,Canterbury Region,2012,30–34,Female,1014
+13,Canterbury Region,2012,30–34,Male,1014
+13,Canterbury Region,2012,35–39,Female,576
+13,Canterbury Region,2012,35–39,Male,642
+13,Canterbury Region,2012,40–44,Female,132
+13,Canterbury Region,2012,40–44,Male,117
+13,Canterbury Region,2012,45–49,Female,6
+13,Canterbury Region,2012,45–49,Male,9
+13,Canterbury Region,2013,15–19,Female,156
+13,Canterbury Region,2013,15–19,Male,153
+13,Canterbury Region,2013,20–24,Female,528
+13,Canterbury Region,2013,20–24,Male,525
+13,Canterbury Region,2013,25–29,Female,843
+13,Canterbury Region,2013,25–29,Male,903
+13,Canterbury Region,2013,30–34,Female,1002
+13,Canterbury Region,2013,30–34,Male,1038
+13,Canterbury Region,2013,35–39,Female,522
+13,Canterbury Region,2013,35–39,Male,633
+13,Canterbury Region,2013,40–44,Female,132
+13,Canterbury Region,2013,40–44,Male,132
+13,Canterbury Region,2013,45–49,Female,6
+13,Canterbury Region,2013,45–49,Male,12
+13,Canterbury Region,2014,15–19,Female,132
+13,Canterbury Region,2014,15–19,Male,141
+13,Canterbury Region,2014,20–24,Female,477
+13,Canterbury Region,2014,20–24,Male,507
+13,Canterbury Region,2014,25–29,Female,873
+13,Canterbury Region,2014,25–29,Male,897
+13,Canterbury Region,2014,30–34,Female,963
+13,Canterbury Region,2014,30–34,Male,1095
+13,Canterbury Region,2014,35–39,Female,549
+13,Canterbury Region,2014,35–39,Male,615
+13,Canterbury Region,2014,40–44,Female,117
+13,Canterbury Region,2014,40–44,Male,165
+13,Canterbury Region,2014,45–49,Female,6
+13,Canterbury Region,2014,45–49,Male,9
+13,Canterbury Region,2015,15–19,Female,144
+13,Canterbury Region,2015,15–19,Male,114
+13,Canterbury Region,2015,20–24,Female,489
+13,Canterbury Region,2015,20–24,Male,525
+13,Canterbury Region,2015,25–29,Female,867
+13,Canterbury Region,2015,25–29,Male,951
+13,Canterbury Region,2015,30–34,Female,1050
+13,Canterbury Region,2015,30–34,Male,1173
+13,Canterbury Region,2015,35–39,Female,570
+13,Canterbury Region,2015,35–39,Male,642
+13,Canterbury Region,2015,40–44,Female,129
+13,Canterbury Region,2015,40–44,Male,138
+13,Canterbury Region,2015,45–49,Female,9
+13,Canterbury Region,2015,45–49,Male,9
+13,Canterbury Region,2016,15–19,Female,111
+13,Canterbury Region,2016,15–19,Male,129
+13,Canterbury Region,2016,20–24,Female,504
+13,Canterbury Region,2016,20–24,Male,492
+13,Canterbury Region,2016,25–29,Female,933
+13,Canterbury Region,2016,25–29,Male,966
+13,Canterbury Region,2016,30–34,Female,1113
+13,Canterbury Region,2016,30–34,Male,1236
+13,Canterbury Region,2016,35–39,Female,600
+13,Canterbury Region,2016,35–39,Male,651
+13,Canterbury Region,2016,40–44,Female,150
+13,Canterbury Region,2016,40–44,Male,129
+13,Canterbury Region,2016,45–49,Female,9
+13,Canterbury Region,2016,45–49,Male,6
+14,Otago Region,1997,15–19,Female,60
+14,Otago Region,1997,15–19,Male,60
+14,Otago Region,1997,20–24,Female,198
+14,Otago Region,1997,20–24,Male,213
+14,Otago Region,1997,25–29,Female,327
+14,Otago Region,1997,25–29,Male,351
+14,Otago Region,1997,30–34,Female,333
+14,Otago Region,1997,30–34,Male,375
+14,Otago Region,1997,35–39,Female,126
+14,Otago Region,1997,35–39,Male,174
+14,Otago Region,1997,40–44,Female,18
+14,Otago Region,1997,40–44,Male,21
+14,Otago Region,1998,15–19,Female,66
+14,Otago Region,1998,15–19,Male,60
+14,Otago Region,1998,20–24,Female,195
+14,Otago Region,1998,20–24,Male,189
+14,Otago Region,1998,25–29,Female,324
+14,Otago Region,1998,25–29,Male,360
+14,Otago Region,1998,30–34,Female,330
+14,Otago Region,1998,30–34,Male,354
+14,Otago Region,1998,35–39,Female,141
+14,Otago Region,1998,35–39,Male,162
+14,Otago Region,1998,40–44,Female,24
+14,Otago Region,1998,40–44,Male,18
+14,Otago Region,1998,45–49,Female,3
+14,Otago Region,1998,45–49,Male,3
+14,Otago Region,1999,15–19,Female,60
+14,Otago Region,1999,15–19,Male,54
+14,Otago Region,1999,20–24,Female,147
+14,Otago Region,1999,20–24,Male,159
+14,Otago Region,1999,25–29,Female,294
+14,Otago Region,1999,25–29,Male,336
+14,Otago Region,1999,30–34,Female,345
+14,Otago Region,1999,30–34,Male,351
+14,Otago Region,1999,35–39,Female,165
+14,Otago Region,1999,35–39,Male,156
+14,Otago Region,1999,40–44,Female,24
+14,Otago Region,1999,40–44,Male,33
+14,Otago Region,2000,15–19,Female,48
+14,Otago Region,2000,15–19,Male,48
+14,Otago Region,2000,20–24,Female,162
+14,Otago Region,2000,20–24,Male,159
+14,Otago Region,2000,25–29,Female,342
+14,Otago Region,2000,25–29,Male,318
+14,Otago Region,2000,30–34,Female,333
+14,Otago Region,2000,30–34,Male,390
+14,Otago Region,2000,35–39,Female,144
+14,Otago Region,2000,35–39,Male,171
+14,Otago Region,2000,40–44,Female,24
+14,Otago Region,2000,40–44,Male,33
+14,Otago Region,2001,15–19,Female,51
+14,Otago Region,2001,15–19,Male,39
+14,Otago Region,2001,20–24,Female,153
+14,Otago Region,2001,20–24,Male,138
+14,Otago Region,2001,25–29,Female,300
+14,Otago Region,2001,25–29,Male,345
+14,Otago Region,2001,30–34,Female,351
+14,Otago Region,2001,30–34,Male,375
+14,Otago Region,2001,35–39,Female,138
+14,Otago Region,2001,35–39,Male,183
+14,Otago Region,2001,40–44,Female,27
+14,Otago Region,2001,40–44,Male,36
+14,Otago Region,2002,15–19,Female,51
+14,Otago Region,2002,15–19,Male,39
+14,Otago Region,2002,20–24,Female,156
+14,Otago Region,2002,20–24,Male,168
+14,Otago Region,2002,25–29,Female,270
+14,Otago Region,2002,25–29,Male,288
+14,Otago Region,2002,30–34,Female,321
+14,Otago Region,2002,30–34,Male,333
+14,Otago Region,2002,35–39,Female,144
+14,Otago Region,2002,35–39,Male,177
+14,Otago Region,2002,40–44,Female,30
+14,Otago Region,2002,40–44,Male,27
+14,Otago Region,2002,45–49,Female,0
+14,Otago Region,2003,15–19,Female,48
+14,Otago Region,2003,15–19,Male,63
+14,Otago Region,2003,20–24,Female,138
+14,Otago Region,2003,20–24,Male,147
+14,Otago Region,2003,25–29,Female,264
+14,Otago Region,2003,25–29,Male,288
+14,Otago Region,2003,30–34,Female,345
+14,Otago Region,2003,30–34,Male,375
+14,Otago Region,2003,35–39,Female,180
+14,Otago Region,2003,35–39,Male,174
+14,Otago Region,2003,40–44,Female,45
+14,Otago Region,2003,40–44,Male,33
+14,Otago Region,2004,15–19,Female,48
+14,Otago Region,2004,15–19,Male,45
+14,Otago Region,2004,20–24,Female,138
+14,Otago Region,2004,20–24,Male,156
+14,Otago Region,2004,25–29,Female,291
+14,Otago Region,2004,25–29,Male,285
+14,Otago Region,2004,30–34,Female,363
+14,Otago Region,2004,30–34,Male,372
+14,Otago Region,2004,35–39,Female,186
+14,Otago Region,2004,35–39,Male,201
+14,Otago Region,2004,40–44,Female,54
+14,Otago Region,2004,40–44,Male,33
+14,Otago Region,2005,15–19,Female,51
+14,Otago Region,2005,15–19,Male,60
+14,Otago Region,2005,20–24,Female,147
+14,Otago Region,2005,20–24,Male,165
+14,Otago Region,2005,25–29,Female,255
+14,Otago Region,2005,25–29,Male,285
+14,Otago Region,2005,30–34,Female,399
+14,Otago Region,2005,30–34,Male,402
+14,Otago Region,2005,35–39,Female,189
+14,Otago Region,2005,35–39,Male,180
+14,Otago Region,2005,40–44,Female,45
+14,Otago Region,2005,40–44,Male,42
+14,Otago Region,2005,45–49,Female,3
+14,Otago Region,2005,45–49,Male,3
+14,Otago Region,2006,15–19,Female,54
+14,Otago Region,2006,15–19,Male,60
+14,Otago Region,2006,20–24,Female,132
+14,Otago Region,2006,20–24,Male,168
+14,Otago Region,2006,25–29,Female,249
+14,Otago Region,2006,25–29,Male,240
+14,Otago Region,2006,30–34,Female,363
+14,Otago Region,2006,30–34,Male,348
+14,Otago Region,2006,35–39,Female,183
+14,Otago Region,2006,35–39,Male,204
+14,Otago Region,2006,40–44,Female,36
+14,Otago Region,2006,40–44,Male,42
+14,Otago Region,2006,45–49,Female,0
+14,Otago Region,2006,45–49,Male,3
+14,Otago Region,2007,15–19,Female,42
+14,Otago Region,2007,15–19,Male,51
+14,Otago Region,2007,20–24,Female,159
+14,Otago Region,2007,20–24,Male,180
+14,Otago Region,2007,25–29,Female,288
+14,Otago Region,2007,25–29,Male,312
+14,Otago Region,2007,30–34,Female,402
+14,Otago Region,2007,30–34,Male,375
+14,Otago Region,2007,35–39,Female,213
+14,Otago Region,2007,35–39,Male,204
+14,Otago Region,2007,40–44,Female,36
+14,Otago Region,2007,40–44,Male,36
+14,Otago Region,2007,45–49,Female,3
+14,Otago Region,2007,45–49,Male,3
+14,Otago Region,2008,15–19,Female,69
+14,Otago Region,2008,15–19,Male,57
+14,Otago Region,2008,20–24,Female,147
+14,Otago Region,2008,20–24,Male,186
+14,Otago Region,2008,25–29,Female,285
+14,Otago Region,2008,25–29,Male,282
+14,Otago Region,2008,30–34,Female,378
+14,Otago Region,2008,30–34,Male,360
+14,Otago Region,2008,35–39,Female,210
+14,Otago Region,2008,35–39,Male,246
+14,Otago Region,2008,40–44,Female,33
+14,Otago Region,2008,40–44,Male,39
+14,Otago Region,2008,45–49,Female,3
+14,Otago Region,2009,15–19,Female,60
+14,Otago Region,2009,15–19,Male,51
+14,Otago Region,2009,20–24,Female,150
+14,Otago Region,2009,20–24,Male,192
+14,Otago Region,2009,25–29,Female,291
+14,Otago Region,2009,25–29,Male,288
+14,Otago Region,2009,30–34,Female,357
+14,Otago Region,2009,30–34,Male,420
+14,Otago Region,2009,35–39,Female,210
+14,Otago Region,2009,35–39,Male,270
+14,Otago Region,2009,40–44,Female,42
+14,Otago Region,2009,40–44,Male,57
+14,Otago Region,2009,45–49,Female,3
+14,Otago Region,2010,15–19,Female,54
+14,Otago Region,2010,15–19,Male,51
+14,Otago Region,2010,20–24,Female,165
+14,Otago Region,2010,20–24,Male,165
+14,Otago Region,2010,25–29,Female,279
+14,Otago Region,2010,25–29,Male,306
+14,Otago Region,2010,30–34,Female,372
+14,Otago Region,2010,30–34,Male,384
+14,Otago Region,2010,35–39,Female,222
+14,Otago Region,2010,35–39,Male,231
+14,Otago Region,2010,40–44,Female,33
+14,Otago Region,2010,40–44,Male,57
+14,Otago Region,2010,45–49,Female,3
+14,Otago Region,2010,45–49,Male,3
+14,Otago Region,2011,15–19,Female,39
+14,Otago Region,2011,15–19,Male,45
+14,Otago Region,2011,20–24,Female,147
+14,Otago Region,2011,20–24,Male,183
+14,Otago Region,2011,25–29,Female,309
+14,Otago Region,2011,25–29,Male,315
+14,Otago Region,2011,30–34,Female,366
+14,Otago Region,2011,30–34,Male,384
+14,Otago Region,2011,35–39,Female,216
+14,Otago Region,2011,35–39,Male,252
+14,Otago Region,2011,40–44,Female,48
+14,Otago Region,2011,40–44,Male,57
+14,Otago Region,2011,45–49,Male,0
+14,Otago Region,2012,15–19,Female,57
+14,Otago Region,2012,15–19,Male,51
+14,Otago Region,2012,20–24,Female,168
+14,Otago Region,2012,20–24,Male,201
+14,Otago Region,2012,25–29,Female,267
+14,Otago Region,2012,25–29,Male,279
+14,Otago Region,2012,30–34,Female,333
+14,Otago Region,2012,30–34,Male,381
+14,Otago Region,2012,35–39,Female,228
+14,Otago Region,2012,35–39,Male,222
+14,Otago Region,2012,40–44,Female,42
+14,Otago Region,2012,40–44,Male,54
+14,Otago Region,2012,45–49,Male,6
+14,Otago Region,2013,15–19,Female,45
+14,Otago Region,2013,15–19,Male,45
+14,Otago Region,2013,20–24,Female,156
+14,Otago Region,2013,20–24,Male,153
+14,Otago Region,2013,25–29,Female,279
+14,Otago Region,2013,25–29,Male,285
+14,Otago Region,2013,30–34,Female,396
+14,Otago Region,2013,30–34,Male,390
+14,Otago Region,2013,35–39,Female,231
+14,Otago Region,2013,35–39,Male,219
+14,Otago Region,2013,40–44,Female,57
+14,Otago Region,2013,40–44,Male,57
+14,Otago Region,2013,45–49,Female,3
+14,Otago Region,2013,45–49,Male,0
+14,Otago Region,2014,15–19,Female,39
+14,Otago Region,2014,15–19,Male,45
+14,Otago Region,2014,20–24,Female,159
+14,Otago Region,2014,20–24,Male,153
+14,Otago Region,2014,25–29,Female,273
+14,Otago Region,2014,25–29,Male,300
+14,Otago Region,2014,30–34,Female,345
+14,Otago Region,2014,30–34,Male,363
+14,Otago Region,2014,35–39,Female,219
+14,Otago Region,2014,35–39,Male,213
+14,Otago Region,2014,40–44,Female,54
+14,Otago Region,2014,40–44,Male,48
+14,Otago Region,2014,45–49,Female,3
+14,Otago Region,2014,45–49,Male,0
+14,Otago Region,2015,15–19,Female,27
+14,Otago Region,2015,15–19,Male,39
+14,Otago Region,2015,20–24,Female,150
+14,Otago Region,2015,20–24,Male,156
+14,Otago Region,2015,25–29,Female,288
+14,Otago Region,2015,25–29,Male,312
+14,Otago Region,2015,30–34,Female,357
+14,Otago Region,2015,30–34,Male,390
+14,Otago Region,2015,35–39,Female,222
+14,Otago Region,2015,35–39,Male,192
+14,Otago Region,2015,40–44,Female,45
+14,Otago Region,2015,40–44,Male,42
+14,Otago Region,2015,45–49,Female,3
+14,Otago Region,2015,45–49,Male,0
+14,Otago Region,2016,15–19,Female,36
+14,Otago Region,2016,15–19,Male,24
+14,Otago Region,2016,20–24,Female,144
+14,Otago Region,2016,20–24,Male,150
+14,Otago Region,2016,25–29,Female,264
+14,Otago Region,2016,25–29,Male,312
+14,Otago Region,2016,30–34,Female,354
+14,Otago Region,2016,30–34,Male,414
+14,Otago Region,2016,35–39,Female,234
+14,Otago Region,2016,35–39,Male,216
+14,Otago Region,2016,40–44,Female,42
+14,Otago Region,2016,40–44,Male,42
+14,Otago Region,2016,45–49,Female,3
+14,Otago Region,2016,45–49,Male,3
+15,Southland Region,1997,15–19,Female,60
+15,Southland Region,1997,15–19,Male,60
+15,Southland Region,1997,20–24,Female,132
+15,Southland Region,1997,20–24,Male,141
+15,Southland Region,1997,25–29,Female,210
+15,Southland Region,1997,25–29,Male,216
+15,Southland Region,1997,30–34,Female,174
+15,Southland Region,1997,30–34,Male,174
+15,Southland Region,1997,35–39,Female,69
+15,Southland Region,1997,35–39,Male,63
+15,Southland Region,1997,40–44,Female,12
+15,Southland Region,1997,40–44,Male,6
+15,Southland Region,1998,15–19,Female,54
+15,Southland Region,1998,15–19,Male,63
+15,Southland Region,1998,20–24,Female,123
+15,Southland Region,1998,20–24,Male,129
+15,Southland Region,1998,25–29,Female,219
+15,Southland Region,1998,25–29,Male,213
+15,Southland Region,1998,30–34,Female,171
+15,Southland Region,1998,30–34,Male,189
+15,Southland Region,1998,35–39,Female,69
+15,Southland Region,1998,35–39,Male,60
+15,Southland Region,1998,40–44,Female,12
+15,Southland Region,1998,40–44,Male,9
+15,Southland Region,1999,15–19,Female,60
+15,Southland Region,1999,15–19,Male,54
+15,Southland Region,1999,20–24,Female,111
+15,Southland Region,1999,20–24,Male,111
+15,Southland Region,1999,25–29,Female,204
+15,Southland Region,1999,25–29,Male,225
+15,Southland Region,1999,30–34,Female,174
+15,Southland Region,1999,30–34,Male,165
+15,Southland Region,1999,35–39,Female,69
+15,Southland Region,1999,35–39,Male,60
+15,Southland Region,1999,40–44,Female,9
+15,Southland Region,1999,40–44,Male,9
+15,Southland Region,1999,45–49,Female,0
+15,Southland Region,1999,45–49,Male,3
+15,Southland Region,2000,15–19,Female,51
+15,Southland Region,2000,15–19,Male,45
+15,Southland Region,2000,20–24,Female,117
+15,Southland Region,2000,20–24,Male,153
+15,Southland Region,2000,25–29,Female,186
+15,Southland Region,2000,25–29,Male,195
+15,Southland Region,2000,30–34,Female,162
+15,Southland Region,2000,30–34,Male,189
+15,Southland Region,2000,35–39,Female,72
+15,Southland Region,2000,35–39,Male,75
+15,Southland Region,2000,40–44,Female,15
+15,Southland Region,2000,40–44,Male,12
+15,Southland Region,2000,45–49,Male,0
+15,Southland Region,2001,15–19,Female,48
+15,Southland Region,2001,15–19,Male,60
+15,Southland Region,2001,20–24,Female,102
+15,Southland Region,2001,20–24,Male,108
+15,Southland Region,2001,25–29,Female,195
+15,Southland Region,2001,25–29,Male,186
+15,Southland Region,2001,30–34,Female,174
+15,Southland Region,2001,30–34,Male,207
+15,Southland Region,2001,35–39,Female,51
+15,Southland Region,2001,35–39,Male,72
+15,Southland Region,2001,40–44,Female,9
+15,Southland Region,2001,40–44,Male,21
+15,Southland Region,2001,45–49,Male,3
+15,Southland Region,2002,15–19,Female,48
+15,Southland Region,2002,15–19,Male,51
+15,Southland Region,2002,20–24,Female,111
+15,Southland Region,2002,20–24,Male,105
+15,Southland Region,2002,25–29,Female,198
+15,Southland Region,2002,25–29,Male,171
+15,Southland Region,2002,30–34,Female,156
+15,Southland Region,2002,30–34,Male,171
+15,Southland Region,2002,35–39,Female,66
+15,Southland Region,2002,35–39,Male,84
+15,Southland Region,2002,40–44,Female,9
+15,Southland Region,2002,40–44,Male,12
+15,Southland Region,2002,45–49,Male,0
+15,Southland Region,2003,15–19,Female,57
+15,Southland Region,2003,15–19,Male,39
+15,Southland Region,2003,20–24,Female,99
+15,Southland Region,2003,20–24,Male,141
+15,Southland Region,2003,25–29,Female,153
+15,Southland Region,2003,25–29,Male,171
+15,Southland Region,2003,30–34,Female,171
+15,Southland Region,2003,30–34,Male,198
+15,Southland Region,2003,35–39,Female,90
+15,Southland Region,2003,35–39,Male,81
+15,Southland Region,2003,40–44,Female,18
+15,Southland Region,2003,40–44,Male,12
+15,Southland Region,2004,15–19,Female,42
+15,Southland Region,2004,15–19,Male,36
+15,Southland Region,2004,20–24,Female,120
+15,Southland Region,2004,20–24,Male,132
+15,Southland Region,2004,25–29,Female,156
+15,Southland Region,2004,25–29,Male,201
+15,Southland Region,2004,30–34,Female,183
+15,Southland Region,2004,30–34,Male,171
+15,Southland Region,2004,35–39,Female,90
+15,Southland Region,2004,35–39,Male,84
+15,Southland Region,2004,40–44,Female,18
+15,Southland Region,2004,40–44,Male,18
+15,Southland Region,2004,45–49,Male,3
+15,Southland Region,2005,15–19,Female,48
+15,Southland Region,2005,15–19,Male,51
+15,Southland Region,2005,20–24,Female,126
+15,Southland Region,2005,20–24,Male,117
+15,Southland Region,2005,25–29,Female,156
+15,Southland Region,2005,25–29,Male,180
+15,Southland Region,2005,30–34,Female,186
+15,Southland Region,2005,30–34,Male,207
+15,Southland Region,2005,35–39,Female,84
+15,Southland Region,2005,35–39,Male,90
+15,Southland Region,2005,40–44,Female,18
+15,Southland Region,2005,40–44,Male,12
+15,Southland Region,2005,45–49,Male,0
+15,Southland Region,2006,15–19,Female,42
+15,Southland Region,2006,15–19,Male,57
+15,Southland Region,2006,20–24,Female,105
+15,Southland Region,2006,20–24,Male,132
+15,Southland Region,2006,25–29,Female,126
+15,Southland Region,2006,25–29,Male,180
+15,Southland Region,2006,30–34,Female,186
+15,Southland Region,2006,30–34,Male,168
+15,Southland Region,2006,35–39,Female,72
+15,Southland Region,2006,35–39,Male,72
+15,Southland Region,2006,40–44,Female,12
+15,Southland Region,2006,40–44,Male,15
+15,Southland Region,2006,45–49,Female,0
+15,Southland Region,2006,45–49,Male,3
+15,Southland Region,2007,15–19,Female,45
+15,Southland Region,2007,15–19,Male,69
+15,Southland Region,2007,20–24,Female,144
+15,Southland Region,2007,20–24,Male,153
+15,Southland Region,2007,25–29,Female,150
+15,Southland Region,2007,25–29,Male,174
+15,Southland Region,2007,30–34,Female,186
+15,Southland Region,2007,30–34,Male,192
+15,Southland Region,2007,35–39,Female,78
+15,Southland Region,2007,35–39,Male,96
+15,Southland Region,2007,40–44,Female,12
+15,Southland Region,2007,40–44,Male,15
+15,Southland Region,2007,45–49,Male,3
+15,Southland Region,2008,15–19,Female,54
+15,Southland Region,2008,15–19,Male,57
+15,Southland Region,2008,20–24,Female,126
+15,Southland Region,2008,20–24,Male,147
+15,Southland Region,2008,25–29,Female,183
+15,Southland Region,2008,25–29,Male,192
+15,Southland Region,2008,30–34,Female,177
+15,Southland Region,2008,30–34,Male,171
+15,Southland Region,2008,35–39,Female,102
+15,Southland Region,2008,35–39,Male,87
+15,Southland Region,2008,40–44,Female,12
+15,Southland Region,2008,40–44,Male,18
+15,Southland Region,2008,45–49,Female,3
+15,Southland Region,2008,45–49,Male,0
+15,Southland Region,2009,15–19,Female,57
+15,Southland Region,2009,15–19,Male,75
+15,Southland Region,2009,20–24,Female,135
+15,Southland Region,2009,20–24,Male,150
+15,Southland Region,2009,25–29,Female,177
+15,Southland Region,2009,25–29,Male,180
+15,Southland Region,2009,30–34,Female,159
+15,Southland Region,2009,30–34,Male,192
+15,Southland Region,2009,35–39,Female,93
+15,Southland Region,2009,35–39,Male,87
+15,Southland Region,2009,40–44,Female,24
+15,Southland Region,2009,40–44,Male,18
+15,Southland Region,2009,45–49,Female,3
+15,Southland Region,2010,15–19,Female,69
+15,Southland Region,2010,15–19,Male,66
+15,Southland Region,2010,20–24,Female,141
+15,Southland Region,2010,20–24,Male,141
+15,Southland Region,2010,25–29,Female,201
+15,Southland Region,2010,25–29,Male,201
+15,Southland Region,2010,30–34,Female,177
+15,Southland Region,2010,30–34,Male,207
+15,Southland Region,2010,35–39,Female,90
+15,Southland Region,2010,35–39,Male,87
+15,Southland Region,2010,40–44,Female,15
+15,Southland Region,2010,40–44,Male,18
+15,Southland Region,2011,15–19,Female,57
+15,Southland Region,2011,15–19,Male,51
+15,Southland Region,2011,20–24,Female,147
+15,Southland Region,2011,20–24,Male,171
+15,Southland Region,2011,25–29,Female,183
+15,Southland Region,2011,25–29,Male,201
+15,Southland Region,2011,30–34,Female,168
+15,Southland Region,2011,30–34,Male,162
+15,Southland Region,2011,35–39,Female,81
+15,Southland Region,2011,35–39,Male,87
+15,Southland Region,2011,40–44,Female,18
+15,Southland Region,2011,40–44,Male,27
+15,Southland Region,2011,45–49,Female,3
+15,Southland Region,2012,15–19,Female,39
+15,Southland Region,2012,15–19,Male,39
+15,Southland Region,2012,20–24,Female,126
+15,Southland Region,2012,20–24,Male,138
+15,Southland Region,2012,25–29,Female,195
+15,Southland Region,2012,25–29,Male,189
+15,Southland Region,2012,30–34,Female,156
+15,Southland Region,2012,30–34,Male,207
+15,Southland Region,2012,35–39,Female,75
+15,Southland Region,2012,35–39,Male,99
+15,Southland Region,2012,40–44,Female,15
+15,Southland Region,2012,40–44,Male,24
+15,Southland Region,2012,45–49,Male,0
+15,Southland Region,2013,15–19,Female,30
+15,Southland Region,2013,15–19,Male,48
+15,Southland Region,2013,20–24,Female,114
+15,Southland Region,2013,20–24,Male,141
+15,Southland Region,2013,25–29,Female,171
+15,Southland Region,2013,25–29,Male,174
+15,Southland Region,2013,30–34,Female,153
+15,Southland Region,2013,30–34,Male,171
+15,Southland Region,2013,35–39,Female,78
+15,Southland Region,2013,35–39,Male,84
+15,Southland Region,2013,40–44,Female,18
+15,Southland Region,2013,40–44,Male,15
+15,Southland Region,2013,45–49,Female,3
+15,Southland Region,2013,45–49,Male,0
+15,Southland Region,2014,15–19,Female,45
+15,Southland Region,2014,15–19,Male,42
+15,Southland Region,2014,20–24,Female,129
+15,Southland Region,2014,20–24,Male,132
+15,Southland Region,2014,25–29,Female,183
+15,Southland Region,2014,25–29,Male,192
+15,Southland Region,2014,30–34,Female,156
+15,Southland Region,2014,30–34,Male,186
+15,Southland Region,2014,35–39,Female,72
+15,Southland Region,2014,35–39,Male,66
+15,Southland Region,2014,40–44,Female,24
+15,Southland Region,2014,40–44,Male,18
+15,Southland Region,2014,45–49,Female,0
+15,Southland Region,2014,45–49,Male,0
+15,Southland Region,2015,15–19,Female,30
+15,Southland Region,2015,15–19,Male,33
+15,Southland Region,2015,20–24,Female,108
+15,Southland Region,2015,20–24,Male,126
+15,Southland Region,2015,25–29,Female,189
+15,Southland Region,2015,25–29,Male,165
+15,Southland Region,2015,30–34,Female,147
+15,Southland Region,2015,30–34,Male,168
+15,Southland Region,2015,35–39,Female,69
+15,Southland Region,2015,35–39,Male,75
+15,Southland Region,2015,40–44,Female,12
+15,Southland Region,2015,40–44,Male,12
+15,Southland Region,2015,45–49,Female,0
+15,Southland Region,2015,45–49,Male,3
+15,Southland Region,2016,15–19,Female,27
+15,Southland Region,2016,15–19,Male,33
+15,Southland Region,2016,20–24,Female,114
+15,Southland Region,2016,20–24,Male,114
+15,Southland Region,2016,25–29,Female,144
+15,Southland Region,2016,25–29,Male,183
+15,Southland Region,2016,30–34,Female,183
+15,Southland Region,2016,30–34,Male,165
+15,Southland Region,2016,35–39,Female,87
+15,Southland Region,2016,35–39,Male,84
+15,Southland Region,2016,40–44,Female,21
+15,Southland Region,2016,40–44,Male,21
+15,Southland Region,2016,45–49,Female,3
+15,Southland Region,2016,45–49,Male,3
+16,Tasman Region,1997,15–19,Female,6
+16,Tasman Region,1997,15–19,Male,9
+16,Tasman Region,1997,20–24,Female,33
+16,Tasman Region,1997,20–24,Male,33
+16,Tasman Region,1997,25–29,Female,78
+16,Tasman Region,1997,25–29,Male,78
+16,Tasman Region,1997,30–34,Female,57
+16,Tasman Region,1997,30–34,Male,87
+16,Tasman Region,1997,35–39,Female,30
+16,Tasman Region,1997,35–39,Male,36
+16,Tasman Region,1997,40–44,Female,9
+16,Tasman Region,1997,40–44,Male,6
+16,Tasman Region,1998,15–19,Female,6
+16,Tasman Region,1998,15–19,Male,15
+16,Tasman Region,1998,20–24,Female,39
+16,Tasman Region,1998,20–24,Male,39
+16,Tasman Region,1998,25–29,Female,69
+16,Tasman Region,1998,25–29,Male,81
+16,Tasman Region,1998,30–34,Female,75
+16,Tasman Region,1998,30–34,Male,78
+16,Tasman Region,1998,35–39,Female,30
+16,Tasman Region,1998,35–39,Male,33
+16,Tasman Region,1998,40–44,Female,3
+16,Tasman Region,1998,40–44,Male,6
+16,Tasman Region,1999,15–19,Female,6
+16,Tasman Region,1999,15–19,Male,12
+16,Tasman Region,1999,20–24,Female,39
+16,Tasman Region,1999,20–24,Male,48
+16,Tasman Region,1999,25–29,Female,87
+16,Tasman Region,1999,25–29,Male,72
+16,Tasman Region,1999,30–34,Female,60
+16,Tasman Region,1999,30–34,Male,81
+16,Tasman Region,1999,35–39,Female,21
+16,Tasman Region,1999,35–39,Male,36
+16,Tasman Region,1999,40–44,Female,6
+16,Tasman Region,1999,40–44,Male,6
+16,Tasman Region,2000,15–19,Female,9
+16,Tasman Region,2000,15–19,Male,9
+16,Tasman Region,2000,20–24,Female,36
+16,Tasman Region,2000,20–24,Male,39
+16,Tasman Region,2000,25–29,Female,90
+16,Tasman Region,2000,25–29,Male,87
+16,Tasman Region,2000,30–34,Female,93
+16,Tasman Region,2000,30–34,Male,117
+16,Tasman Region,2000,35–39,Female,33
+16,Tasman Region,2000,35–39,Male,54
+16,Tasman Region,2000,40–44,Female,3
+16,Tasman Region,2000,40–44,Male,9
+16,Tasman Region,2001,15–19,Female,3
+16,Tasman Region,2001,15–19,Male,9
+16,Tasman Region,2001,20–24,Female,36
+16,Tasman Region,2001,20–24,Male,27
+16,Tasman Region,2001,25–29,Female,87
+16,Tasman Region,2001,25–29,Male,87
+16,Tasman Region,2001,30–34,Female,90
+16,Tasman Region,2001,30–34,Male,78
+16,Tasman Region,2001,35–39,Female,27
+16,Tasman Region,2001,35–39,Male,48
+16,Tasman Region,2001,40–44,Female,6
+16,Tasman Region,2001,40–44,Male,6
+16,Tasman Region,2002,15–19,Female,6
+16,Tasman Region,2002,15–19,Male,12
+16,Tasman Region,2002,20–24,Female,30
+16,Tasman Region,2002,20–24,Male,33
+16,Tasman Region,2002,25–29,Female,87
+16,Tasman Region,2002,25–29,Male,78
+16,Tasman Region,2002,30–34,Female,69
+16,Tasman Region,2002,30–34,Male,81
+16,Tasman Region,2002,35–39,Female,39
+16,Tasman Region,2002,35–39,Male,33
+16,Tasman Region,2002,40–44,Female,6
+16,Tasman Region,2002,40–44,Male,6
+16,Tasman Region,2003,15–19,Female,9
+16,Tasman Region,2003,15–19,Male,15
+16,Tasman Region,2003,20–24,Female,36
+16,Tasman Region,2003,20–24,Male,36
+16,Tasman Region,2003,25–29,Female,66
+16,Tasman Region,2003,25–29,Male,72
+16,Tasman Region,2003,30–34,Female,96
+16,Tasman Region,2003,30–34,Male,87
+16,Tasman Region,2003,35–39,Female,48
+16,Tasman Region,2003,35–39,Male,39
+16,Tasman Region,2003,40–44,Female,9
+16,Tasman Region,2003,40–44,Male,9
+16,Tasman Region,2003,45–49,Female,0
+16,Tasman Region,2003,45–49,Male,0
+16,Tasman Region,2004,15–19,Female,9
+16,Tasman Region,2004,15–19,Male,9
+16,Tasman Region,2004,20–24,Female,36
+16,Tasman Region,2004,20–24,Male,39
+16,Tasman Region,2004,25–29,Female,75
+16,Tasman Region,2004,25–29,Male,75
+16,Tasman Region,2004,30–34,Female,114
+16,Tasman Region,2004,30–34,Male,102
+16,Tasman Region,2004,35–39,Female,51
+16,Tasman Region,2004,35–39,Male,51
+16,Tasman Region,2004,40–44,Female,6
+16,Tasman Region,2004,40–44,Male,12
+16,Tasman Region,2004,45–49,Female,0
+16,Tasman Region,2004,45–49,Male,3
+16,Tasman Region,2005,15–19,Female,21
+16,Tasman Region,2005,15–19,Male,9
+16,Tasman Region,2005,20–24,Female,36
+16,Tasman Region,2005,20–24,Male,33
+16,Tasman Region,2005,25–29,Female,48
+16,Tasman Region,2005,25–29,Male,63
+16,Tasman Region,2005,30–34,Female,102
+16,Tasman Region,2005,30–34,Male,87
+16,Tasman Region,2005,35–39,Female,45
+16,Tasman Region,2005,35–39,Male,48
+16,Tasman Region,2005,40–44,Female,15
+16,Tasman Region,2005,40–44,Male,12
+16,Tasman Region,2005,45–49,Male,3
+16,Tasman Region,2006,15–19,Female,15
+16,Tasman Region,2006,15–19,Male,9
+16,Tasman Region,2006,20–24,Female,33
+16,Tasman Region,2006,20–24,Male,36
+16,Tasman Region,2006,25–29,Female,69
+16,Tasman Region,2006,25–29,Male,51
+16,Tasman Region,2006,30–34,Female,84
+16,Tasman Region,2006,30–34,Male,99
+16,Tasman Region,2006,35–39,Female,63
+16,Tasman Region,2006,35–39,Male,57
+16,Tasman Region,2006,40–44,Female,9
+16,Tasman Region,2006,40–44,Male,12
+16,Tasman Region,2006,45–49,Female,0
+16,Tasman Region,2007,15–19,Female,21
+16,Tasman Region,2007,15–19,Male,15
+16,Tasman Region,2007,20–24,Female,33
+16,Tasman Region,2007,20–24,Male,39
+16,Tasman Region,2007,25–29,Female,66
+16,Tasman Region,2007,25–29,Male,63
+16,Tasman Region,2007,30–34,Female,87
+16,Tasman Region,2007,30–34,Male,93
+16,Tasman Region,2007,35–39,Female,54
+16,Tasman Region,2007,35–39,Male,48
+16,Tasman Region,2007,40–44,Female,6
+16,Tasman Region,2007,40–44,Male,12
+16,Tasman Region,2007,45–49,Male,3
+16,Tasman Region,2008,15–19,Female,15
+16,Tasman Region,2008,15–19,Male,12
+16,Tasman Region,2008,20–24,Female,45
+16,Tasman Region,2008,20–24,Male,45
+16,Tasman Region,2008,25–29,Female,81
+16,Tasman Region,2008,25–29,Male,87
+16,Tasman Region,2008,30–34,Female,72
+16,Tasman Region,2008,30–34,Male,78
+16,Tasman Region,2008,35–39,Female,57
+16,Tasman Region,2008,35–39,Male,57
+16,Tasman Region,2008,40–44,Female,6
+16,Tasman Region,2008,40–44,Male,12
+16,Tasman Region,2008,45–49,Female,3
+16,Tasman Region,2008,45–49,Male,3
+16,Tasman Region,2009,15–19,Female,9
+16,Tasman Region,2009,15–19,Male,21
+16,Tasman Region,2009,20–24,Female,42
+16,Tasman Region,2009,20–24,Male,33
+16,Tasman Region,2009,25–29,Female,63
+16,Tasman Region,2009,25–29,Male,66
+16,Tasman Region,2009,30–34,Female,57
+16,Tasman Region,2009,30–34,Male,78
+16,Tasman Region,2009,35–39,Female,57
+16,Tasman Region,2009,35–39,Male,60
+16,Tasman Region,2009,40–44,Female,6
+16,Tasman Region,2009,40–44,Male,9
+16,Tasman Region,2009,45–49,Female,3
+16,Tasman Region,2009,45–49,Male,3
+16,Tasman Region,2010,15–19,Female,18
+16,Tasman Region,2010,15–19,Male,12
+16,Tasman Region,2010,20–24,Female,42
+16,Tasman Region,2010,20–24,Male,42
+16,Tasman Region,2010,25–29,Female,63
+16,Tasman Region,2010,25–29,Male,60
+16,Tasman Region,2010,30–34,Female,81
+16,Tasman Region,2010,30–34,Male,90
+16,Tasman Region,2010,35–39,Female,45
+16,Tasman Region,2010,35–39,Male,51
+16,Tasman Region,2010,40–44,Female,18
+16,Tasman Region,2010,40–44,Male,15
+16,Tasman Region,2011,15–19,Female,6
+16,Tasman Region,2011,15–19,Male,12
+16,Tasman Region,2011,20–24,Female,51
+16,Tasman Region,2011,20–24,Male,54
+16,Tasman Region,2011,25–29,Female,72
+16,Tasman Region,2011,25–29,Male,72
+16,Tasman Region,2011,30–34,Female,54
+16,Tasman Region,2011,30–34,Male,69
+16,Tasman Region,2011,35–39,Female,48
+16,Tasman Region,2011,35–39,Male,48
+16,Tasman Region,2011,40–44,Female,12
+16,Tasman Region,2011,40–44,Male,12
+16,Tasman Region,2011,45–49,Male,0
+16,Tasman Region,2012,15–19,Female,18
+16,Tasman Region,2012,15–19,Male,15
+16,Tasman Region,2012,20–24,Female,39
+16,Tasman Region,2012,20–24,Male,30
+16,Tasman Region,2012,25–29,Female,66
+16,Tasman Region,2012,25–29,Male,75
+16,Tasman Region,2012,30–34,Female,72
+16,Tasman Region,2012,30–34,Male,72
+16,Tasman Region,2012,35–39,Female,45
+16,Tasman Region,2012,35–39,Male,45
+16,Tasman Region,2012,40–44,Female,9
+16,Tasman Region,2012,40–44,Male,12
+16,Tasman Region,2013,15–19,Female,9
+16,Tasman Region,2013,15–19,Male,12
+16,Tasman Region,2013,20–24,Female,39
+16,Tasman Region,2013,20–24,Male,42
+16,Tasman Region,2013,25–29,Female,75
+16,Tasman Region,2013,25–29,Male,63
+16,Tasman Region,2013,30–34,Female,69
+16,Tasman Region,2013,30–34,Male,69
+16,Tasman Region,2013,35–39,Female,57
+16,Tasman Region,2013,35–39,Male,42
+16,Tasman Region,2013,40–44,Female,12
+16,Tasman Region,2013,40–44,Male,9
+16,Tasman Region,2014,15–19,Female,9
+16,Tasman Region,2014,15–19,Male,6
+16,Tasman Region,2014,20–24,Female,24
+16,Tasman Region,2014,20–24,Male,45
+16,Tasman Region,2014,25–29,Female,48
+16,Tasman Region,2014,25–29,Male,63
+16,Tasman Region,2014,30–34,Female,60
+16,Tasman Region,2014,30–34,Male,75
+16,Tasman Region,2014,35–39,Female,48
+16,Tasman Region,2014,35–39,Male,39
+16,Tasman Region,2014,40–44,Female,9
+16,Tasman Region,2014,40–44,Male,12
+16,Tasman Region,2014,45–49,Male,0
+16,Tasman Region,2015,15–19,Female,9
+16,Tasman Region,2015,15–19,Male,12
+16,Tasman Region,2015,20–24,Female,42
+16,Tasman Region,2015,20–24,Male,36
+16,Tasman Region,2015,25–29,Female,63
+16,Tasman Region,2015,25–29,Male,78
+16,Tasman Region,2015,30–34,Female,54
+16,Tasman Region,2015,30–34,Male,60
+16,Tasman Region,2015,35–39,Female,48
+16,Tasman Region,2015,35–39,Male,42
+16,Tasman Region,2015,40–44,Female,9
+16,Tasman Region,2015,40–44,Male,6
+16,Tasman Region,2015,45–49,Male,3
+16,Tasman Region,2016,15–19,Female,6
+16,Tasman Region,2016,15–19,Male,9
+16,Tasman Region,2016,20–24,Female,33
+16,Tasman Region,2016,20–24,Male,42
+16,Tasman Region,2016,25–29,Female,57
+16,Tasman Region,2016,25–29,Male,54
+16,Tasman Region,2016,30–34,Female,72
+16,Tasman Region,2016,30–34,Male,78
+16,Tasman Region,2016,35–39,Female,33
+16,Tasman Region,2016,35–39,Male,42
+16,Tasman Region,2016,40–44,Female,6
+16,Tasman Region,2016,40–44,Male,12
+16,Tasman Region,2016,45–49,Female,3
+17,Nelson Region,1997,15–19,Female,18
+17,Nelson Region,1997,15–19,Male,21
+17,Nelson Region,1997,20–24,Female,51
+17,Nelson Region,1997,20–24,Male,54
+17,Nelson Region,1997,25–29,Female,78
+17,Nelson Region,1997,25–29,Male,63
+17,Nelson Region,1997,30–34,Female,63
+17,Nelson Region,1997,30–34,Male,93
+17,Nelson Region,1997,35–39,Female,30
+17,Nelson Region,1997,35–39,Male,36
+17,Nelson Region,1997,40–44,Female,6
+17,Nelson Region,1997,40–44,Male,9
+17,Nelson Region,1998,15–19,Female,18
+17,Nelson Region,1998,15–19,Male,24
+17,Nelson Region,1998,20–24,Female,42
+17,Nelson Region,1998,20–24,Male,39
+17,Nelson Region,1998,25–29,Female,75
+17,Nelson Region,1998,25–29,Male,75
+17,Nelson Region,1998,30–34,Female,75
+17,Nelson Region,1998,30–34,Male,78
+17,Nelson Region,1998,35–39,Female,33
+17,Nelson Region,1998,35–39,Male,45
+17,Nelson Region,1998,40–44,Female,6
+17,Nelson Region,1998,40–44,Male,6
+17,Nelson Region,1999,15–19,Female,12
+17,Nelson Region,1999,15–19,Male,9
+17,Nelson Region,1999,20–24,Female,36
+17,Nelson Region,1999,20–24,Male,54
+17,Nelson Region,1999,25–29,Female,87
+17,Nelson Region,1999,25–29,Male,87
+17,Nelson Region,1999,30–34,Female,72
+17,Nelson Region,1999,30–34,Male,81
+17,Nelson Region,1999,35–39,Female,36
+17,Nelson Region,1999,35–39,Male,36
+17,Nelson Region,1999,40–44,Female,6
+17,Nelson Region,1999,40–44,Male,9
+17,Nelson Region,1999,45–49,Male,0
+17,Nelson Region,2000,15–19,Female,21
+17,Nelson Region,2000,15–19,Male,15
+17,Nelson Region,2000,20–24,Female,24
+17,Nelson Region,2000,20–24,Male,36
+17,Nelson Region,2000,25–29,Female,87
+17,Nelson Region,2000,25–29,Male,81
+17,Nelson Region,2000,30–34,Female,66
+17,Nelson Region,2000,30–34,Male,84
+17,Nelson Region,2000,35–39,Female,39
+17,Nelson Region,2000,35–39,Male,51
+17,Nelson Region,2000,40–44,Female,9
+17,Nelson Region,2000,40–44,Male,9
+17,Nelson Region,2000,45–49,Female,3
+17,Nelson Region,2001,15–19,Female,15
+17,Nelson Region,2001,15–19,Male,15
+17,Nelson Region,2001,20–24,Female,51
+17,Nelson Region,2001,20–24,Male,48
+17,Nelson Region,2001,25–29,Female,72
+17,Nelson Region,2001,25–29,Male,90
+17,Nelson Region,2001,30–34,Female,87
+17,Nelson Region,2001,30–34,Male,87
+17,Nelson Region,2001,35–39,Female,42
+17,Nelson Region,2001,35–39,Male,39
+17,Nelson Region,2001,40–44,Female,9
+17,Nelson Region,2001,40–44,Male,9
+17,Nelson Region,2002,15–19,Female,12
+17,Nelson Region,2002,15–19,Male,18
+17,Nelson Region,2002,20–24,Female,45
+17,Nelson Region,2002,20–24,Male,48
+17,Nelson Region,2002,25–29,Female,69
+17,Nelson Region,2002,25–29,Male,75
+17,Nelson Region,2002,30–34,Female,66
+17,Nelson Region,2002,30–34,Male,72
+17,Nelson Region,2002,35–39,Female,42
+17,Nelson Region,2002,35–39,Male,39
+17,Nelson Region,2002,40–44,Female,9
+17,Nelson Region,2002,40–44,Male,9
+17,Nelson Region,2003,15–19,Female,18
+17,Nelson Region,2003,15–19,Male,18
+17,Nelson Region,2003,20–24,Female,33
+17,Nelson Region,2003,20–24,Male,51
+17,Nelson Region,2003,25–29,Female,63
+17,Nelson Region,2003,25–29,Male,57
+17,Nelson Region,2003,30–34,Female,96
+17,Nelson Region,2003,30–34,Male,90
+17,Nelson Region,2003,35–39,Female,45
+17,Nelson Region,2003,35–39,Male,48
+17,Nelson Region,2003,40–44,Female,18
+17,Nelson Region,2003,40–44,Male,9
+17,Nelson Region,2003,45–49,Female,0
+17,Nelson Region,2004,15–19,Female,18
+17,Nelson Region,2004,15–19,Male,15
+17,Nelson Region,2004,20–24,Female,51
+17,Nelson Region,2004,20–24,Male,48
+17,Nelson Region,2004,25–29,Female,63
+17,Nelson Region,2004,25–29,Male,75
+17,Nelson Region,2004,30–34,Female,93
+17,Nelson Region,2004,30–34,Male,84
+17,Nelson Region,2004,35–39,Female,57
+17,Nelson Region,2004,35–39,Male,51
+17,Nelson Region,2004,40–44,Female,12
+17,Nelson Region,2004,40–44,Male,15
+17,Nelson Region,2004,45–49,Male,0
+17,Nelson Region,2005,15–19,Female,18
+17,Nelson Region,2005,15–19,Male,30
+17,Nelson Region,2005,20–24,Female,45
+17,Nelson Region,2005,20–24,Male,45
+17,Nelson Region,2005,25–29,Female,54
+17,Nelson Region,2005,25–29,Male,66
+17,Nelson Region,2005,30–34,Female,81
+17,Nelson Region,2005,30–34,Male,78
+17,Nelson Region,2005,35–39,Female,39
+17,Nelson Region,2005,35–39,Male,45
+17,Nelson Region,2005,40–44,Female,12
+17,Nelson Region,2005,40–44,Male,9
+17,Nelson Region,2005,45–49,Female,3
+17,Nelson Region,2006,15–19,Female,12
+17,Nelson Region,2006,15–19,Male,18
+17,Nelson Region,2006,20–24,Female,42
+17,Nelson Region,2006,20–24,Male,48
+17,Nelson Region,2006,25–29,Female,60
+17,Nelson Region,2006,25–29,Male,63
+17,Nelson Region,2006,30–34,Female,87
+17,Nelson Region,2006,30–34,Male,87
+17,Nelson Region,2006,35–39,Female,39
+17,Nelson Region,2006,35–39,Male,45
+17,Nelson Region,2006,40–44,Female,12
+17,Nelson Region,2006,40–44,Male,6
+17,Nelson Region,2006,45–49,Female,0
+17,Nelson Region,2007,15–19,Female,21
+17,Nelson Region,2007,15–19,Male,21
+17,Nelson Region,2007,20–24,Female,51
+17,Nelson Region,2007,20–24,Male,45
+17,Nelson Region,2007,25–29,Female,60
+17,Nelson Region,2007,25–29,Male,69
+17,Nelson Region,2007,30–34,Female,96
+17,Nelson Region,2007,30–34,Male,84
+17,Nelson Region,2007,35–39,Female,48
+17,Nelson Region,2007,35–39,Male,57
+17,Nelson Region,2007,40–44,Female,12
+17,Nelson Region,2007,40–44,Male,6
+17,Nelson Region,2007,45–49,Female,0
+17,Nelson Region,2008,15–19,Female,24
+17,Nelson Region,2008,15–19,Male,21
+17,Nelson Region,2008,20–24,Female,54
+17,Nelson Region,2008,20–24,Male,72
+17,Nelson Region,2008,25–29,Female,69
+17,Nelson Region,2008,25–29,Male,81
+17,Nelson Region,2008,30–34,Female,93
+17,Nelson Region,2008,30–34,Male,90
+17,Nelson Region,2008,35–39,Female,54
+17,Nelson Region,2008,35–39,Male,66
+17,Nelson Region,2008,40–44,Female,15
+17,Nelson Region,2008,40–44,Male,12
+17,Nelson Region,2008,45–49,Male,0
+17,Nelson Region,2009,15–19,Female,21
+17,Nelson Region,2009,15–19,Male,27
+17,Nelson Region,2009,20–24,Female,45
+17,Nelson Region,2009,20–24,Male,66
+17,Nelson Region,2009,25–29,Female,63
+17,Nelson Region,2009,25–29,Male,81
+17,Nelson Region,2009,30–34,Female,78
+17,Nelson Region,2009,30–34,Male,90
+17,Nelson Region,2009,35–39,Female,57
+17,Nelson Region,2009,35–39,Male,54
+17,Nelson Region,2009,40–44,Female,9
+17,Nelson Region,2009,40–44,Male,21
+17,Nelson Region,2010,15–19,Female,15
+17,Nelson Region,2010,15–19,Male,18
+17,Nelson Region,2010,20–24,Female,63
+17,Nelson Region,2010,20–24,Male,60
+17,Nelson Region,2010,25–29,Female,75
+17,Nelson Region,2010,25–29,Male,54
+17,Nelson Region,2010,30–34,Female,87
+17,Nelson Region,2010,30–34,Male,99
+17,Nelson Region,2010,35–39,Female,60
+17,Nelson Region,2010,35–39,Male,57
+17,Nelson Region,2010,40–44,Female,15
+17,Nelson Region,2010,40–44,Male,9
+17,Nelson Region,2010,45–49,Female,0
+17,Nelson Region,2011,15–19,Female,15
+17,Nelson Region,2011,15–19,Male,18
+17,Nelson Region,2011,20–24,Female,51
+17,Nelson Region,2011,20–24,Male,60
+17,Nelson Region,2011,25–29,Female,57
+17,Nelson Region,2011,25–29,Male,90
+17,Nelson Region,2011,30–34,Female,72
+17,Nelson Region,2011,30–34,Male,84
+17,Nelson Region,2011,35–39,Female,54
+17,Nelson Region,2011,35–39,Male,57
+17,Nelson Region,2011,40–44,Female,9
+17,Nelson Region,2011,40–44,Male,12
+17,Nelson Region,2011,45–49,Male,3
+17,Nelson Region,2012,15–19,Female,15
+17,Nelson Region,2012,15–19,Male,15
+17,Nelson Region,2012,20–24,Female,48
+17,Nelson Region,2012,20–24,Male,72
+17,Nelson Region,2012,25–29,Female,66
+17,Nelson Region,2012,25–29,Male,69
+17,Nelson Region,2012,30–34,Female,78
+17,Nelson Region,2012,30–34,Male,93
+17,Nelson Region,2012,35–39,Female,51
+17,Nelson Region,2012,35–39,Male,63
+17,Nelson Region,2012,40–44,Female,12
+17,Nelson Region,2012,40–44,Male,9
+17,Nelson Region,2012,45–49,Female,0
+17,Nelson Region,2012,45–49,Male,0
+17,Nelson Region,2013,15–19,Female,12
+17,Nelson Region,2013,15–19,Male,15
+17,Nelson Region,2013,20–24,Female,45
+17,Nelson Region,2013,20–24,Male,51
+17,Nelson Region,2013,25–29,Female,60
+17,Nelson Region,2013,25–29,Male,63
+17,Nelson Region,2013,30–34,Female,78
+17,Nelson Region,2013,30–34,Male,81
+17,Nelson Region,2013,35–39,Female,48
+17,Nelson Region,2013,35–39,Male,60
+17,Nelson Region,2013,40–44,Female,12
+17,Nelson Region,2013,40–44,Male,12
+17,Nelson Region,2013,45–49,Female,3
+17,Nelson Region,2014,15–19,Female,9
+17,Nelson Region,2014,15–19,Male,18
+17,Nelson Region,2014,20–24,Female,51
+17,Nelson Region,2014,20–24,Male,48
+17,Nelson Region,2014,25–29,Female,69
+17,Nelson Region,2014,25–29,Male,81
+17,Nelson Region,2014,30–34,Female,78
+17,Nelson Region,2014,30–34,Male,54
+17,Nelson Region,2014,35–39,Female,54
+17,Nelson Region,2014,35–39,Male,48
+17,Nelson Region,2014,40–44,Female,12
+17,Nelson Region,2014,40–44,Male,18
+17,Nelson Region,2014,45–49,Female,3
+17,Nelson Region,2015,15–19,Female,15
+17,Nelson Region,2015,15–19,Male,15
+17,Nelson Region,2015,20–24,Female,33
+17,Nelson Region,2015,20–24,Male,57
+17,Nelson Region,2015,25–29,Female,63
+17,Nelson Region,2015,25–29,Male,75
+17,Nelson Region,2015,30–34,Female,78
+17,Nelson Region,2015,30–34,Male,75
+17,Nelson Region,2015,35–39,Female,57
+17,Nelson Region,2015,35–39,Male,51
+17,Nelson Region,2015,40–44,Female,9
+17,Nelson Region,2015,40–44,Male,12
+17,Nelson Region,2015,45–49,Female,3
+17,Nelson Region,2015,45–49,Male,0
+17,Nelson Region,2016,15–19,Female,12
+17,Nelson Region,2016,15–19,Male,12
+17,Nelson Region,2016,20–24,Female,36
+17,Nelson Region,2016,20–24,Male,54
+17,Nelson Region,2016,25–29,Female,81
+17,Nelson Region,2016,25–29,Male,63
+17,Nelson Region,2016,30–34,Female,72
+17,Nelson Region,2016,30–34,Male,87
+17,Nelson Region,2016,35–39,Female,51
+17,Nelson Region,2016,35–39,Male,54
+17,Nelson Region,2016,40–44,Female,18
+17,Nelson Region,2016,40–44,Male,9
+17,Nelson Region,2016,45–49,Male,0
+18,Marlborough Region,1997,15–19,Female,18
+18,Marlborough Region,1997,15–19,Male,18
+18,Marlborough Region,1997,20–24,Female,42
+18,Marlborough Region,1997,20–24,Male,48
+18,Marlborough Region,1997,25–29,Female,84
+18,Marlborough Region,1997,25–29,Male,75
+18,Marlborough Region,1997,30–34,Female,66
+18,Marlborough Region,1997,30–34,Male,72
+18,Marlborough Region,1997,35–39,Female,27
+18,Marlborough Region,1997,35–39,Male,24
+18,Marlborough Region,1997,40–44,Female,3
+18,Marlborough Region,1997,40–44,Male,6
+18,Marlborough Region,1997,45–49,Male,0
+18,Marlborough Region,1998,15–19,Female,9
+18,Marlborough Region,1998,15–19,Male,15
+18,Marlborough Region,1998,20–24,Female,48
+18,Marlborough Region,1998,20–24,Male,48
+18,Marlborough Region,1998,25–29,Female,75
+18,Marlborough Region,1998,25–29,Male,78
+18,Marlborough Region,1998,30–34,Female,75
+18,Marlborough Region,1998,30–34,Male,72
+18,Marlborough Region,1998,35–39,Female,39
+18,Marlborough Region,1998,35–39,Male,27
+18,Marlborough Region,1998,40–44,Female,9
+18,Marlborough Region,1998,40–44,Male,3
+18,Marlborough Region,1999,15–19,Female,15
+18,Marlborough Region,1999,15–19,Male,12
+18,Marlborough Region,1999,20–24,Female,30
+18,Marlborough Region,1999,20–24,Male,42
+18,Marlborough Region,1999,25–29,Female,60
+18,Marlborough Region,1999,25–29,Male,57
+18,Marlborough Region,1999,30–34,Female,72
+18,Marlborough Region,1999,30–34,Male,78
+18,Marlborough Region,1999,35–39,Female,30
+18,Marlborough Region,1999,35–39,Male,42
+18,Marlborough Region,1999,40–44,Female,3
+18,Marlborough Region,1999,40–44,Male,6
+18,Marlborough Region,2000,15–19,Female,15
+18,Marlborough Region,2000,15–19,Male,12
+18,Marlborough Region,2000,20–24,Female,39
+18,Marlborough Region,2000,20–24,Male,48
+18,Marlborough Region,2000,25–29,Female,57
+18,Marlborough Region,2000,25–29,Male,87
+18,Marlborough Region,2000,30–34,Female,60
+18,Marlborough Region,2000,30–34,Male,90
+18,Marlborough Region,2000,35–39,Female,27
+18,Marlborough Region,2000,35–39,Male,45
+18,Marlborough Region,2000,40–44,Female,6
+18,Marlborough Region,2000,40–44,Male,12
+18,Marlborough Region,2001,15–19,Female,15
+18,Marlborough Region,2001,15–19,Male,15
+18,Marlborough Region,2001,20–24,Female,36
+18,Marlborough Region,2001,20–24,Male,39
+18,Marlborough Region,2001,25–29,Female,69
+18,Marlborough Region,2001,25–29,Male,60
+18,Marlborough Region,2001,30–34,Female,72
+18,Marlborough Region,2001,30–34,Male,66
+18,Marlborough Region,2001,35–39,Female,42
+18,Marlborough Region,2001,35–39,Male,36
+18,Marlborough Region,2001,40–44,Female,3
+18,Marlborough Region,2001,40–44,Male,3
+18,Marlborough Region,2002,15–19,Female,15
+18,Marlborough Region,2002,15–19,Male,12
+18,Marlborough Region,2002,20–24,Female,36
+18,Marlborough Region,2002,20–24,Male,39
+18,Marlborough Region,2002,25–29,Female,54
+18,Marlborough Region,2002,25–29,Male,66
+18,Marlborough Region,2002,30–34,Female,51
+18,Marlborough Region,2002,30–34,Male,60
+18,Marlborough Region,2002,35–39,Female,33
+18,Marlborough Region,2002,35–39,Male,33
+18,Marlborough Region,2002,40–44,Female,6
+18,Marlborough Region,2002,40–44,Male,3
+18,Marlborough Region,2002,45–49,Male,0
+18,Marlborough Region,2003,15–19,Female,18
+18,Marlborough Region,2003,15–19,Male,21
+18,Marlborough Region,2003,20–24,Female,45
+18,Marlborough Region,2003,20–24,Male,30
+18,Marlborough Region,2003,25–29,Female,54
+18,Marlborough Region,2003,25–29,Male,63
+18,Marlborough Region,2003,30–34,Female,69
+18,Marlborough Region,2003,30–34,Male,81
+18,Marlborough Region,2003,35–39,Female,30
+18,Marlborough Region,2003,35–39,Male,30
+18,Marlborough Region,2003,40–44,Female,6
+18,Marlborough Region,2003,40–44,Male,3
+18,Marlborough Region,2003,45–49,Male,0
+18,Marlborough Region,2004,15–19,Female,6
+18,Marlborough Region,2004,15–19,Male,15
+18,Marlborough Region,2004,20–24,Female,39
+18,Marlborough Region,2004,20–24,Male,51
+18,Marlborough Region,2004,25–29,Female,57
+18,Marlborough Region,2004,25–29,Male,81
+18,Marlborough Region,2004,30–34,Female,60
+18,Marlborough Region,2004,30–34,Male,78
+18,Marlborough Region,2004,35–39,Female,39
+18,Marlborough Region,2004,35–39,Male,39
+18,Marlborough Region,2004,40–44,Female,3
+18,Marlborough Region,2004,40–44,Male,6
+18,Marlborough Region,2005,15–19,Female,18
+18,Marlborough Region,2005,15–19,Male,18
+18,Marlborough Region,2005,20–24,Female,36
+18,Marlborough Region,2005,20–24,Male,39
+18,Marlborough Region,2005,25–29,Female,51
+18,Marlborough Region,2005,25–29,Male,42
+18,Marlborough Region,2005,30–34,Female,84
+18,Marlborough Region,2005,30–34,Male,72
+18,Marlborough Region,2005,35–39,Female,36
+18,Marlborough Region,2005,35–39,Male,45
+18,Marlborough Region,2005,40–44,Female,3
+18,Marlborough Region,2005,40–44,Male,9
+18,Marlborough Region,2006,15–19,Female,27
+18,Marlborough Region,2006,15–19,Male,24
+18,Marlborough Region,2006,20–24,Female,39
+18,Marlborough Region,2006,20–24,Male,39
+18,Marlborough Region,2006,25–29,Female,54
+18,Marlborough Region,2006,25–29,Male,63
+18,Marlborough Region,2006,30–34,Female,72
+18,Marlborough Region,2006,30–34,Male,81
+18,Marlborough Region,2006,35–39,Female,36
+18,Marlborough Region,2006,35–39,Male,42
+18,Marlborough Region,2006,40–44,Female,6
+18,Marlborough Region,2006,40–44,Male,6
+18,Marlborough Region,2006,45–49,Male,0
+18,Marlborough Region,2007,15–19,Female,15
+18,Marlborough Region,2007,15–19,Male,15
+18,Marlborough Region,2007,20–24,Female,42
+18,Marlborough Region,2007,20–24,Male,33
+18,Marlborough Region,2007,25–29,Female,51
+18,Marlborough Region,2007,25–29,Male,60
+18,Marlborough Region,2007,30–34,Female,78
+18,Marlborough Region,2007,30–34,Male,90
+18,Marlborough Region,2007,35–39,Female,27
+18,Marlborough Region,2007,35–39,Male,57
+18,Marlborough Region,2007,40–44,Female,3
+18,Marlborough Region,2007,40–44,Male,12
+18,Marlborough Region,2007,45–49,Male,0
+18,Marlborough Region,2008,15–19,Female,12
+18,Marlborough Region,2008,15–19,Male,21
+18,Marlborough Region,2008,20–24,Female,45
+18,Marlborough Region,2008,20–24,Male,39
+18,Marlborough Region,2008,25–29,Female,87
+18,Marlborough Region,2008,25–29,Male,75
+18,Marlborough Region,2008,30–34,Female,87
+18,Marlborough Region,2008,30–34,Male,84
+18,Marlborough Region,2008,35–39,Female,45
+18,Marlborough Region,2008,35–39,Male,42
+18,Marlborough Region,2008,40–44,Female,9
+18,Marlborough Region,2008,40–44,Male,9
+18,Marlborough Region,2008,45–49,Male,0
+18,Marlborough Region,2009,15–19,Female,24
+18,Marlborough Region,2009,15–19,Male,21
+18,Marlborough Region,2009,20–24,Female,54
+18,Marlborough Region,2009,20–24,Male,39
+18,Marlborough Region,2009,25–29,Female,60
+18,Marlborough Region,2009,25–29,Male,99
+18,Marlborough Region,2009,30–34,Female,90
+18,Marlborough Region,2009,30–34,Male,69
+18,Marlborough Region,2009,35–39,Female,42
+18,Marlborough Region,2009,35–39,Male,48
+18,Marlborough Region,2009,40–44,Female,12
+18,Marlborough Region,2009,40–44,Male,3
+18,Marlborough Region,2009,45–49,Male,3
+18,Marlborough Region,2010,15–19,Female,18
+18,Marlborough Region,2010,15–19,Male,12
+18,Marlborough Region,2010,20–24,Female,48
+18,Marlborough Region,2010,20–24,Male,45
+18,Marlborough Region,2010,25–29,Female,84
+18,Marlborough Region,2010,25–29,Male,78
+18,Marlborough Region,2010,30–34,Female,81
+18,Marlborough Region,2010,30–34,Male,69
+18,Marlborough Region,2010,35–39,Female,45
+18,Marlborough Region,2010,35–39,Male,63
+18,Marlborough Region,2010,40–44,Female,12
+18,Marlborough Region,2010,40–44,Male,12
+18,Marlborough Region,2010,45–49,Female,0
+18,Marlborough Region,2011,15–19,Female,18
+18,Marlborough Region,2011,15–19,Male,18
+18,Marlborough Region,2011,20–24,Female,39
+18,Marlborough Region,2011,20–24,Male,45
+18,Marlborough Region,2011,25–29,Female,69
+18,Marlborough Region,2011,25–29,Male,78
+18,Marlborough Region,2011,30–34,Female,84
+18,Marlborough Region,2011,30–34,Male,90
+18,Marlborough Region,2011,35–39,Female,48
+18,Marlborough Region,2011,35–39,Male,51
+18,Marlborough Region,2011,40–44,Female,3
+18,Marlborough Region,2011,40–44,Male,12
+18,Marlborough Region,2012,15–19,Female,15
+18,Marlborough Region,2012,15–19,Male,15
+18,Marlborough Region,2012,20–24,Female,42
+18,Marlborough Region,2012,20–24,Male,60
+18,Marlborough Region,2012,25–29,Female,72
+18,Marlborough Region,2012,25–29,Male,66
+18,Marlborough Region,2012,30–34,Female,81
+18,Marlborough Region,2012,30–34,Male,69
+18,Marlborough Region,2012,35–39,Female,45
+18,Marlborough Region,2012,35–39,Male,57
+18,Marlborough Region,2012,40–44,Female,6
+18,Marlborough Region,2012,40–44,Male,3
+18,Marlborough Region,2012,45–49,Male,3
+18,Marlborough Region,2013,15–19,Female,15
+18,Marlborough Region,2013,15–19,Male,12
+18,Marlborough Region,2013,20–24,Female,42
+18,Marlborough Region,2013,20–24,Male,36
+18,Marlborough Region,2013,25–29,Female,72
+18,Marlborough Region,2013,25–29,Male,66
+18,Marlborough Region,2013,30–34,Female,90
+18,Marlborough Region,2013,30–34,Male,66
+18,Marlborough Region,2013,35–39,Female,45
+18,Marlborough Region,2013,35–39,Male,27
+18,Marlborough Region,2013,40–44,Female,6
+18,Marlborough Region,2013,40–44,Male,9
+18,Marlborough Region,2013,45–49,Female,0
+18,Marlborough Region,2014,15–19,Female,12
+18,Marlborough Region,2014,15–19,Male,18
+18,Marlborough Region,2014,20–24,Female,48
+18,Marlborough Region,2014,20–24,Male,42
+18,Marlborough Region,2014,25–29,Female,60
+18,Marlborough Region,2014,25–29,Male,66
+18,Marlborough Region,2014,30–34,Female,93
+18,Marlborough Region,2014,30–34,Male,63
+18,Marlborough Region,2014,35–39,Female,39
+18,Marlborough Region,2014,35–39,Male,48
+18,Marlborough Region,2014,40–44,Female,18
+18,Marlborough Region,2014,40–44,Male,12
+18,Marlborough Region,2015,15–19,Female,6
+18,Marlborough Region,2015,15–19,Male,18
+18,Marlborough Region,2015,20–24,Female,36
+18,Marlborough Region,2015,20–24,Male,57
+18,Marlborough Region,2015,25–29,Female,72
+18,Marlborough Region,2015,25–29,Male,84
+18,Marlborough Region,2015,30–34,Female,63
+18,Marlborough Region,2015,30–34,Male,63
+18,Marlborough Region,2015,35–39,Female,30
+18,Marlborough Region,2015,35–39,Male,48
+18,Marlborough Region,2015,40–44,Female,12
+18,Marlborough Region,2015,40–44,Male,9
+18,Marlborough Region,2015,45–49,Male,0
+18,Marlborough Region,2016,15–19,Female,12
+18,Marlborough Region,2016,15–19,Male,18
+18,Marlborough Region,2016,20–24,Female,42
+18,Marlborough Region,2016,20–24,Male,45
+18,Marlborough Region,2016,25–29,Female,69
+18,Marlborough Region,2016,25–29,Male,60
+18,Marlborough Region,2016,30–34,Female,69
+18,Marlborough Region,2016,30–34,Male,75
+18,Marlborough Region,2016,35–39,Female,36
+18,Marlborough Region,2016,35–39,Male,42
+18,Marlborough Region,2016,40–44,Female,9
+18,Marlborough Region,2016,40–44,Male,9
+99,Area Outside Region,1997,20–24,Female,0
+99,Area Outside Region,1997,20–24,Male,3
+99,Area Outside Region,1997,25–29,Female,0
+99,Area Outside Region,1997,25–29,Male,3
+99,Area Outside Region,1997,30–34,Male,0
+99,Area Outside Region,1997,35–39,Male,0
+99,Area Outside Region,1998,15–19,Male,3
+99,Area Outside Region,1998,20–24,Female,3
+99,Area Outside Region,1998,20–24,Male,3
+99,Area Outside Region,1998,25–29,Female,3
+99,Area Outside Region,1998,25–29,Male,3
+99,Area Outside Region,1998,30–34,Male,3
+99,Area Outside Region,1998,35–39,Female,0
+99,Area Outside Region,1998,35–39,Male,3
+99,Area Outside Region,1999,15–19,Male,3
+99,Area Outside Region,1999,20–24,Female,0
+99,Area Outside Region,1999,20–24,Male,3
+99,Area Outside Region,1999,25–29,Female,0
+99,Area Outside Region,1999,25–29,Male,3
+99,Area Outside Region,1999,30–34,Female,0
+99,Area Outside Region,1999,30–34,Male,0
+99,Area Outside Region,1999,35–39,Female,0
+99,Area Outside Region,1999,35–39,Male,3
+99,Area Outside Region,2000,15–19,Female,0
+99,Area Outside Region,2000,15–19,Male,0
+99,Area Outside Region,2000,20–24,Female,0
+99,Area Outside Region,2000,25–29,Female,0
+99,Area Outside Region,2000,25–29,Male,3
+99,Area Outside Region,2000,30–34,Female,0
+99,Area Outside Region,2000,30–34,Male,0
+99,Area Outside Region,2000,40–44,Female,0
+99,Area Outside Region,2000,40–44,Male,0
+99,Area Outside Region,2001,15–19,Male,0
+99,Area Outside Region,2001,20–24,Female,3
+99,Area Outside Region,2001,20–24,Male,3
+99,Area Outside Region,2001,25–29,Female,3
+99,Area Outside Region,2001,30–34,Male,3
+99,Area Outside Region,2001,35–39,Female,0
+99,Area Outside Region,2001,35–39,Male,0
+99,Area Outside Region,2002,15–19,Female,0
+99,Area Outside Region,2002,25–29,Female,3
+99,Area Outside Region,2002,30–34,Female,3
+99,Area Outside Region,2002,30–34,Male,3
+99,Area Outside Region,2002,35–39,Female,0
+99,Area Outside Region,2003,15–19,Female,0
+99,Area Outside Region,2003,15–19,Male,0
+99,Area Outside Region,2003,20–24,Female,3
+99,Area Outside Region,2003,20–24,Male,3
+99,Area Outside Region,2003,25–29,Female,0
+99,Area Outside Region,2003,25–29,Male,0
+99,Area Outside Region,2003,30–34,Female,3
+99,Area Outside Region,2003,30–34,Male,0
+99,Area Outside Region,2003,35–39,Male,3
+99,Area Outside Region,2004,15–19,Female,3
+99,Area Outside Region,2004,15–19,Male,3
+99,Area Outside Region,2004,20–24,Female,0
+99,Area Outside Region,2004,20–24,Male,6
+99,Area Outside Region,2004,25–29,Female,0
+99,Area Outside Region,2004,25–29,Male,0
+99,Area Outside Region,2004,30–34,Female,3
+99,Area Outside Region,2004,30–34,Male,0
+99,Area Outside Region,2004,35–39,Male,3
+99,Area Outside Region,2005,20–24,Male,3
+99,Area Outside Region,2005,25–29,Male,3
+99,Area Outside Region,2005,30–34,Female,3
+99,Area Outside Region,2005,30–34,Male,3
+99,Area Outside Region,2006,20–24,Female,0
+99,Area Outside Region,2006,20–24,Male,0
+99,Area Outside Region,2006,25–29,Male,0
+99,Area Outside Region,2006,30–34,Female,0
+99,Area Outside Region,2006,30–34,Male,3
+99,Area Outside Region,2006,35–39,Female,0
+99,Area Outside Region,2006,35–39,Male,0
+99,Area Outside Region,2007,20–24,Female,3
+99,Area Outside Region,2007,20–24,Male,3
+99,Area Outside Region,2007,30–34,Female,0
+99,Area Outside Region,2007,30–34,Male,0
+99,Area Outside Region,2007,35–39,Female,0
+99,Area Outside Region,2007,35–39,Male,3
+99,Area Outside Region,2008,15–19,Female,0
+99,Area Outside Region,2008,20–24,Female,3
+99,Area Outside Region,2008,20–24,Male,0
+99,Area Outside Region,2008,25–29,Female,3
+99,Area Outside Region,2008,25–29,Male,3
+99,Area Outside Region,2008,30–34,Female,0
+99,Area Outside Region,2008,35–39,Female,0
+99,Area Outside Region,2008,35–39,Male,0
+99,Area Outside Region,2009,25–29,Female,0
+99,Area Outside Region,2009,35–39,Female,0
+99,Area Outside Region,2009,35–39,Male,0
+99,Area Outside Region,2010,20–24,Male,3
+99,Area Outside Region,2010,25–29,Female,0
+99,Area Outside Region,2010,25–29,Male,0
+99,Area Outside Region,2010,35–39,Female,0
+99,Area Outside Region,2010,35–39,Male,3
+99,Area Outside Region,2010,40–44,Male,0
+99,Area Outside Region,2011,20–24,Male,3
+99,Area Outside Region,2011,25–29,Female,3
+99,Area Outside Region,2011,25–29,Male,0
+99,Area Outside Region,2011,30–34,Male,3
+99,Area Outside Region,2011,35–39,Male,3
+99,Area Outside Region,2011,40–44,Female,0
+99,Area Outside Region,2011,40–44,Male,3
+99,Area Outside Region,2012,15–19,Female,3
+99,Area Outside Region,2012,20–24,Male,0
+99,Area Outside Region,2012,25–29,Female,3
+99,Area Outside Region,2012,30–34,Female,3
+99,Area Outside Region,2012,35–39,Female,0
+99,Area Outside Region,2013,20–24,Male,3
+99,Area Outside Region,2013,25–29,Female,3
+99,Area Outside Region,2013,25–29,Male,0
+99,Area Outside Region,2013,30–34,Female,3
+99,Area Outside Region,2013,35–39,Female,0
+99,Area Outside Region,2013,40–44,Male,0
+99,Area Outside Region,2014,25–29,Female,0
+99,Area Outside Region,2014,30–34,Female,3
+99,Area Outside Region,2014,30–34,Male,0
+99,Area Outside Region,2014,40–44,Male,3
+99,Area Outside Region,2015,15–19,Male,0
+99,Area Outside Region,2015,20–24,Male,3
+99,Area Outside Region,2015,25–29,Female,3
+99,Area Outside Region,2015,30–34,Female,0
+99,Area Outside Region,2015,30–34,Male,0
+99,Area Outside Region,2016,15–19,Female,0
+99,Area Outside Region,2016,20–24,Male,0
+99,Area Outside Region,2016,30–34,Female,3
+99,Area Outside Region,2016,30–34,Male,0
