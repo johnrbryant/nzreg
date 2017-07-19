@@ -8,7 +8,10 @@
 #' multiples of 3.  Counts below 6 are suppressed in the original data,
 #' to preserve confidentiality.  Values for these counts have been imputed,
 #' by fitting a loglinear model to the data, and then randomly drawing
-## 0's and 3's, based on the fitted totals.
+#' 0's and 3's, based on the fitted totals.
+#'
+#' \code{age} means age at the start of the 5-year interval - not age at the
+#' time of the census.
 #'
 #' @format An array with dimensions "age", "sex", "region_orig",
 #' "region_dest", and "time"

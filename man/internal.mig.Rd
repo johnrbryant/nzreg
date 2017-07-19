@@ -20,5 +20,10 @@ at the time of the census.  The counts have been rounded to
 multiples of 3.  Counts below 6 are suppressed in the original data,
 to preserve confidentiality.  Values for these counts have been imputed,
 by fitting a loglinear model to the data, and then randomly drawing
+0's and 3's, based on the fitted totals.
+}
+\details{
+\code{age} means age at the start of the 5-year interval - not age at the
+time of the census.
 }
 \keyword{datasets}

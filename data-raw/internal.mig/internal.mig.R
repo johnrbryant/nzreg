@@ -17,9 +17,8 @@ internal.mig <- read_csv("data-raw/internal.mig/migr_transitions_rc13_9613_rr3.c
            region_orig = factor(region_orig, levels = c(levels(region_dest), "Not stated"))) %>%
     mutate(age = substr(age, start = 1, stop = 2),
            age = as.integer(age),
-           age = ifelse(age < 90, paste(age, age + 4, sep = "-"), "90+"),
-           age = factor(age,
-                        levels = c(paste(seq(5, 85, 5), seq(9, 89, 5), sep = "-"), "90+"))) %>%
+           age = ifelse(age < 90, paste(age - 5, age + 1, sep = "-"), "85+"),
+           age = factor(age, levels = unique(age))) %>%
     mutate(time = paste(census_year - 4, census_year, sep = "-")) %>%
     mutate(count = as.integer(count)) %>%
     with(., tapply(count, data.frame(age, sex, region_orig, region_dest, time), sum))
