@@ -1,5 +1,5 @@
 
-#' Internal migration flows between census years, in New Zealand, 1996-2013.
+#' Internal migration flows between census years, in New Zealand, 1991-2013.
 #'
 #' The data come from the "address 5 year ago" question in the population
 #' census.  \code{"region_orig"} is the person's region 5 years before
@@ -12,6 +12,17 @@
 #'
 #' \code{age} means age at the start of the 5-year interval - not age at the
 #' time of the census.
+#'
+#' @section Warning:
+#' Censuses in New Zealand are generally carried out at 5-year intervals.
+#' The 2011 Census was, however, delayed to 2013 because of an earthquake.
+#' This means that there is a gap in the series between the periods
+#' 2001-2006 and 2008-2013. If using the package \code{dembase},
+#' it is necessary to override the defaults for function \code{Counts},
+#' which assumes that time dimensions do not have gaps:
+#'
+#' \code{mig <- Counts(nzreg::internal.mig, dimtypes = c(time = "state"))}
+#' 
 #'
 #' @format An array with dimensions "age", "sex", "region_orig",
 #' "region_dest", and "time"

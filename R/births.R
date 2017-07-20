@@ -6,6 +6,8 @@
 #'
 #' The years are June years.  For instance, the year "1997" runs from 1 July 1996
 #' to 30 Jun 1997.
+#'
+#' To preserve confidentiality, birth counts have been randomly rounded to base 3.
 #' 
 #' Births to mothers aged less than 15 have been included in age group
 #' \code{"15-19"}, and all births to mothers aged
