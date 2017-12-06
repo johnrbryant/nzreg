@@ -1,7 +1,7 @@
 Package: nzreg
 Type: Package
 Title: Data on New Zealand Regions
-Version: 0.1.0
+Version: 0.1.1
 Author: John Bryant and Kirsten Nissen
 Maintainer: John Bryant <john.bryant@stats.govt.nz>
 Description: Confidentialised data about 16 New Zealand regions,

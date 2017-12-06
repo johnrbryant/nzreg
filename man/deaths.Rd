@@ -15,4 +15,7 @@ deaths
 The years are June years.  For instance, the year "1997" runs from 1 July 1996
 to 30 Jun 1997.
 }
+\details{
+To preserve confidentiality, death counts have been randomly rounded to base 3.
+}
 \keyword{datasets}

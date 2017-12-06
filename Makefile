@@ -5,6 +5,7 @@ all: data/births.rda \
      data/deaths.rda \
      data/external.mig.rda \
      data/internal.mig.rda \
+     data/idi.erp.rda \
      data/population.rda
 
 
@@ -22,6 +23,10 @@ data/external.mig.rda : data-raw/external.mig/external.mig.R \
 
 data/internal.mig.rda : data-raw/internal.mig/internal.mig.R \
                         data-raw/internal.mig/migr_transitions_rc13_9613_rr3.csv
+	Rscript $<
+
+data/idi.erp.rda : data-raw/idi.erp/idi.erp.R \
+                   data-raw/idi.erp/exp-pop-estimates-2007-16-csv.csv
 	Rscript $<
 
 data/population.rda : data-raw/population/population.R \

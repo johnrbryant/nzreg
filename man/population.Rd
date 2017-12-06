@@ -4,7 +4,7 @@
 \name{population}
 \alias{population}
 \title{Estimates of New Zealand population by age, sex, and region, 1996-2016.}
-\format{An array with dimensions "age", "sex", "region", and "year"}
+\format{An array with dimensions "age", "sex", "region", and "time"}
 \source{
 Custom tabulation from Statistics New Zealand.
 }
